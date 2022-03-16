@@ -23,7 +23,7 @@
   <entry>
     <title>2019年10月21日07:28:00</title>
     <url>/Linkeer365TinyMoment/4171ef8e/</url>
-    <content><![CDATA[<p>又是好几天没有写日记了, 但我实际上并不是特别焦虑, 因为人生中的确有些日子就是平淡的被忘掉的, 很多时候想想这些日子和绝大多数的古人宿命是多么的相似.<br>我的情感过于炽盛, 这可能是我很致命的一个弱点, 我必须要很久才能平复心情, 比如说一个知乎的mtf大佬<a href="https://www.zhihu.com/people/rqy-77/pins">_rqy</a>发的想法中有一条是推荐一首歌<a href="https://www.bilibili.com/video/av71624969">女の子になりたい</a>, 我去听了以后发现, 哇超好听的!! 最好结合着视频里面的那个萌妹一起食用为佳~</p>
+    <content><![CDATA[<p>又是好几天没有写日记了, 但我实际上并不是特别焦虑, 因为人生中的确有些日子就是平淡的被忘掉的, 很多时候想想这些日子和绝大多数的古人宿命是多么的相似.<br>我的情感过于炽盛, 这可能是我很致命的一个弱点, 我必须要很久才能平复心情, 比如说一个知乎的mtf大佬<a href="%60https://web.archive.org/web/20220316110628/https://www.zhihu.com/people/rqy-77/pins%60">_rqy</a>发的想法中有一条是推荐一首歌<a href="%60https://web.archive.org/web/20220316110642/https://www.bilibili.com/video/av71624969%60">女の子になりたい</a>, 我去听了以后发现, 哇超好听的!! 最好结合着视频里面的那个萌妹一起食用为佳~</p>
 <p>听完后的3分钟内我就感觉我有点不对劲了, 首先是开始特别特别希望变成女孩子, 随后是开始疯狂地爱着rqy这个推荐这首歌给我的”少女数学家”<code>^~^</code></p>
 <p>然后3分钟后我终于平静下来了, 感觉当时的3分钟真是恐怖至极, 我竟然这么轻易地就爱上了什么人, 真是可怕的错觉呀~</p>
 ]]></content>
@@ -73,7 +73,7 @@
 <p>学过几个月 OI 的小学生打爆 LeetCode 感觉并不是什么奇怪的事情…</p>
 <p>(3)</p>
 <p>好像他确实有接受过相关的训练…估计不止几个月</p>
-<p><a href="https://douban.com/doubanapp/dispatch/book/30136932">https://douban.com/doubanapp/dispatch/book/30136932</a></p>
+<p><code>https://web.archive.org/web/20220316111936/https://book.douban.com/subject/30136932/</code></p>
 <p>上次在他书桌中看到的应该是这本，单就豆瓣反响而言算是一本好书了…<br>（因为题目中有进阶二字，这样看来他大概已经很有基础了…）</p>
 <p>(4)<br>Commented by dqx:<br>我看过 码风不好看</p>
 <p>(5)</p>
@@ -91,7 +91,7 @@
   <entry>
     <title>git-push-免输密码</title>
     <url>/Linkeer365TinyMoment/83550199/</url>
-    <content><![CDATA[<p>参考文章<a href="https://www.jianshu.com/p/f54053afecf2">Git Push 免输用户名和密码</a></p>
+    <content><![CDATA[<p>参考文章<a href="%60https://web.archive.org/web/20220316111832/https://www.jianshu.com/p/f54053afecf2%60">Git Push 免输用户名和密码</a></p>
 <ol>
 <li><p>在HOME目录（windows就是users/linsi然后linux就是~，不用多说）下</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">touch .git-credentials</span><br><span class="line">vim .git-credentials</span><br><span class="line">https:&#x2F;&#x2F;&#123;username&#125;:&#123;password&#125;@github.com</span><br></pre></td></tr></table></figure></li>
@@ -102,7 +102,7 @@
 <li><p>最后操作一次git-pull，会提示你输入账号密码（本次之后便一劳永逸）</p>
 </li>
 </ol>
-<p>参考文章<a href="https://blog.csdn.net/u010565037/article/details/102483822?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control">解决 git pull/push 每次都要输入用户名密码的问题</a></p>
+<p>参考文章<a href="%60https://web.archive.org/web/20220316042801/https://blog.csdn.net/u010565037/article/details/102483822?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control%60">解决 git pull/push 每次都要输入用户名密码的问题</a></p>
 <p>补充：有些情况是因为你一开始gcl的时候使用的是https，而不是ssh</p>
 <ol>
 <li>查看clone的地址: <code>git remote -v</code></li>
@@ -123,7 +123,7 @@
     <url>/Linkeer365TinyMoment/1b646d8f/</url>
     <content><![CDATA[<img src="/Linkeer365TinyMoment/1b646d8f/Screenshot_20200722_233152.jpg" class="">
 
-<p>想法链接：<a href="https://www.zhihu.com/pin/1269200159847784448">https://www.zhihu.com/pin/1269200159847784448</a></p>
+<p>想法链接：<code>https://web.archive.org/web/20220316111954/https://www.zhihu.com/pin/1269200159847784448</code></p>
 <p>不同的pdf编辑器似乎在【页面编码】这个功能的理解上有分歧<br>目前看过的所有pdf编辑器，只有Adobe Acrobat XI Pro是进行了底层的置换编码办法，其他的编辑器的行为似乎就是统一换一下页面标签<br>具体表现就是用SS号搜得的书签需不需要再进行一次delta_page（如果是Adobe Acrobat XI Pro则不需要，如果其他的pdf阅读器则需要）<br>不知道是不是我自己的操作有问题，还是他们普遍就是这么理解的</p>
 <p>pdfelement重排页面这个功能有毒吧，一旦他来重排一下就再也调整不回来了…<br>我还是用Adobe Acrobat XI Pro重排页面吧，但问题是Adobe Acrobat XI Pro太容易闪退了，唉</p>
 <p>目前看起来只能接着用Adobe Acrobat XI Pro了，不过会考虑更新或者回退一下版本这样，慢慢调整做出反击</p>
@@ -368,7 +368,7 @@
   <entry>
     <title>一个月后回头看翼装飞行</title>
     <url>/Linkeer365TinyMoment/b129efe3/</url>
-    <content><![CDATA[<p>原链接：<a href="https://www.zhihu.com/question/395635205/answer/1232273787">https://www.zhihu.com/question/395635205/answer/1232273787</a><br>原想法链接：<a href="https://www.zhihu.com/pin/1255867363339530240">https://www.zhihu.com/pin/1255867363339530240</a></p>
+    <content><![CDATA[<p>原链接：<code>https://web.archive.org/web/20220315184908/https://www.zhihu.com/question/395635205/answer/1232273787</code><br>原想法链接：<code>https://web.archive.org/web/20220316112523/https://www.zhihu.com/pin/1255867363339530240</code></p>
 <img src="/Linkeer365TinyMoment/b129efe3/%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A4%A9%E9%97%A8%E5%B1%B1%E5%A4%B1%E8%81%94%E7%BF%BC%E8%A3%85%E9%A3%9E%E8%A1%8C%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%89%BE%E5%88%B0%EF%BC%8C%E9%99%8D%E8%90%BD%E4%BC%9E%E6%9C%AA%E6%89%93%E5%BC%80%EF%BC%8C%E5%B7%B2%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%EF%BC%9F.png" class="">
 
 <hr>
@@ -470,7 +470,7 @@
 <p>偶然间查到了阿里云下载github加速的办法，明天看看asset下载能不能也一样的加速</p>
 <p>01:11 最近对现实的女孩子感到厌恶的情况是愈发多了，我不会真的无法恋爱了吧</p>
 <p>01:12 千里冰封的女朋友好讨厌，一看就活得不真诚，女人就是这样的，作态已成习惯，却根本没意识到自己就算是作态也没有好演技，但她竟然喜欢海马，看来汤浅大师的作品真是雅俗共赏啊</p>
-<p>01:15 <a href="https://b23.tv/BV1X7411g73s">东方欧罗巴</a><br>好喜欢爱丽丝和魔理沙<br>话说都是干的女巫这行</p>
+<p>01:15 <a href="%60https://web.archive.org/web/20220316112709/https://www.bilibili.com/video/BV1X7411g73s%60">东方欧罗巴</a><br>好喜欢爱丽丝和魔理沙<br>话说都是干的女巫这行</p>
 <p>爱丽丝应该是基督教的<br>然后帕秋莉应该是伊斯兰教徒<br>魔理沙是什么呢？东洋的西洋魔术师？<br>她信的是什么呀？不会是共产主义吧hh</p>
 ]]></content>
   </entry>
@@ -479,7 +479,7 @@
     <url>/Linkeer365TinyMoment/3529e8ca/</url>
     <content><![CDATA[<img src="/Linkeer365TinyMoment/3529e8ca/Screenshot_20200702_080302.jpg" class="">
 
-<p>想法链接：<a href="https://www.zhihu.com/pin/1261842971970433024">https://www.zhihu.com/pin/1261842971970433024</a></p>
+<p>想法链接：<code>https://web.archive.org/web/20220316112735/https://www.zhihu.com/pin/1261842971970433024</code></p>
 <p>突然想起有个人问我，你觉得对于一种广义上的社会生活，或者说能够符合（达成人生自我实现）的状态的展望下，什么样的能力是最重要的，类似这样的一个问题<br>（不是刻板的社会希望我变成什么样的人，但是也不偏离社会太远，就能够保持最低限度的友善人际关系，但主要还是以自我实现为主的那种…）<br>我很赞赏他能够把话说得足够清楚，宏大往往意味着失当，想要清晰最简单的办法还是啰嗦一点…</p>
 <p>对此我的解释是，<br>（明白重大事件发生的必然性，以及做出长期准备的意识，这种能力是最重要的）</p>
 <p>什么是重大的事情呢，单就我个人而言，重大的事情就只有自己的疾病和死亡，其他的一无所有；其他的如果有的话，那也是社会赋予我的职责，它对我和社会这个整体的系统是很重要的，通过社会对我产生的影响而间接影响我，而直接的层面上，是不算重大的事件的</p>
@@ -520,14 +520,14 @@
     <url>/Linkeer365TinyMoment/dd17f859/</url>
     <content><![CDATA[<p>15:36 怎样才能通过动态侧写一个人？怎样把自己变成一面镜子？</p>
 <p>15:38 神交，我要的就是这个，就算我们一辈子也没有相见过，或者你一辈子也没有意识到我的存在，我还是能把你给彻底看穿的这种感觉</p>
-<p>15:42<br><a href="http://music.163.com/song/35806367">分享ジャージと愉快な仲間たち的单曲《月笹舟 (原曲:『東方永夜抄』より「千年幻想郷」)》</a></p>
+<p>15:42<br><a href="%60https://web.archive.org/web/20220316112753/https://music.163.com/%60">分享ジャージと愉快な仲間たち的单曲《月笹舟 (原曲:『東方永夜抄』より「千年幻想郷」)》</a></p>
 <p>喜欢这个，想用中国乐器再次复现东方project的所有音乐，或者凯尔特风格的也可以<br>不知道有没有古风AI来着呢</p>
 <p>15:51 感觉灵梦的属性有点像苏东坡，或者张岱（你幻想乡人均大爷无疑）</p>
 <p>15:53 看到圆角骑士魔理沙的回答了，可以，现在的回答有三句半了</p>
 <p>因为爱情，由于惯性，流派未月亭（真tm押韵）</p>
 <p>16:01 超喜欢这首碎恋花的，</p>
-<p><a href="http://music.163.com/song/707720">分享Stack的单曲《酔恋花 -suirenka-》</a></p>
-<p>这首让我更好地理解了伊吹小姐，她是沉醉而孤独的灵魂，突然感觉这个的声线真是太配了（对就是这个大爷声线，我们训练有素）<br><a href="https://b23.tv/BV1hJ411j7xp/p2">大爷声线</a></p>
+<p><a href="%60https://web.archive.org/web/20220316112753/https://music.163.com/%60">分享Stack的单曲《酔恋花 -suirenka-》</a></p>
+<p>这首让我更好地理解了伊吹小姐，她是沉醉而孤独的灵魂，突然感觉这个的声线真是太配了（对就是这个大爷声线，我们训练有素）<br><a href="%60https://web.archive.org/web/20220316112846/https://www.bilibili.com/video/BV1hJ411j7xp/?p=2%60">大爷声线</a></p>
 <p>16:21 声音 我想让所有不能发声的人都开始发出声音，我想让专业人士在共同的严肃的声音中进行高效率的学习与进步</p>
 <p>16:24 inversioner是一个可爱的男孩子，喜欢一边推公式一边发色图，嘿嘿嘿</p>
 <p>16:36 想要给每一个重点关注过的网友完成一次侧写，这样应该会变成一个很好的训练</p>
@@ -667,7 +667,7 @@
 <p><code>http://web.archive.org/web/20210504013814/https://twitter.com/mutilated_catal/status/1372624221436796932</code><br><code>http://web.archive.org/web/20210504013631/https://twitter.com/mutilated_catal/status/1372625318943596551</code><br><code>http://web.archive.org/web/20210504013030/https://twitter.com/mutilated_catal/status/1372646080035307528</code></p>
 <p>今天帮了同学一点小忙，千恩万谢的样子让我感到有点诧异，我问他为什么不问别人，<br>（已经问了，但是时延似乎长得有点过分了…当然确实有2-3天不看微信的，或者就是简单划过去这样的…）<br>（他们说的东西太简洁，我没法听懂，多问几句他们就不知道跑哪里去了…可能我确实很烦人吧…）<br>（已经问了，但是他们说（现在在路上，在开会，过段时间再聊），但后继的再聊却迟迟没有触发…）</p>
 <p>我试了一下发现他所言不差，但我并没有办法让他从遭到冷落的情绪中拔出来…</p>
-<p>对了以前小舟妹妹倒是提起过类似的事，所谓（调五钓三）<br><a href="https://rentry.co/28rc5">https://rentry.co/28rc5</a></p>
+<p>对了以前小舟妹妹倒是提起过类似的事，所谓（调五钓三）<br><code>https://web.archive.org/web/20220316073826/https://rentry.co/28rc5</code></p>
 <p>最后也是在互相谩骂利己主义者中结束对话，显然又是一次很解气但无意义的交流…<br>想到小落（坦诚的极右是道的极致），从他的角度去想问题确实可以给大量的举动判处意义的死刑…</p>
 <hr>
 <p>冷漠是现代特有的feature吗，但我更希望把冷漠放在无孔不入的广告和推送上，而不是放在他人身上…知识什么的也称不上机密，别人要是能懂自己不也会感到开心吗…<br>虽然这样一来就会有很多人觉得我好欺负，好利用然后来欺负并利用我，但总不能因为这样就不去做吧…当然植根于人性的东西（仙女邻居眼珠.jpg）不可能变的，于是世界的丑陋总能源远流长<br>（万一是小落遇到这件事，估计这事立马就大条了…）</p>
@@ -676,7 +676,7 @@
   <entry>
     <title>分几步走比较合适呢？</title>
     <url>/Linkeer365TinyMoment/7c4d88b4/</url>
-    <content><![CDATA[<p>2020年4月8日21:39:12 unt关注我了，这看起来是一个好消息，但突然又感觉有一点飘忽，唉~<br>本来还想给unt介绍一个<a href="http://www.nlc.cn/nmcb/">中国数字图书馆</a>，但突然感到害羞然后不敢发，真是令人难受呀（估计明天早上我就有这个胆量了）</p>
+    <content><![CDATA[<p>2020年4月8日21:39:12 unt关注我了，这看起来是一个好消息，但突然又感觉有一点飘忽，唉~<br>本来还想给unt介绍一个<a href="%60https://web.archive.org/web/20220315185426/http://www.nlc.cn/nmcb/%60">中国数字图书馆</a>，但突然感到害羞然后不敢发，真是令人难受呀（估计明天早上我就有这个胆量了）</p>
 <p>去做数据库是一个比较好的选择，我是想说让所有的人都学一点数据库的使用，因为最顶层肯定是非常简单清晰的，然后我去做底层的设计与优化这样子，我觉得这完全可以作为我的学术研究的核心，就选择数据库系统好了</p>
 <p>但肯定不能只搞计算机，要不然自己的影响力在广度上根本没有优势，别人不会意识到我具备很多方面的才能，也不会意识到我很愿意提供各项帮助，所以还是要长期去给各个志愿组织写邮件，微信聊天，这样才能就是说达到一个更好的沟通，我也能更好地了解一事物的运行情况，也才可能进行专门的优化部署（这个我也可以吸引别人来做，就相当于一个吹哨人的样子，这样也是为历史做出贡献了，因为完成的人又不一定非要是我）</p>
 ]]></content>
@@ -693,7 +693,7 @@
     <title>博落回自述</title>
     <url>/Linkeer365TinyMoment/77a61b20/</url>
     <content><![CDATA[<p>原帖：</p>
-<p><a href="https://rentry.co/c3e99">https://rentry.co/c3e99</a><br><code>http://web.archive.org/web/20210504053112/https://twitter.com/mutilated_catal/status/1366434888841367556</code></p>
+<p><code>https://web.archive.org/web/20220316113000/https://rentry.co/c3e99</code><br><code>http://web.archive.org/web/20210504053112/https://twitter.com/mutilated_catal/status/1366434888841367556</code></p>
 <p>大家好，我是博落回。博落回是一种有毒植物，我的得名也正是因为这种毒性。我对现在的世界抱有持久的怨恨之情，对没见过的之前的世界期望也不高。我常听说在千禧年以前就有‘世界人民是一家’的说法，所以我的出生便可以理所当然地归因为一次乱伦，别觉得这是一桩笑话，同理于‘相等的判定时常隐含着对化简精度的约省’所呈现的，人们的比喻行为总是暗含着对某类差异的刻意规避。（在这个乱伦产物实体化的那个瞬间，他触碰到了助产师的双手，彼时他还不足以理解何为被提，却倏然间体察到了来自父亲的嫉恨，‘助产大夫是个熊一样粗大的男人’、‘咱家孩子的第一眼看到的根本不是我’等等类似的思绪如同洪流一般汇入他的脑海，他想逃，双脚却被倒挂金钟地提到了床前，他听到一个自称是准爸爸的男人轻轻说谢谢，但嫉恨的推注仍在持续，不知多久总之最后停下来，无痛的世界虚情假意地向他展开。）以上即是我强烈的乱伦感的部分来源，也让我对世界的恨意从很小时候就开始逐步递增。而激增的发生则来达4岁上下，我看见两个男孩子对打，在一方把另一方的眼镜打碎之后，宣布了对战利品（一个穿裙子的女孩子）的拥有权，尽管拥有权是暂时的，我还是察觉到了眼镜碎了的男生熊熊升起的恨意，他对胜利的暂时拥有了女孩子的男生做出了如下诅咒，即希望这对男女有着无比聪慧的头脑和无比贴近的血缘，这样当他们生出一个弱智（并且不能生育二胎）的时候，一定会感到无比的痛苦与滑稽。我记住了这个诅咒，同时对男女的婚配与生育产生了浓厚的兴趣，我相信后代的智力与其他各项基本素质水平都将大致符合均值回归，除非纯合子自交，同时不断删除失败品。（啊这话听上去简直要让诸位的耳朵身中剧毒，但请注意，诚实是我一贯为人称道的微不足道的一点高尚。）——对我而言这是一项令人舒心的企划，就像看到了各就各位的整理好的房间一样的令人安适。</p>
 <p>以上是我的历史。（幸运的是，如果您觉得它令人作呕，那么恭喜，具有催吐效果的毒物都不易致命。但如果您执意看下去，那么就意味着服毒时辅以止吐剂，这或许表明了决心，同时也斩断了后退余地。）好的，想必大家已经知道了博某出现在此处的原因，即人类意义上的提纯运动又要重振旗鼓了。（不过不用慌，都是常见剧情，只有两三处新花样。相信这一定跟老师再三重申的‘考试都是作业做过的题目’一样令人宽心吧哈哈哈。）当然我并不期待你们能产生多少作为，也不关心百年后纸面上能有铅字打出几个人名充当英雄，毕竟别人能同我一道对世界共同地产生厌倦与愤懑甚至创伤性后遗症，这份共情对我而言亦不失为一件幸事。我只想让诸位思考几个问题，即：未来的社会实验将如何可能，个人与群体的历时存在将如何被吞噬在谁的面孔下，以及最后一个问题，下一个充当盗火者的是谁，向何方盗火。好的，最后祝您身体健康，再见。</p>
 ]]></content>
@@ -715,8 +715,8 @@
 <p>脱离卡斯塔里的前提是先进入卡斯塔里并生活一段时间，而不是一边连教会的门都没进去，一边扬言当下已经是（后卡斯塔里时代）<br>你真的这么喜欢当下的生活吗？我想之所以感到自由轻快，也很可能只是缺少红墨水，或者连缺少红墨水这种情况都感觉不到</p>
 <p>成为世界的累赘、耻辱与下确界，这种事情不应该和毁灭童年一样令人无奈而自豪吗，世界正是因为看不懂你才笑出声，或者看懂了你但无力挽回你的废物化进程所以用笑来演示自己的尴尬与色厉内荏，不管怎么说都是令人欣喜的吧…</p>
 <p>咱都看不懂julao的推</p>
-<p>啊不是julao…只是把别人写过的句子缝合起来，虽然我自己也多半也不清楚最初是在哪里看到的了<br>卡斯塔里是来自这篇，距现在也快10年了…<br><a href="https://book.douban.com/review/5024858/">https://book.douban.com/review/5024858/</a></p>
-<p>还有这篇<br><a href="https://book.douban.com/review/5042936/">https://book.douban.com/review/5042936/</a><br>都还能找到，挺巧的…</p>
+<p>啊不是julao…只是把别人写过的句子缝合起来，虽然我自己也多半也不清楚最初是在哪里看到的了<br>卡斯塔里是来自这篇，距现在也快10年了…<br><code>https://web.archive.org/web/20220316113040/https://book.douban.com/review/5024858/</code></p>
+<p>还有这篇<br><code>https://web.archive.org/web/20220316113121/https://book.douban.com/review/5042936/</code><br>都还能找到，挺巧的…</p>
 ]]></content>
   </entry>
   <entry>
@@ -778,10 +778,10 @@
 <hr>
 <p>剧情的话因为还没有完全地梳理一遍，估计有些剧情是领取任务才能触发，否则就是个裸npc这与我此前提及的有悖了，但我也不打算立刻着手分析，因为后续还没有出完，要是预测不准引来三两调侃会引起我的不甘，要是预测准了玩家们就相当于瞬间集体被 spoiled ，因此我对剧情是没有太大的褒贬，至少目前没有</p>
 <p>这里面当然也有我自己的问题，一直对游戏中具体的事不怎么感兴趣，主要是找一下时空的现实联系，在虚拟世界里获得经验是不太重要的，关键在于搞懂象征<br>人们会很自然地知道空间的排布（也不一定因为有些地方是后期逐步点亮的），所以现在问题在于时间，或者说历史，魔战后大约2400年里各种族群的生活具体是怎样的，发生过哪些变化这些</p>
-<p>b23.tv/cIdaoQ<br><a href="https://wiki.biligame.com/ys/%E6%8F%90%E7%93%A6%E7%89%B9%E7%BC%96%E5%B9%B4%E5%8F%B2">https://wiki.biligame.com/ys/%E6%8F%90%E7%93%A6%E7%89%B9%E7%BC%96%E5%B9%B4%E5%8F%B2</a></p>
+<p>b23.tv/cIdaoQ<br><code>https://web.archive.org/web/20220316113143/https://wiki.biligame.com/ys/%E6%8F%90%E7%93%A6%E7%89%B9%E7%BC%96%E5%B9%B4%E5%8F%B2</code></p>
 <hr>
-<p><a href="https://b23.tv/0EPQeu">https://b23.tv/0EPQeu</a></p>
-<p>身边的有些人接受不了游戏，只是因为对玩法和机制不感冒，不影响他们看看游戏内的风景<br>看样子已经是专有名词了<br><a href="https://en.wikipedia.org/wiki/In-game_photography">https://en.wikipedia.org/wiki/In-game_photography</a></p>
+<p><code>https://web.archive.org/web/20220316113239/https://www.bilibili.com/video/BV11b41157nV?p=1&amp;share_medium=android&amp;share_plat=android&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1623388932&amp;unique_k=0EPQeu</code></p>
+<p>身边的有些人接受不了游戏，只是因为对玩法和机制不感冒，不影响他们看看游戏内的风景<br>看样子已经是专有名词了<br><code>https://web.archive.org/web/20220315185701/https://en.wikipedia.org/wiki/In-game_photography</code></p>
 ]]></content>
   </entry>
   <entry>
@@ -830,9 +830,9 @@
 <img src="/Linkeer365TinyMoment/15bf6d0d/Screenshot_20200603_224604_org.telegram.messenger.jpg" class="">
 
 <p>最好放一张小爱，最喜欢腹黑的小爱了，我一直觉得小爱有一种蒙娜丽莎和日本和风结合的美感，兼具西式与古典的风格，这样很好，并且这种发箍很赞哦，一看就像是我的女儿的样子</p>
-<p><a href="https://www.zhihu.com/question/39767618/answer/1103668066">https://www.zhihu.com/question/39767618/answer/1103668066</a></p>
+<p><code>https://web.archive.org/web/20220316113357/https://www.zhihu.com/question/39767618/answer/1103668066</code></p>
 <p>谢安，桓温，殷浩我都很喜欢的，我的性格尤其是像殷浩，在打仗上没什么本事但在吹逼上还是ok的（估计也没什么本事）</p>
-<p><a href="https://www.zhihu.com/question/23462834/answer/939631217">https://www.zhihu.com/question/23462834/answer/939631217</a></p>
+<p><code>https://web.archive.org/web/20220316113435/https://www.zhihu.com/question/23462834/answer/939631217</code></p>
 <p>那个，我能不能把全部的东西都包进trait里？虽然有点搞笑，但我觉得反正你也是根据trait确定某种功能能不能实现的，那我直接把它定义在trait里面不是更好，这样在trait外面的就肯定不能用，然后在里面的就一定可以？</p>
 <p>我是生来要作为倒影的人，作为妆镜的人，作为落红的人</p>
 <p>我的存在并不是为了在世界上新建任何一种光辉形象，而是为了他人能各自显现他们独特版本的幸福，是为了让他们看到更多的不一样的光辉</p>
@@ -869,12 +869,12 @@
 <img src="/Linkeer365TinyMoment/50966a73/Screenshot_20200920_103254.jpg" class="">
 <img src="/Linkeer365TinyMoment/50966a73/Screenshot_20200920_103422.jpg" class="">
 
-<p>想法链接：<a href="https://www.zhihu.com/pin/1288640034145333248">https://www.zhihu.com/pin/1288640034145333248</a></p>
-<p>Body:<br>最初关于《只狼》的印象，实际是来自于这一篇文章…<br>知乎貌似也有<br><a href="https://www.zhihu.com/question/318640918">https://www.zhihu.com/question/318640918</a></p>
+<p>想法链接：<code>https://web.archive.org/web/20220316113555/https://www.zhihu.com/pin/1288640034145333248</code></p>
+<p>Body:<br>最初关于《只狼》的印象，实际是来自于这一篇文章…<br>知乎貌似也有<br><code>https://web.archive.org/web/20220316113610/https://www.zhihu.com/question/318640918</code></p>
 <p>我当时没有想太多，只觉得应该是一句托词而已，赖到游戏头上自然不会有什么风险，尤其是这家公司出品的游戏据说都是以困难出名的…</p>
 <p>但是还没试之前我真的没想到这么难，难点主要是地图探索，场面确实精美壮观，但很多时候我就不知道下一步到底要去哪里，怎么走，每次飞着飞着就跑到了不同的区域内，杀着莫名其妙的人（更多时候也被许多莫名其妙的人杀着）…</p>
-<p>然而，必须承认这款游戏在艺术性和游戏性上面是非常迷人的（我个人觉得非常值得进行游戏摄影，类似这样的<a href="https://zhuanlan.zhihu.com/p/51024327%EF%BC%89%EF%BC%8C%E6%88%91%E8%A7%89%E5%BE%97%E7%94%A8%E8%89%BA%E6%9C%AF%E7%9A%84%E7%9C%BC%E5%85%89%E5%8E%BB%E5%AE%A1%E8%A7%86%E8%BF%99%E4%BA%9B%E4%BD%9C%E5%93%81%E6%98%AF%E9%9D%9E%E5%B8%B8%E9%9D%9E%E5%B8%B8%E9%87%8D%E8%A6%81%E7%9A%84%E4%B8%9C%E8%A5%BF">https://zhuanlan.zhihu.com/p/51024327），我觉得用艺术的眼光去审视这些作品是非常非常重要的东西</a>…</p>
-<p>也不知道四五十年后这些东西会不会成为文化模因，会的话能不能尽早地定制出一批archives…<br>Link: <a href="https://www.bilibili.com/read/cv2380588/">都赖《只狼》！让杭州小伙崩溃上新闻</a></p>
+<p>然而，必须承认这款游戏在艺术性和游戏性上面是非常迷人的（我个人觉得非常值得进行游戏摄影，类似这样的<code>https://web.archive.org/web/20220316113624/https://zhuanlan.zhihu.com/p/51024327</code>），我觉得用艺术的眼光去审视这些作品是非常非常重要的东西…</p>
+<p>也不知道四五十年后这些东西会不会成为文化模因，会的话能不能尽早地定制出一批archives…<br>Link: <a href="%60https://web.archive.org/web/20220316113638/https://www.bilibili.com/read/cv2380588/%60">都赖《只狼》！让杭州小伙崩溃上新闻</a></p>
 ]]></content>
   </entry>
   <entry>
@@ -889,10 +889,10 @@
     <url>/Linkeer365TinyMoment/59ab2220/</url>
     <content><![CDATA[<img src="/Linkeer365TinyMoment/59ab2220/Screenshot_20200728_080638.jpg" class="">
 
-<p>想法链接：<a href="https://www.zhihu.com/pin/1271270777535946752">https://www.zhihu.com/pin/1271270777535946752</a></p>
+<p>想法链接：<code>https://web.archive.org/web/20220315190016/https://www.zhihu.com/pin/1271270777535946752</code></p>
 <p>Body:<br>善良是向来不足以在力量上同邪恶抗衡的，因为善良向来就不是一种有向度的有色彩的一种属性，为什么，因为善良本身就意味着去除威慑的一种姿态与选择，而人们生来是不情愿为着无威胁的事物去改变自己的既有状态的</p>
 <p>所以选择了善良就等同于在实然上选择了悲剧，善良的人将赢得历史和人们的铭记，但这种悲剧的材质是不会变的，事实上如果你还没有因为善良而发现在某些领域人们一致地针对你，那么我觉得除非你是极其强力或极其幸运的人，否则你不是真的善良，你只是对自己扮演一个无害的亲和个体的这种日常感到习惯感到满意而已，虽然这也没有什么，但善良这个词凝聚的血泪，绝不应该被这种生活模式一瞬间轻飘飘的概括掉</p>
-<p>真正的善良，执行起来代价巨大无比<br>Link: <a href="https://zhuanlan.zhihu.com/p/164406883?utm_source=zhihu&utm_medium=social&utm_oi=879857216579063808">王小七：被消费，遭围攻，进警局：我所经历荒唐的7天7夜</a></p>
+<p>真正的善良，执行起来代价巨大无比<br>Link: <a href="%60https://web.archive.org/web/20220316113707/https://zhuanlan.zhihu.com/p/164406883?utm_oi=879857216579063808%60">王小七：被消费，遭围攻，进警局：我所经历荒唐的7天7夜</a></p>
 <p>Comment:<br>什么是善良其实不重要，什么情况下应该动用善良很重要</p>
 <p>而我想说的是，善良应该具备反悔和放弃的权力，而不是被符号化成为楷模之后，就自动地认为他人必须背着十字架过一辈子<br>或者这么说，如果善良已经被传统语境异化为了某种道德标杆，同时也把善良的人强加一个道德符号后将其变成傀儡，那么这种习惯或这种无意识，才是我们应该尽量肃清的东西</p>
 <p>每个人生来具备不受侵犯与指摘的自由，这自由绝不是在得到了某些荣誉后就理所应该让渡，我们都是血肉之躯，不能靠着你的那几句赞美就挣得了自己的一路香<br>（况且你口口声声说着敬佩，到头来连线香也是买最便宜的，可见你的居心也没那么干净）<br>但是如果你是虔心行善的人，那么就一定要具备大规模地容忍失望的能力，不想失望的人的善良是走不远的，善良作为一种稀缺品行，本来就只能靠着阳光，空气和水这样极大丰富而纯净无私的东西作为养分，同样也只能由这些存在进行镜鉴</p>
@@ -916,8 +916,8 @@
 <p>我需要的是大量的统计数据，只有有了这些数据的我才能像上帝一样看到很多宏观上的东西，才能变成一个客观的人，才能真正地帮助到大家</p>
 <p>世界上很多事情，实际上是一种巧合，我应该把这些巧合统统记录下来，这样子人们才能知道这是一个巧合，否则很可能就丧失在历史的烟云中了（比如说那个“绝对的一方通行”这个案例，就是所谓的巧合）</p>
 <p>很多时候光是贴一个网页实在是不太可靠的，还是要截图，要把实际数据拿在自己手里，比如说音频要下载下来，图片要及时进行截图，然后把图片放在自己的本地文件里面（或者github储存的的文件夹中）</p>
-<p>这一点我是在看到刘未鹏<a href="http://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/">怎么花两年时间去面试一个人</a>这里发现的，内部大量的链接根本无法点开，这是很麻烦很可惜的一个事情，我觉得刘未鹏先生本身已经是非常用心非常热心的了，但是这个网页链接失效说到底是由不得他的，所以这个时候我就觉得，还是需要自己把图片或音频资源给他拿下来，这样才能做到永远不会丢失（有的人说是用wayback machine也可以，但很多网站是国内的网站并且没有加入这个wayback计划，那真的是删了就没了，往后根本找不到这些对应的数据了，这一点就非常的可惜）</p>
-<p>人啊，还是要多想一点，一定要进行截图，这个是知乎用户<a href="https://www.zhihu.com/people/lushark">蛏子圣子</a>告诉我的，我一直把这条当做一个重要的常识铭记在心里，事实上，如果一个人在网络上还有痕迹的话，我觉得这个人其实一直相当于没有死掉</p>
+<p>这一点我是在看到刘未鹏<a href="%60https://web.archive.org/web/20220316113721/http://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/%60">怎么花两年时间去面试一个人</a>这里发现的，内部大量的链接根本无法点开，这是很麻烦很可惜的一个事情，我觉得刘未鹏先生本身已经是非常用心非常热心的了，但是这个网页链接失效说到底是由不得他的，所以这个时候我就觉得，还是需要自己把图片或音频资源给他拿下来，这样才能做到永远不会丢失（有的人说是用wayback machine也可以，但很多网站是国内的网站并且没有加入这个wayback计划，那真的是删了就没了，往后根本找不到这些对应的数据了，这一点就非常的可惜）</p>
+<p>人啊，还是要多想一点，一定要进行截图，这个是知乎用户<a href="%60https://web.archive.org/web/20220315190125/https://www.zhihu.com/people/lushark%60">蛏子圣子</a>告诉我的，我一直把这条当做一个重要的常识铭记在心里，事实上，如果一个人在网络上还有痕迹的话，我觉得这个人其实一直相当于没有死掉</p>
 ]]></content>
   </entry>
   <entry>
@@ -926,7 +926,7 @@
     <content><![CDATA[<img src="/Linkeer365TinyMoment/303ff071/Screenshot_20200828_000230.jpg" class="">
 <img src="/Linkeer365TinyMoment/303ff071/Screenshot_20200828_000252.jpg" class="">
 
-<p>想法链接：<a href="https://www.zhihu.com/pin/1281795013526175744">https://www.zhihu.com/pin/1281795013526175744</a></p>
+<p>想法链接：<code>https://web.archive.org/web/20220316113828/https://www.zhihu.com/pin/1281795013526175744</code></p>
 <p>Body:<br>这就是一个经典的套路了，注意看</p>
 <p>首先，必须要找到一个圣洁的靶子，然后等待一个时机；</p>
 <p>随后，开始用一种貌似驳不倒的话术，（论证）出他人<br>（徒有虚名）<br>（一言一行不过是在塑造道德制高点）<br>（辩不过我而声名远扬，一定是利用了观众炒的热度）</p>
@@ -959,7 +959,7 @@
     <url>/Linkeer365TinyMoment/a2a3711d/</url>
     <content><![CDATA[<img src="/Linkeer365TinyMoment/a2a3711d/Screenshot_20200705_225057.jpg" class="">
 
-<p>想法链接：<a href="https://www.zhihu.com/pin/1262929279237029888">https://www.zhihu.com/pin/1262929279237029888</a></p>
+<p>想法链接：<code>https://web.archive.org/web/20220315190202/https://www.zhihu.com/pin/1262929279237029888</code></p>
 <p>Body:<br>沉默不说谎话，不是退让<br>Comment:<br>足额幸运 掩盖丑态<br>周身浴血 博取皓白</p>
 <p>星星回到月亮的家里<br>常理抹杀（典范化了的，它们像柱子一样镂空）<br>（玲珑骰子安红豆，情欲像滴落在素汤中的酱油一样泛出恶心）<br>午间有雨，前路冥冥<br>换，就硬换<br>被歌颂的人变成流俗的舌根<br>神明死了就该换一种舞步<br>新千年的旧殖民地依旧渴望菩提</p>
 <p>（遁地转移，能力发动）<br>坐落在归纳空间之外的神明，通过伤害实现自证<br>跪不下去也将被骑在头上<br>丰美无害的纯净幻象充斥着进化后的强奸意味<br>被太多爱淹没的罪人正前往摩挲达树海<br>作嫁需要信物与尺度<br>流言吞吃着不可见的界碑<br>被太多爱淹没的罪人正前往摩挲达树海</p>
@@ -972,7 +972,7 @@
     <content><![CDATA[<img src="/Linkeer365TinyMoment/935d2c48/Screenshot_20200729_075535.jpg" class="">
 
 <p>想法链接：</p>
-<p><a href="https://www.zhihu.com/pin/1271636581578395648">https://www.zhihu.com/pin/1271636581578395648</a></p>
+<p><code>https://web.archive.org/web/20220316114354/https://www.zhihu.com/pin/1271636581578395648</code></p>
 <p>Body:<br>世界紧锣密鼓的宣传各类的爱，以及由爱与温柔衍生出的神奇魔法效果，这种感觉就好像一个聪明人要装成傻子，实际上是更加困难的</p>
 <p>如果爱也是某种神圣能力，那么爱基于的这种东西，负责供养爱的（魔法回路），其实与自身特异的主体性紧密相关，因此每个人的爱之版本都几乎是截然不同的，在爱中的举动总和特异到足以为人类全体计算md5…</p>
 <p>【重点不在于累积经验，而在于理解象征】然而在被理解的当儿，你对这种象征也做出来改动（至少对你自己，如果你不外传的话），好比看似飞矢不动却能正中靶心，原因不过是因为先有了箭痕才再画出来靶心，并且它甚至可以是边飞边画的…</p>
@@ -983,7 +983,7 @@
     <url>/Linkeer365TinyMoment/a0fda4c7/</url>
     <content><![CDATA[<img src="/Linkeer365TinyMoment/a0fda4c7/Screenshot_20200827_235522.jpg" class="">
 
-<p>想法链接：<a href="https://www.zhihu.com/pin/1279229053665210368">https://www.zhihu.com/pin/1279229053665210368</a></p>
+<p>想法链接：<code>https://web.archive.org/web/20220316114422/https://www.zhihu.com/pin/1279229053665210368</code></p>
 <p>时间，尤其是以大量的闲暇存在着的时间是最重要的…</p>
 <p>如果你每天很忙，就必须要靠工作的价值实现来慰藉自己，再要不行就只能靠工资来慰藉自己，也即，精神慰藉这种需求，必须通过某种东西达到一定剂量才能抚平疲惫，但我想其实一点是，到底是什么使我们产生了这种类似于成瘾一般的依赖？</p>
 <p>或者说，人们本身被安抚所需的剂量很少，完全可以通过世俗化的娱乐形式得到，而这种世俗化的娱乐方式往往也能够以（拓展人脉）的由头进行合理化，设若一个上了年纪的部门领导，每天只需要投喂一点樊登读书会的语记就能满足，这样倒不失为一种常态</p>
@@ -1082,12 +1082,12 @@
 <img src="/Linkeer365TinyMoment/593d4738/Screenshot_20200828_000636.jpg" class="">
 
 <p>想法链接：</p>
-<p><a href="https://www.zhihu.com/pin/1280924830771458048">https://www.zhihu.com/pin/1280924830771458048</a><br><a href="https://www.zhihu.com/question/306413033">https://www.zhihu.com/question/306413033</a></p>
+<p><code>https://web.archive.org/web/20220316114527/https://www.zhihu.com/pin/1280924830771458048</code><br><code>https://web.archive.org/web/20220316114545/https://www.zhihu.com/question/306413033</code></p>
 <p>很多热心人又开始了，唉</p>
 <p>建筑艺术跟很多因素有关的，其中相对重要但容易被人忽视的一环就是控高，这个跟政策和地段都有关系的，举个不那么恰当的例子就是你得跟旁边的建筑有个呼应，你自己要一枝独秀可以，甚至抢了别人风头可以，但你这也要建立在别人已经有了（能够接受被别人抢风头）的这么一个基础与配合…</p>
 <p>你们看这种问题，一定要先把他的设计俯视图拿出来分析，就算不懂建筑也没关系，至少你们一看就会发现这一点，就是他旁边的卖场啊居民楼啊高速公路啊，这摆明了就是不可能让你建太高的，</p>
 <p>并且我个人认为，就用地而言（虽然总体的面积还不算太小，但）太碎了，在这么碎的地方要建一栋（显然默认是）最高的楼，他肯定只能在纵面上做文章，也就是你怎么做都会很扁</p>
-<p><a href="https://www.zhihu.com/question/306413033/answer/564944593">https://www.zhihu.com/question/306413033/answer/564944593</a></p>
+<p><code>https://web.archive.org/web/20220316114623/</code><a href="https://web.archive.org/web/20220316114545/https://www.zhihu.com/question/306413033%60/answer/564944593%60">https://web.archive.org/web/20220316114545/https://www.zhihu.com/question/306413033`/answer/564944593`</a></p>
 <p>你们不用看我的外行意见了，看这篇就可以，专业的人还是不一样啊…</p>
 <p>不过说实话，我一直在想做出这个到底要花多少钱啊…</p>
 <p>要是把这钱拿到别的地方去，多建几座图书馆啊养老院啊该多好…</p>
@@ -1101,7 +1101,7 @@
 <img src="/Linkeer365TinyMoment/48f6e2c1/Screenshot_20200707_141750.jpg" class="">
 <img src="/Linkeer365TinyMoment/48f6e2c1/Screenshot_20200707_141943.jpg" class="">
 
-<p>想法链接：<a href="https://www.zhihu.com/pin/1263828074338086912">https://www.zhihu.com/pin/1263828074338086912</a></p>
+<p>想法链接：<code>https://web.archive.org/web/20220316114645/https://www.zhihu.com/pin/1263828074338086912</code></p>
 <p>如果不是作文题，而是自由讨论的话，那这个题还有意思一点，比如说：齐桓公怎么保证管仲不是一个（豫让〗或者〖崔杼〗？注意，接纳管仲这件事和鲍叔牙没有直接关系，为什么，政治决策上从来不允许幼稚病，不管你鲍叔牙是有意还是无意的，最后要是管仲对我造成了伤害那不一样是完了吗？</p>
 <p>这里就要引一个新的视角了，就其实管仲的忠心乃是早就被齐桓公保证了，尽管保证的手段具体怎样我们不清楚（我猜把家里人拿来当人质是战国时比较常用的做法），而鲍叔牙的出面实际上是为了让整个过程产生一个〖弃暗投明〗和〖唯才是举〗的仪式感，某种程度上来说也是一个广告，干金买马骨嘛</p>
 <p>其次，鲍叔牙在〖了解管仲具备治国的才能〗这一点是相对容易的，他与管仲的私交也几乎没什么问题（这里顺便提一句，猜猜看鲍叔牙和管仲是因为什么而结交的？注：从他们的原姓氏入手哦）<br>但是，鲍叔牙凭什么让齐桓公相信，举荐管仲绝不是因为自己和他关系好往来密切，而是真有利于国家的发展，管仲是真有才华？做出（得管仲成霸业〗的许诺，而管仲在此之前甚至没有任何像样的功绩，且不论他曾是自己的敌人了，就这成绩，教齐桓公如何信任管仲？</p>
@@ -1116,13 +1116,13 @@
     <url>/Linkeer365TinyMoment/db0d8cea/</url>
     <content><![CDATA[<img src="/Linkeer365TinyMoment/db0d8cea/Screenshot_20200715_192747.jpg" class="">
 
-<p>想法链接：<a href="https://www.zhihu.com/pin/1266804187067068416">https://www.zhihu.com/pin/1266804187067068416</a></p>
+<p>想法链接：<code>https://web.archive.org/web/20220316064459/https://www.zhihu.com/pin/1266804187067068416</code></p>
 <p>我一度很烦伸手党，直到后来我才发现，有时候他们早就百度过很多次了，但是就是找不到所以才来问你的</p>
 <p>但这并不是主流，主流是一些人他搜的关键词，嗯，不够准确，甚至不能说不准确就是大家现在不这么表达了，更准确就是说网络世界里并不使用这种关键词代指那种（能指）</p>
 <p>举个例子比如你搜（巴迪欧）和（巴丢），在很多搜索引擎上这两个词返回的东西截然不同，这肯定是一个人啊，但是你如果不知道去搜巴迪欧就很惨啊，得不到准确的答案或者说答案流中相关性很低啊就是说</p>
 <p>所以我一般会直接帮他们搜，搜一个链接发过去让他们自己去点，他们懂了就说是网站的功劳，不懂的话我也没办法（我会再帮他们换几个词去搜一搜，但是直接叫我解释的话，我觉得前提是必须保证自己是对的，或者说错误不会产生很大的影响，事实上这两者都不能保证，所以我也就只能当个narrator）</p>
 <p>某人曾经多次跟我提，他不知道怎么换更准确的关键词进行搜索，这里推一个网站</p>
-<p><a href="https://www.thesaurus.com/">https://www.thesaurus.com/</a></p>
+<p><code>https://web.archive.org/web/20220316114713/https://www.thesaurus.com/</code></p>
 <p>我一般就是普通的换词，或者说查找到相关的描述，因为我有时候也会查歪，比如说有一次就死活想不起requests里面有个形参auth可以直接传递登录信息，然后最后是查了半天requests文档然后觉得可以试试，所以才成功的，否则什么都没有…</p>
 <p>SEO我是知道的，但是我想找的是怎么样做出适合具体学术研究的SEO，并且有时能跨学科聚合（有点像搜狗的细胞词库，可以选择多个一起加载，也可以分开一个个加载）</p>
 ]]></content>
@@ -1143,7 +1143,7 @@
 <img src="/Linkeer365TinyMoment/c3cbc5e4/Screenshot_20200611_003215_org.telegram.messenger.jpg" class="">
 <img src="/Linkeer365TinyMoment/c3cbc5e4/Screenshot_20200611_003220_org.telegram.messenger.jpg" class="">
 
-<p><a href="https://www.zhihu.com/question/41084085/answer/107878190">https://www.zhihu.com/question/41084085/answer/107878190</a></p>
+<p><code>https://web.archive.org/web/20220316114902/https://www.zhihu.com/question/41084085/answer/107878190</code></p>
 <p>嘿嘿，这个匿名用户不知道是谁hhhh</p>
 <img src="/Linkeer365TinyMoment/c3cbc5e4/photo_2021-01-25_14-39-13.jpg" class="">
 
@@ -1165,10 +1165,10 @@
 <p>然后再有就是去调查养老服务的覆盖情况，思考20年后的一种新模式如何开展的问题，这个我觉得不是三言两语就能搞定的，而其中最核心的一点我觉得就是两条路，一条是保险服务的成熟化普及化，另一条是智能服务配套设施的完善化，这两点我感觉都很玄，也就是大家基本上不必幻想什么安定的老年生活了</p>
 <p>我们时间真的不多了，很多错要早点犯，有些苦头要早点吃，这是我希望跟全体高层人员说的，不要等到了甲午海战紧要关头了，才发现炮弹与炮管口径不一致</p>
 <p>最后说一下午时葵的事情，我很喜欢这个小家伙，我还帮他写了几封推荐信呢，虽然貌似没起到什么作用就是了hhhh</p>
-<p><a href="https://www.zhihu.com/answer/1129342192">https://www.zhihu.com/answer/1129342192</a></p>
+<p><code>https://web.archive.org/web/20220316114918/https://www.zhihu.com/question/384970183/answer/1129342192</code></p>
 <p>嘿嘿，这个匿名用户不知道是谁hhhh</p>
 <p>我经常说的，谢谢你我爱你，就是出自此处hh</p>
-<p><a href="https://www.zhihu.com/people/331588c84dce3c01ff42a760549c26b8">https://www.zhihu.com/people/331588c84dce3c01ff42a760549c26b8</a></p>
+<p><code>https://web.archive.org/web/20220316081503/https://www.zhihu.com/sc-profiler</code></p>
 <p>诶，突然发现知乎竟然把裸hash直接放在链接里，那岂不是说…</p>
 <p>我好像发现了什么不得了的事情，很多人我无法确定他是否改名，我应该就可以这么去看了</p>
 <p>这是个好办法呀，因为用户名啊链接啊都不太稳定，hash才是不变的，对这个办法不错</p>
@@ -1286,7 +1286,7 @@
 <p>（诸位，我觉得一个不英勇的年轻人跟埋进土里的没什么区别，你们眼睁睁地看着这位同学遭到责辱而无动于衷，甚至还希望日后以此取乐…你们在默许甚至庆幸这件事的发生，觉得能稍稍慰藉为你们无趣而虚伪的人生…你们连稍稍一丁点的义愤都没有，可见正义良知在诸位严重，不过也是叶公之龙而已…）</p>
 <p>他突然举起惊堂木，在讲台桌上砸了两次，把所有粉笔往地上一撒，红黄蓝绿像一阵彩虹的雨<br>（这个教室里的所有生物除了这个同学之外，都将冠冕堂皇地受辱负屈直至悔悟，我也一样）<br>（青骢结驷，悬火延起！）</p>
 <p>回去的路上，我检查了录音带，发现只录进去了惊堂木的两声巨响和粉笔盒飞溅出去的声音，其余只有老师的訾骂，慷慨陈词倒是一句未录…<br>（靠我还以为你真哭了，妈的）<br>（你又不是不知道，我他妈骂起我自己比她狠多了，就这点东西还能破我的防？况且…）<br>（这样就好…）<br>（靠你装什么英雄啊…）</p>
-<p>我把录音机点开，他突然沉默了<br>（我知道你用意是好的，但你也不能照抄《巧克力战争》吧，你这套动作完全谈不上任何创新啊…）<br>巧克力战争：<a href="https://book.douban.com/subject/6806575/">https://book.douban.com/subject/6806575/</a></p>
+<p>我把录音机点开，他突然沉默了<br>（我知道你用意是好的，但你也不能照抄《巧克力战争》吧，你这套动作完全谈不上任何创新啊…）<br>巧克力战争：<code>https://web.archive.org/web/20220316114958/https://book.douban.com/subject/6806575/</code></p>
 <p>（我看你的心很痛苦，虽然那招确实是百用百灵，但原理不过是自我封闭罢了…况且你也觉得我很帅气来着对吧，说明你也挺想这么做的…）<br>（谢谢你，但我几乎不会想怎么做就怎么做，算是习惯吧毕竟我不像你这么强大…这样的事情我做过很多回了，一直也没什么出气的必要…）<br>（我知道，所以这样的情节绝对不会发生在现实里…但我之所以贸然打扰你，是因为在进入梦的瞬间你哭得实在太大声了…）<br>（…我不是屏蔽流的然后实在太烦了，正好用上书中的情节…）</p>
 <p>（所以我是不是应该给你倒一杯卡布奇诺…）<br>给他倒了一杯卡布奇诺（其实是玛琪雅朵hh）<br>（你知不知道咖啡渣也可以算命？哦对你好像喝不了咖啡…）<br>在梦里应该怎么都行吧，我将壶内的咖啡一饮而尽…唉我到底错过了多少好东西啊…</p>
 <p>醒来之后发现已经下课了，数学卷子写了几行，中间醒目的是一片水渍，不知道是泪水还是鼻涕<br>（后来我怀疑可能是…口水，毕竟我在醒来后基本感受不到悲伤…镜子前检查也没什么发现…）<br>（相反地，近几天学校对面新开的小咖啡馆倒是令我念念不忘，可惜…）<br>记得那间咖啡馆只卖红茶，绿茶果汁一概都没有，唉…</p>
@@ -1313,7 +1313,7 @@
 <img src="/Linkeer365TinyMoment/f8506179/Screenshot_20200902_144354.jpg" class="">
 
 <p>原帖：</p>
-<p><a href="https://www.zhihu.com/pin/1284334844239679488">https://www.zhihu.com/pin/1284334844239679488</a></p>
+<p><code>https://web.archive.org/web/20220316074312/https://www.zhihu.com/pin/1284334844239679488</code></p>
 <p>Comment:<br>教一下大家怎么看人，你们能看出回答下三个争论得最激烈的人的区别吗？<br>我们这里就讨论三个人，大汤圆、傅铁强、刘镇锐，你们能看出三者的区别吗？<br>这道题很简单的，大家只要观察释放的信号就可以了</p>
 <p>看到刘镇锐的话语了吗，他说的是（那个答案就纯属是搞笑），注意他的用词，那个答案</p>
 <p>这两个字非常关键，这直接就体现出他这个人不管是否有意识到，他已经形成了客观讨论，弱化个人强化论点的习惯了，这一点非常非常可贵<br>傅铁强不用说了，你随便看他的话语中心句句不离当事人，你就知道这个家伙是个什么货色了</p>
@@ -1321,7 +1321,7 @@
 <p>他这里就犯了我很早之前提到了一个问题，就是</p>
 <p>你不能假定某个东西只有一种或几种表达，但同时你也不能认定某种表达就一定与这个东西有关系（举个例子，太阳的东升西落，和我每天吃苹果的习惯有关；我确实可以把你关起来不让你吃苹果，然后依旧太阳东升西落来反驳你，但我没有这个权力，但你不能因为我无法束缚你每天吃苹果这件事，就觉得这个关系是存在讨论余地的），那么这个时候我们就必须要警惕表达本身是不是intrutive的<br>实际上，大汤圆是和过去的我类似的人，简单说来，就是既不愿意跟他人光明正大的辩论（因为很多东西不太好说出来，这可不是敏感，而是真的不知道该怎么说），也不愿意让不同的意见沾染时间线</p>
 <p>我们都是用话语铸成心之壁的人，区别在于可能我一直都不像他那么自信吧…</p>
-<p>在刘的用词里面，你加入了自己的判断，而在刘那里，观点=人，他自己的判断就是这样，并没有弱化。<br><a href="https://www.zhihu.com/answer/1437799305">https://www.zhihu.com/answer/1437799305</a><br>[思考]当然……也有一个可能，那就是他所陈述的内容是大众的普遍认识，在他那里可能不是这样，也可能是观点≠人。</p>
+<p>在刘的用词里面，你加入了自己的判断，而在刘那里，观点=人，他自己的判断就是这样，并没有弱化。<br><code>https://web.archive.org/web/20220316074425/https://www.zhihu.com/question/22987136/answer/1437799305</code><br>[思考]当然……也有一个可能，那就是他所陈述的内容是大众的普遍认识，在他那里可能不是这样，也可能是观点≠人。</p>
 <p>啊是这样吗[捂脸]我很可能多多少少综合以前对他的很多印象，也很可能是这些印象使得我觉得他的语气虽然强但是基本还算就事论事的…<br>大众的普遍认识确实是往往分不清这两者，但我怀疑就算是他主观上愿意持有（观点≠人）的态度，他能在多大程度上容忍一些批评与攻击（有的攻击者甚至没批评到同一话题，这时候就还要就话题上达到一致，而在这过程中很多人就没耐心再玩下去了…），到底会在什么时候被情绪所完全左右，这个临界点我就挺好奇的</p>
 <p>可以拿自己来试验一下，下次如果无意中失控，复盘的话……应该可以体会这是里面微妙的差距吧。[思考]<br>因为第三者是理性的，往往要沉浸在情绪之中，才会体会到情绪对逻辑的影响到底有多大……很微妙。[惊喜]</p>
 <p>线下已经试验过不少次了[捂脸]，容忍程度这一点上我自认为是很不乐观，到那时只想着争着赢或争口气，对错和方向都不知道在哪里了<br>我自己线上反而还好，一来毕竟是文字说明的，我可以慢慢看，二来没有针锋相对的现场，这样我就不太容易紧张（像是辩论会那种场景下，我的表现就不太行）<br>你们那只是有偏差，但我这个是直接丢盔弃甲啦hhhh[飙泪笑][飙泪笑]还是得多加训练才行<br>加油(ง •̀_•́)ง<br>会的，谢谢hh</p>
@@ -1332,7 +1332,7 @@
     <url>/Linkeer365TinyMoment/dd7de9a6/</url>
     <content><![CDATA[
 
-<p>想法链接：<a href="https://www.zhihu.com/pin/1277747360421163008">https://www.zhihu.com/pin/1277747360421163008</a></p>
+<p>想法链接：<code>https://web.archive.org/web/20220316115206/https://www.zhihu.com/pin/1277747360421163008</code></p>
 <p>千叶：<br>我感觉啊，好的性爱应该是一场双向的心理治疗，双方可以在床上说出自己的任何性幻想，允许任何可能性，在这种表达与互动里增进自我探索。这个探索也不必一定要以插入为结局，因为我觉得性的目的是为了让受压抑的自我认同释放出来而不是一定要遵循某种规范，所以任何东西都可以作为引起兴奋的中介，get这一点需要充分发挥想象力<br>（有机会还想写写对sm的看法）</p>
 <hr>
 <p>性迫使人的本体虚无化，如果说色情也算某种意义上的欣赏，那么性本身也是对色情的解构 </p>
@@ -1371,7 +1371,7 @@
 <p>当时的我根本看不出把welcome换乘see you here有什么高级感可言，直到现在才突然领悟到该句的亲切与生动…进而才意识到他说这话的含义，根本不是给像我这种半桶水的学生听的…<br>此后我查了下四六级的卷子，类似的问题依旧醒目，宁死不用small words的情况比比皆是…</p>
 <p>想到这一点的我，连忙想趁着长假赶回老家的小学，一问才知道老师前两年退休，估计早已亲眷接到别的省市安度晚年了，想到这一节我气得直咬手腕</p>
 <p>好在朋友足够给力，他假装自己是老师的学生，在两包好烟+一番吹捧之后，我们找到了与其相熟的自然老师（同样也行将退休，这也是足够幸运的），随后得到了几版早年的英语组教案，字体一看就知道是老师的（他连粉笔字也根本不按规范字体来写，更不用说是教案了）…</p>
-<p><a href="https://douban.com/doubanapp/dispatch/book/25984177">https://douban.com/doubanapp/dispatch/book/25984177</a><br>就是这本，那句（欢迎你第二次来到中国）就是（选动词）的第二个例句，原封不动…<br>作者修订过一次，大家选择以下这本会更好…<br><a href="https://douban.com/doubanapp/dispatch/book/26425907">https://douban.com/doubanapp/dispatch/book/26425907</a></p>
+<p><code>https://web.archive.org/web/20220316043538/https://book.douban.com/subject/25984177/</code><br>就是这本，那句（欢迎你第二次来到中国）就是（选动词）的第二个例句，原封不动…<br>作者修订过一次，大家选择以下这本会更好…<br><a href="https://douban.com/doubanapp/dispatch/book/26425907">https://douban.com/doubanapp/dispatch/book/26425907</a></p>
 <p>此书其余的部分，不管讲到的没讲到的都无关紧要了…同样对老师也谈不上有多深的印象或有多感恩，但我总是想起他把(we are happy…)擦去时无奈而滑稽的神色，教育原来那么像全景敞视下的一次无奈的性交…</p>
 <p>朋友对词认为中式英语的培养方案乃是政治旨意的遗毒…彼时只要读写谙熟、能处理外文材料便万事大吉，毕竟英语说得太地道、与外国人打得太火热就更容易移民了，这样也作为一种预防…我倒是觉得这样的手段在任何时候都是蠢到拿不出手的…</p>
 <p>斯万之恋…</p>
@@ -1382,7 +1382,7 @@
     <url>/Linkeer365TinyMoment/4c500b8f/</url>
     <content><![CDATA[<img src="/Linkeer365TinyMoment/4c500b8f/Screenshot_20200713_152749.jpg" class="">
 
-<p>想法链接：<a href="https://www.zhihu.com/pin/1265833611607101440">https://www.zhihu.com/pin/1265833611607101440</a></p>
+<p>想法链接：<code>https://web.archive.org/web/20220316115442/https://www.zhihu.com/pin/1265833611607101440</code></p>
 <p>Body:<br>不久之前有人问我说，他觉得由科学构筑的世界与他的意愿相悖，不知道是他错了还是世界错了</p>
 <p>我当时胡乱对他说了一堆安慰的话，实际上我不知道该怎么安慰别人，出于一种感觉我也主要是从比较日常的粗糙角度去阐释的，现在想想或许他的内心还是有些失望的<br>Comment:<br>我读过一些非常浅的宗教书籍，在我深入理解更多的阐释之前，我暂时还不会把思维的重心放在这里…<br>对于这个问题，我现在倒是有了一些新的想法，尽管还缺少实验性的整理回溯，但应该勉强算说得过去？<br>人们经常说是科学构筑了现代的世界，但大家有没有想过，什么是科学？什么是（现代的世界）？为什么科学能够构筑现代的世界（换言之，科学的现代构造能力如何可能）</p>
 <p>什么是科学理论，什么是科学应用呢？现代性在脱离了手机电脑等高科技智能化的设备之后，它在你心目中还会显得那么现代吗？（或者说，把所有能脱离的尽可能脱离，脱离到没有自来水管每天都要出门打井水，脱离到没有电锯人们用木锯缓慢地砍树，没有玻璃塑料等一系列化工必备品…那么到哪个时刻，你会突然觉得脱离了现代性，在现代与非现代上发生了质变呢？）<br>学术上对科学的定义，是一个不太热烈但存在很多争议的话题，注意我们这里没有涉及到科学的好坏、积极作用与负面作用，就是问你什么是科学</p>
@@ -1461,7 +1461,7 @@
 <p>然后我就找到了一个叫（帅气可爱魔理沙）的知乎答主，于是我就去搜索魔理沙了，于是随后那几天我都在看thuwiki和幻想万华镜，又在首页推荐中找到了minusT的恋恋视频，于是就这样入坑了…</p>
 <p>我原先并没有看过bad apple，对bad apple的关注是我注意到了一个叫dram的答主之后才发生的</p>
 <p>而至于为什么我会注意dram，则是因为这篇文章</p>
-<p><a href="https://zhuanlan.zhihu.com/p/102428274">https://zhuanlan.zhihu.com/p/102428274</a></p>
+<p><code>https://web.archive.org/web/20220316060201/https://zhuanlan.zhihu.com/p/102428274</code></p>
 <p>你们看，这些都是足够琐碎的线索与原因，但是如果都能记录下来，是不是感觉自己的一生因为证据充足而变得更加严谨了？</p>
 <p>然后还有一点，就是可以多加考证，比如说，风聪耳神子，这个就值得查一查，圣德太子嘛对不对，然后（遍听十方）也很有佛学的味道</p>
 <p>都是拓展开去的，我的知识其实都不那么系统，只是喜欢搜索啊，对很多事情好奇啊，然后还有一件事就是经常会回头看看之前的收藏夹或者以前的记录，这样零敲碎打的，其实也不失为一种文化的风致</p>
@@ -1518,7 +1518,7 @@
 </ol>
 <p>我知道有些人会说，你考虑这些干什么，反正我也不是故意的</p>
 <p>这个问题老早以前就出现过了，知道加缪与萨特是怎么分道扬镳的吗？</p>
-<p><a href="https://www.zhihu.com/question/339325785/answer/780181688">https://www.zhihu.com/question/339325785/answer/780181688</a></p>
+<p><code>https://web.archive.org/web/20220316115551/https://www.zhihu.com/question/339325785/answer/780181688</code></p>
 <p>我反正站加缪，虽然不免被历史的尘埃滚滚淹没~</p>
 ]]></content>
   </entry>
@@ -1528,7 +1528,7 @@
     <content><![CDATA[<img src="/Linkeer365TinyMoment/1edb5bc2/Screenshot_20200902_143910.jpg" class="">
 
 <p>想法链接：</p>
-<p><a href="https://www.zhihu.com/pin/1283817569875623936">https://www.zhihu.com/pin/1283817569875623936</a><br><a href="https://www.zhihu.com/question/344845648">https://www.zhihu.com/question/344845648</a></p>
+<p><code>https://web.archive.org/web/20220316115637/https://www.zhihu.com/pin/1283817569875623936</code><br><code>https://web.archive.org/web/20220316115704/https://www.zhihu.com/question/344845648</code></p>
 <p>再次强调一遍，理解、感受这种东西，决不能由任何一个（崇高主体）去施加，如果一个人的感受和认识并不依赖于自身的体验，而是必须由什么东西赋予或给予，这种情况就是反人类，它的目标并不仅限于扭曲人类原来的生性，而带有更加精细更加深入的擒纵企图</p>
 <p>我是接受了怎样怎样的教育，才爱吃苦瓜、变得勇敢坚强，像这样的话语如果竟是实情，那可真是让人恶心</p>
 <p>永远不要被什么力量牵着鼻子走，说着他们想说的话，做着他们希望你去做的事，当然这都还好，但我们要知道他们的目标是操纵你的思想，让你怎么想都逃不出特定的阈限，那才真正标志了人的瓦解</p>
@@ -1557,8 +1557,8 @@
 <p>(6)<br>这时候就要引入一个（范式）的概念了，然后就要讲一些文明精神或科学革命一般结构的东西了…</p>
 <p>（一般这时候就可以开始推书了，但我个人还是更推荐搜【范式、科学革命、黑格尔历史主义、绝对理性发展史】这些关键词的论文）</p>
 <p>(7)</p>
-<p>《科学革命的结构》<br><a href="https://pan.baidu.com/s/1EsCQrwXVw_cb9QtjtamgUQ">https://pan.baidu.com/s/1EsCQrwXVw_cb9QtjtamgUQ</a> 提取码:j3gt</p>
-<p>《精神现象学》<br><a href="https://pan.baidu.com/s/1djArc6zCmX8adbY4JtGEAA">https://pan.baidu.com/s/1djArc6zCmX8adbY4JtGEAA</a> 提取码:d7c2</p>
+<p>《科学革命的结构》<br><code>https://web.archive.org/web/20220316115741/https://pan.baidu.com/share/init?surl=EsCQrwXVw_cb9QtjtamgUQ</code> 提取码:j3gt</p>
+<p>《精神现象学》<br><code>https://web.archive.org/web/20220316115826/https://pan.baidu.com/share/init?surl=djArc6zCmX8adbY4JtGEAA</code> 提取码:d7c2</p>
 ]]></content>
   </entry>
   <entry>
@@ -1586,10 +1586,10 @@
 <p>互联网是现代重要的公共服务之一，在中国这个高度分裂的社会样态中更是如此…每个平台都不同程度的提供了一定量的公共服务，同时也对人们的行为进行潜在的制约与规训<br>考虑到大家可能没有生活在底层的经验，就你们知不知道现在一个普普通通的年轻人上B站主要看什么…事实上我所了解到的，是他们往往并不是（想看的东西恰好在B站上恰好有），而是（B站弹出的东西我大多都爱看）甚至是（大家都爱看的东西，我怎么说也得爱看or我要跟他们一样岂不就是sb了吗）</p>
 <p>在推荐流中待一会儿没什么问题，毕竟你可能真能偶遇一些不得了的东西（比如我就偶遇到了minusT的3D东方系列）…但人生并不能总由各种run into构成，并且还是有些谄媚意味的run into…<br>我无法归纳出使用特定social media对应的一般动机，但我总认为人应该有所偏爱，就至少你自己得知道自己确切喜欢的是哪些东西，并且这种喜欢尽量不要是出自（大家都喜欢）或者（厉害的人、漂亮的人、富裕的人、事业有成的人都喜欢）<br>（有些人更极端，只要平台有专门推荐我立马不看，我知道平台肯定有它自己馋的东西，那么在得知我不可能付钱的情况下它馋的只能是我的注意力资源了…）</p>
 <p>我想到一个的判定方式就是，算一下你每天搜索关键词的次数，占据你总的观看视频次数的百分之几<br>（往深里讲，搜索关键词的词性，名词、动词还是形容词，抽象还是具体，都可以反映不少东西的，但这里就不好讲）<br>B站很丰富的，这丰富绝大多数来自那些默默贡献自己心血、分享自己感受的up主，有些甚至一直默默无闻…</p>
-<p>比如《堤中纳言物语》的虫姬<br><a href="https://www.bilibili.com/video/BV1bs41147rq">https://www.bilibili.com/video/BV1bs41147rq</a><br>（非常非常喜欢纳言物语…）</p>
-<p>比如这个艺术传播<br><a href="https://www.bilibili.com/video/BV1i5411H7CW">https://www.bilibili.com/video/BV1i5411H7CW</a></p>
-<p>觉得前两个太沉闷了也可以看这个<br><a href="https://b23.tv/oVGn0U">https://b23.tv/oVGn0U</a><br>原作：<a href="https://douban.com/group/topic/20715065/">https://douban.com/group/topic/20715065/</a></p>
-<p>甚至还可以找到…<br><a href="https://www.bilibili.com/video/BV1Zx411K7XB">https://www.bilibili.com/video/BV1Zx411K7XB</a></p>
+<p>比如《堤中纳言物语》的虫姬<br><code>https://web.archive.org/web/20220316115929/https://www.bilibili.com/video/BV1bs41147rq</code><br>（非常非常喜欢纳言物语…）</p>
+<p>比如这个艺术传播<br><code>https://web.archive.org/web/20220316115943/https://www.bilibili.com/video/BV1i5411H7CW</code></p>
+<p>觉得前两个太沉闷了也可以看这个<br><code>https://web.archive.org/web/20220316120002/https://www.bilibili.com/video/BV17s411x7Wn?p=1&amp;share_medium=android&amp;share_plat=android&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1612903236&amp;unique_k=oVGn0U</code><br>原作：<a href="https://douban.com/group/topic/20715065/">https://douban.com/group/topic/20715065/</a></p>
+<p>甚至还可以找到…<br><code>https://web.archive.org/web/20220316120120/https://www.bilibili.com/video/BV1Zx411K7XB</code></p>
 ]]></content>
   </entry>
   <entry>
@@ -1599,7 +1599,7 @@
 <p><code>http://web.archive.org/web/20210504232647/https://twitter.com/mutilated_catal/status/1344723027435552769</code><br><code>http://web.archive.org/web/20210504232214/https://twitter.com/mutilated_catal/status/1344729633904676865</code></p>
 <p>(1)<br>新年好～<br>出于一些原因，近一周得停下许多日常来进行（心神安养）一类性质的活动…跟昨天发生的事有一点点关系，但不成为主要原因…</p>
 <p>人的生命是很脆弱的，谁能确信自己一定能survive2021呢？既然如此，我们可以珍惜的东西，上传到waybackmachine上，让他们永远随着历史流传下去</p>
-<p>(2)<br><a href="https://github.com/oduwsdl/archivenow">https://github.com/oduwsdl/archivenow</a></p>
+<p>(2)<br><code>https://web.archive.org/web/20220316120131/https://github.com/oduwsdl/archivenow</code></p>
 <p>工具随便挑都是有的</p>
 <p>(3)<br>在京都动画纵火之后，我意识到kyoni-baka-blog可能会被撤下，于是提前保存了一些当前的，但后面我得知另一些人找到了更久以前的页面，就是用的waybackmachine…</p>
 <p>(4)<br>我已经不会为自己的无能感到悲伤了，人生来不能在世界里做出一丁点改变，但凡世界某时某刻要我去死，再不情愿我也不得不瞬间编程性凋亡</p>
@@ -1612,7 +1612,7 @@
     <url>/Linkeer365TinyMoment/62338b5c/</url>
     <content><![CDATA[<img src="/Linkeer365TinyMoment/62338b5c/Screenshot_20200902_143835.jpg" class="">
 
-<p>想法链接：<a href="https://www.zhihu.com/pin/1284316189355802624">https://www.zhihu.com/pin/1284316189355802624</a></p>
+<p>想法链接：<code>https://web.archive.org/web/20220316120146/https://www.zhihu.com/pin/1284316189355802624</code></p>
 <p>这是个好问题，但估计答题区会变成又一潭情感分析的洪水，所以先不答<br>情感分析的问题在它提供了一种暗示，认为自己缺爱或者孤独，然而其实并不是这样，很多人们只是潜意识里觉得被当作这样孤独的人很酷，这样就说明还不够成熟<br>成熟就是已经不把吃苦瓜当成勇敢，而是知道苦瓜不好吃（或者对你自己来说很好吃），并且内心里不在意别人对苦瓜味道的倾向与暗示（至于表面上是否体现出在意，这点并不要紧…）</p>
 <p>我不排斥亲密这种状态，但是也并不渴求，但这绝对不是因为我自己安静自重这样的属性（实际上我个人不太希望有属性的，我要是全透明或者半透明就好了），而是因为还没有遇到能够令我全身心的产生心动念头的人，不管是过去的还是当今的</p>
 <p>其实说到喜欢，什么是喜欢呢，我觉得喜欢某个人，应该就是指喜欢的各种属性的组合，恰巧被他所囊括，所诠释了这样子…<br>就像（下雪）这个现象本身是一个概述，但是真正使你感动的爱上的，实际是你看到的正在下的那一场雪，是一个实例激起了你的感动</p>
@@ -1633,7 +1633,7 @@
 
 <p>天下惟庸人无咎无誉。举天下人而恶之，斯可谓非常之奸雄矣乎。举天下人而誉之，斯可谓非常之豪杰矣乎。虽然，天下人云者，常人居其千百，而非常人不得其一，以常人而论非常人，乌见其可？故誉满天下，未必不为乡愿。谤满天下，未必不为伟人。</p>
 <p>我们只是再一次重复历史罢了。小时候我真以为工业革命后的世界与以前是不同的，现在看来只要不实现共产，那就没什么不同。只要是人对利益有所诉求，那么分配利益的残酷过程就是不变的。只是换个名字，换了个技术形式的存在。</p>
-<p><a href="https://www.zhihu.com/people/wen-xin-31-12-27">https://www.zhihu.com/people/wen-xin-31-12-27</a></p>
+<p><code>https://web.archive.org/web/20220316120215/https://www.zhihu.com/people/wen-xin-31-12-27</code></p>
 <p>邻居的小伙子背着我去看她的时候，她正艰难地呼吸着，像她那一生艰难的生活。别人告诉我，她昏迷前的最后一句话是：“我那个有病的儿子和我那个还未成年的女儿……”</p>
 <p>又是秋天，妹妹推着我去北海看了菊花。黄色的花淡雅，白色的花高洁，紫红色的花热烈而深沉，泼泼洒洒，秋风中正开得烂漫。我懂得母亲没有说完的话。妹妹也懂。我俩在一块儿，要好好儿活……</p>
 <p>读史使人绝望，人类永远不能摆脱现实的藩篱，总有恶劣的制度，邪恶歹毒的人</p>
@@ -1699,7 +1699,7 @@
 <p>可恶啊，为什么这些事情到现在才想起来…<br>小学的班主任跟了咱6年，我今生再也没有碰到过这样好的老师，由于我是所谓的得意门生，她借了我三本书看，分别是《狼王梦》、《乞丐囝仔回异录》和《天蓝色的彼岸》…<br>可以说没有她就没有现在的我，至少不可能对文学产生足够持久的兴趣…虽然已经很久很久不看作文选和儿童文学什么的了，但还是想念那些日子…</p>
 <p>我是真的想把大量的书籍放到山区的孩子们手里，但我迄今为止只做了三件，因为我能意识到读书是一件奢侈的事，沉迷看课外书是无助于数理化等校内课业的，山区的家庭是天然高度实用主义的，走不出大山的任何行为都将被视为浪费时间…<br>甚至预想到，自己的书成为了杀人的载体，因为看书耽误了学习or家务，孩子父母半夜将书尽数扔入粪池，得知孩子捡起来继续偷偷看之后火冒三丈，于是将书撕碎焚毁，第二天孩子静静地服下一瓶百草枯…末了志愿者们被冠以（不健康文化思想的毒草毒苗），再也不欢迎志愿者的光临…<br>我老忍不住这样想，所以我总是至少得多了解一点家长的态度才能合作…书本何尝不类似于外来物种入侵呢？思想与知识倘若换不来房子车子，或者不提那些，倘若换不来哪怕一个24小时热水的家，如此一来又怎能不被视作诅咒与灾厄呢？<br>更令我难过的是，走出大山的孩子，也大概率保留了较多封建的陈旧的思想，这样他们的孩子，作为富裕的不富裕的第一代进城务工人员子女，一来要面对日新月异的思想与认识的周围涌入，二来又要应付父母的不理解（我当时可是在路灯下啃着糙米馒头一边做数理化！）…这些孩子如何不变成卡夫卡呢？</p>
 <p>柔梢披风，爱情与日常<br>摩挲达树海，消元后的人间之轴<br>零梦萦园，音书与清影<br>七里濑烟汀，眉峰聚里行行重行行</p>
-<p>美意味着脆弱，如果有不脆弱的美，说明它多多少少掺杂了其他成分，譬如不锈钢不易腐蚀的原理<br>放纵独断—博落回<br><a href="https://rentry.co/ninoninoni44577">https://rentry.co/ninoninoni44577</a><br>鹭点烟汀能联想到恐怖电影，你当你《群鸟》啊…</p>
+<p>美意味着脆弱，如果有不脆弱的美，说明它多多少少掺杂了其他成分，譬如不锈钢不易腐蚀的原理<br>放纵独断—博落回<br><code>https://web.archive.org/web/20220316120232/https://rentry.co/ninoninoni44577</code><br>鹭点烟汀能联想到恐怖电影，你当你《群鸟》啊…</p>
 ]]></content>
   </entry>
   <entry>
@@ -1709,7 +1709,7 @@
 <p>（现在，气象似乎一变，到处听不见歌吟花月的声音了，代之而起的是铁和血的赞颂。然而倘以欺瞒的心，用欺瞒的嘴，则无论说A和O，或Y和Z，一样是虚假的;只可以吓哑了先前鄙薄花月的所谓批评家的嘴，满足地以为中国就要中兴。可怜他在“爱国”的大帽子底下又闭上了眼睛了——或者本来就闭着。）</p>
 </blockquote>
 <hr>
-<p><a href="https://zhihu.com/question/463692657">https://zhihu.com/question/463692657</a></p>
+<p><code>https://web.archive.org/web/20220316120242/https://www.zhihu.com/question/463692657</code></p>
 <p>很多时候看到政府的一些操作，是真的会有（黔驴技穷）的既视感的，你会发现原来所谓的（比我懂，更比你懂）的智囊团，给出来的答案是多么荒诞</p>
 <p>往深里说就是普鲁士模式的不足，进大学的时候是政策导向的，出来就业却是市场导向，那么每届学生被默默地安排进一个赌局，选（计算机）的就大获全胜，相信（21世纪是生物的世纪）的就喝西北风，学到了冷门专业就活该你一辈子倒霉<br>说浅一点就是硬着陆，社会意识落后于社会存在，搞得好像你这法一立起来，职校的学生就能立马享受到（应得的）看待一样<br>现在职业学校都快被歧视成什么样了，你不讲 signalling 不代表社会不讲、企业不讲，真当布迪厄假的啊</p>
 <p>这么说吧，在中国你随便报几家普通工厂的名头，工人的时薪要都能高过当地的快递小哥，高过滴滴司机，高过最低端的销售，那我就相信你找个晏阳初花个20年真的有可能做成，否则就是扯淡</p>
@@ -1867,7 +1867,7 @@
 <p>似乎想明白了一些后续走向，是放出真相还是if线收尾，看起来很考验编剧的胆量。</p>
 <p>有些象征，比如奇蛋中的蛋暗示了耶稣基督的复活，这种比较浅显的例子大众是早已心知肚明的…<br>所以我的个人倾向则是把目光放在一些争议的细节上，进而猜到编剧可能怎么推进这样子…<br>（等同于（复活节彩蛋）的寓意，类似于（分享命运的苹果）的含义）</p>
 <hr>
-<p>这个up的解析很棒！<br>（我万万没想到花语也能…）<br><a href="https://b23.tv/DmpNJX">https://b23.tv/DmpNJX</a></p>
+<p>这个up的解析很棒！<br>（我万万没想到花语也能…）<br><code>https://web.archive.org/web/20220316120602/https://space.bilibili.com/3860986?share_medium=android&amp;share_plat=android&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1613673640&amp;unique_k=DmpNJX</code></p>
 <p>因为up主要照顾大众，所以更深层次的东西估计就因为篇幅省略了，但我们还是应该找出它们来…</p>
 <img src="/Linkeer365TinyMoment/46dee061/q7.jpg" class="" title="梦游仙境及其姊妹篇《镜中世界》">
 
@@ -1894,7 +1894,7 @@
     <url>/Linkeer365TinyMoment/8f931dc/</url>
     <content><![CDATA[<img src="/Linkeer365TinyMoment/8f931dc/Screenshot_20200726_085519.jpg" class="">
 
-<p>想法链接：<a href="https://www.zhihu.com/pin/1270527054535450624">https://www.zhihu.com/pin/1270527054535450624</a></p>
+<p>想法链接：<code>https://web.archive.org/web/20220316120631/https://www.zhihu.com/pin/1270527054535450624</code></p>
 <p>Body:<br>想吃豆花…<br>Comment:<br>要是能用豆奶做冰淇淋就好了，不知道味道怎么样<br>不过冰沙还是稍带一点苦味比较好些，这样甜味就更加温婉一点不至于太过嚣张<br>甜是肯定要有的，但是层次感需要别的味道辅助一下才能出得来</p>
 <p>但这个结论却不适用于咖啡，我到现在还是感觉咖啡苦到一种什么味道都救不回来的地步，所以自然觉得越不苦的就越好，后来等到送的咖啡喝完就再也没喝过了<br>（不过调咖啡的牛奶很好喝，淡淡的像水一样却还是感觉百喝不厌不知道为什么）<br>至于酒和茶，酒因为酒精过敏所以不提，茶的话还是喜欢普通水仙茶（武夷水仙这类的喝不起），这小玩意一久没喝还真是令人难忘啊</p>
 ]]></content>
@@ -1941,7 +1941,7 @@
 <img src="/Linkeer365TinyMoment/86e7687d/Screenshot_20200604_084959_org.telegram.messenger.jpg" class="">
 <img src="/Linkeer365TinyMoment/86e7687d/Screenshot_20200604_085003_org.telegram.messenger.jpg" class="">
 
-<p>[Forwarded from 钉子刷屏 (Dimpurr Cheny)]<br><a href="https://zhuanlan.zhihu.com/p/31357292">https://zhuanlan.zhihu.com/p/31357292</a></p>
+<p>[Forwarded from 钉子刷屏 (Dimpurr Cheny)]<br><code>https://web.archive.org/web/20220316120650/https://zhuanlan.zhihu.com/p/31357292</code></p>
 <p>每天的晚上都会看一点历史，然后现在是越看越绝望的感觉，想到自尽的时刻开始频繁起来</p>
 <p>这个世界会好吗，我们在朝着向好的方向走吗？那些很早之前的三角龙是不是也和我一样有着类似的想法，他们也一样有这样一个有趣的社会吗？</p>
 <p>我不知道，也不知道到底要问出什么问题，依赖的链条断裂之后，人们才能意识到重力本身也是一个颠扑不破的谎言</p>
@@ -2011,7 +2011,7 @@
 <p>举例，流行的健康观念一流行即遭悬置，对熬夜久坐等不健康生活方式的批判，仅仅是作为一种对流行的共生的压抑病态的生活节奏的呼应，它往往出现在大企业的消息推送里，其目的仅仅在于通过呼应获取共识，顺便看看潜在凝聚力buff加持下的你能被榨干到什么地步。<br>现代性即讽刺笑话，即古典文学与非文学。</p>
 <hr>
 <p>中国的一些问题之所以魔幻，原因是后现代问题发酵在了前现代背景下，这会带来新情景与新解读，同时也有助于一些学者重新审视列维纳斯他们的一些东西。</p>
-<p>贴一条戴锦华老师的链接<br><a href="https://www.youtube.com/watch?app=desktop&amp;v=29xDj4as498">https://www.youtube.com/watch?app=desktop&amp;v=29xDj4as498</a></p>
+<p>贴一条戴锦华老师的链接<br><code>https://web.archive.org/web/20220316120709/https://www.youtube.com/watch?app=desktop&amp;v=29xDj4as498</code></p>
 <hr>
 <p>Mar 26 补充（正值新疆再教育营事件）</p>
 <p>人们之所以被放过，在于他们的生活图景是被主流熟知并认定了无公害的…对于不熟知的那些生活图景，如何使得别人相信处在其中的人们依旧是友善的，是相当困难的事<br>民族问题是很复杂的，但有一点可以确定，主流声音一定是排外无止境的…它可能有阵子不是，但一旦经受一点刺激，它立马就能是</p>
@@ -2030,15 +2030,15 @@
 <p>几年前<br>（你写成这样哪里会给你准假啊，又不是17世纪滥俗的骑士小说）<br>【具体请见：《暗中观察-病中观察》】</p>
 <hr>
 <p>我还是先少说点触发乌鸦嘴的话，总之目前的状况已经与常态类似了<br>（放电结束？）<br>（过几个小时小舟他们大概就会知道了…用药什么的也会调整一下…）</p>
-<p>（欲念上的苦恼也正好可以得到一两个月的缓冲…坏处是思考的停滞路段也会有所增加…）<br>跃入脑海的是这个东西<br><a href="https://www.bilibili.com/video/BV1Bx411K7H5">https://www.bilibili.com/video/BV1Bx411K7H5</a></p>
-<p>对死亡的迷恋，主要是基于散落一地的要素…我经常想到的一点是，死亡远比性交要私密，人们往往只能看到尸体，但是直播自杀这样的事情，却给了我这种变态太多的食粮了…<br>具体请见：<a href="https://zh.m.wikipedia.org/zh-cn/Neuuuuu">https://zh.m.wikipedia.org/zh-cn/Neuuuuu</a></p>
+<p>（欲念上的苦恼也正好可以得到一两个月的缓冲…坏处是思考的停滞路段也会有所增加…）<br>跃入脑海的是这个东西<br><code>https://web.archive.org/web/20220316120745/https://www.bilibili.com/video/BV1Bx411K7H5</code></p>
+<p>对死亡的迷恋，主要是基于散落一地的要素…我经常想到的一点是，死亡远比性交要私密，人们往往只能看到尸体，但是直播自杀这样的事情，却给了我这种变态太多的食粮了…<br>具体请见：<code>https://web.archive.org/web/20220316120813/https://zh.m.wikipedia.org/zh-cn/Neuuuuu</code></p>
 <p>大家可以发现，自杀或者死亡是存在（顿挫）的，也即会有断断续续的心理斗争过程…有小伙伴肯定能想到（试切创）吧（而为什么你们会有这方面知识，想到这一节在这里先抱抱你们）<br>怎么在这样的状态下意识到自己需要被拯救，或者别人怎么样才能发现这样的潜在自杀者…太重要了</p>
 <p>我个人觉得自杀并不丢人，也觉得建议大家想办法多磨蹭一阵子没什么意思，不想活还能逼着活不成，除了死以外没有任何方式去逃离社会化好吧…<br>但实际大多是这样，即不那么想死的人因一时冲动而丢命…判别方法一般是普通人观察三星期，只要三星期内发现任意一次发现自己还想活，就别tmd急于一时<br>（抑郁或者did这些患者要观察3-9个月，据他们说因为状态波动大，采样点需要分布得更广才行…平心而论挺不公平的）</p>
 <p>总体而言活着是没有什么意思的，但这绝不意味着应当马上去死…解释起来有点复杂，举个不太恰当的例子，齐泽克笑话里黑山人会用一个空的杯子来表示（起床不口渴所以不喝水）的（不喝水）这个事件，于是这里两个杯子是不同的，你喝完水之后的杯子某种（less than none）的状态…</p>
 <p>感觉自己特别不适合活着的人，多半也不那么适合去死…所谓的（我在中间，应该休息）就是这样的吧<br>（顺便告诉大家不要喜欢我，否则结局参考谢烨）</p>
 <p>真正被死神预订了的人，想跑也是跑不了的，他们的处境更为艰难，心路历程也更值得研讨</p>
 <p>比如，冯祥和董玉飞：<a href="https://zh.m.wikipedia.org/wiki/%E5%86%AF%E7%BF%94_(%E5%8C%97%E5%B7%9D)">https://zh.m.wikipedia.org/wiki/%E5%86%AF%E7%BF%94_(%E5%8C%97%E5%B7%9D)</a></p>
-<p><a href="https://lgulife.com/bbs/post/1288/">https://lgulife.com/bbs/post/1288/</a><br>（从9楼看起）<br>关于死本能的锚定与持续啸叫</p>
+<p><code>https://web.archive.org/web/20220316120917/https://lgulife.com/p/1288/</code><br>（从9楼看起）<br>关于死本能的锚定与持续啸叫</p>
 ]]></content>
   </entry>
   <entry>
@@ -2048,7 +2048,7 @@
 <p><code>http://web.archive.org/web/20210503032839/https://twitter.com/mutilated_catal/status/1372958013938663424</code><br><code>http://web.archive.org/web/20210504012646/https://twitter.com/mutilated_catal/status/1373110478768062466</code></p>
 <p>（存在灵魂的回收再利用吗）<br>5岁半的孩子为什么就会想这些…<br>虽然看上去只是些常见的困惑，但不可否认的是许多孩子所思所想已经远远超出大人的预期…出现得太早了，这思想搁古代估计要被当做乩童来培养…</p>
 <p>julao是教育工作者吗？<br>不是julao…我自己不是，只是有不少从事一线教育的朋友…</p>
-<p>问一下他/她从哪里了解到灵魂和回收再利用的概念，可能就能理解为什么会产生这样的组合了<br>以及本身就可以直接问为什么会想到这个，应该能表达的出来<br>好，我会拜托朋友去问问当事人，就按你的意思问吧<br>据说是看了一部叫《心灵奇旅》的电影之后想到的<br>大概是这个<br><a href="https://zh.wikipedia.org/wiki/%E9%9D%88%E9%AD%82%E5%A5%87%E9%81%87%E8%A8%98">https://zh.wikipedia.org/wiki/%E9%9D%88%E9%AD%82%E5%A5%87%E9%81%87%E8%A8%98</a></p>
+<p>问一下他/她从哪里了解到灵魂和回收再利用的概念，可能就能理解为什么会产生这样的组合了<br>以及本身就可以直接问为什么会想到这个，应该能表达的出来<br>好，我会拜托朋友去问问当事人，就按你的意思问吧<br>据说是看了一部叫《心灵奇旅》的电影之后想到的<br>大概是这个<br><code>https://web.archive.org/web/20220316120953/https://zh.wikipedia.org/wiki/%E9%9D%88%E9%AD%82%E5%A5%87%E9%81%87%E8%A8%98</code></p>
 ]]></content>
   </entry>
   <entry>
@@ -2067,11 +2067,11 @@
 <p>我这一生是很难结婚的了，我对女生和男生都会产生强烈的好感是不假，但是我的好感只能持续大概2个小时便开始大幅度稀释，最后就变成清水一样的，提不起冲动和兴趣</p>
 <p>我对物的情感会相对久一些，当然绝大多数也是类似的结局，我真的就像恋恋一样（什么都不知道，一回头发现自己处于人群之中），这就是我的性格吧，或许也暗中决定了我的命运也说不定</p>
 <p>但我对一件事情感兴趣，就是世界的公理和法则，或者说是（道），我希望做一个复读机，把它们都灌输进人们的脑海里</p>
-<p><a href="https://www.zhihu.com/question/395038377/answer/1230538557">https://www.zhihu.com/question/395038377/answer/1230538557</a></p>
-<p><a href="https://www.zhihu.com/question/314039826/answer/616952203">https://www.zhihu.com/question/314039826/answer/616952203</a></p>
+<p><code>https://web.archive.org/web/20220316121005/https://www.zhihu.com/question/395038377/answer/1230538557</code></p>
+<p><code>https://web.archive.org/web/20220315192349/https://www.zhihu.com/question/314039826/answer/616952203</code></p>
 <p>统计数字真的很重要，这一点也是我反复强调的，你至少要有做一个入门型quant这样的技能和意识才比较好</p>
-<p><a href="https://www.zhihu.com/question/22906063/answer/405549763">https://www.zhihu.com/question/22906063/answer/405549763</a></p>
-<p><a href="https://www.zhihu.com/question/357494643/answer/920097844">https://www.zhihu.com/question/357494643/answer/920097844</a></p>
+<p><code>https://web.archive.org/web/20220316121135/https://www.zhihu.com/question/22906063/answer/405549763</code></p>
+<p><code>https://web.archive.org/web/20220316121214/https://www.zhihu.com/question/357494643/answer/920097844</code></p>
 ]]></content>
   </entry>
   <entry>
@@ -2091,7 +2091,7 @@
     <url>/Linkeer365TinyMoment/2cb8168e/</url>
     <content><![CDATA[<img src="/Linkeer365TinyMoment/2cb8168e/Screenshot_20200722_233128.jpg" class="">
 
-<p>想法链接：<a href="https://www.zhihu.com/pin/1269110736031891456">https://www.zhihu.com/pin/1269110736031891456</a></p>
+<p>想法链接：<code>https://web.archive.org/web/20220316121302/https://www.zhihu.com/pin/1269110736031891456</code></p>
 <p>我们最后会变成父母的翻版吗？那这样我倒是可以安心了，他们都算是足够善良且足够努力的人，虽然有点小封建且固执，只要成为这样我就可以安心了</p>
 <p>我有时在幻想，如果已死之人汇集在某处，那个地方的时间刚好和我们这边是相反的，我们这里看到的是他们的过去，而他们在那里能看到我们的未来，但是因为生与死的阻隔使我们无法通信，那要是能通信了，我们就能一同证明宿命论的存在</p>
 ]]></content>
@@ -2130,7 +2130,7 @@
 <p><code>http://web.archive.org/web/20210504161634/https://twitter.com/mutilated_catal/status/1352345017759588352</code></p>
 <p>那么多垃圾，猪猡一样呼呼喘了六七十年，换来一个古来稀的称号，看得我直想笑</p>
 <p>人口走向老龄化，优秀的年轻人们却莫名其妙地陆续早死…我懂了，加速吧，让这个世界在漫山遍野的过氧化物中得到重生<br>这样好</p>
-<p>（黄金联合国大厦般巨大的天皇陛下在黑暗的天空轰响着喷气推进飞行）<br>（右翼！我是皇道派的右翼！…）<br>《政治少年之死》<a href="https://book.douban.com/subject/4898543/">https://book.douban.com/subject/4898543/</a></p>
+<p>（黄金联合国大厦般巨大的天皇陛下在黑暗的天空轰响着喷气推进飞行）<br>（右翼！我是皇道派的右翼！…）<br>《政治少年之死》<code>https://web.archive.org/web/20220316121559/https://book.douban.com/subject/4898543/</code></p>
 <p>当你有许多上好、强烈的仇恨时，你是不需要希望的，因为仇恨本身就能给你提供足够的养分<br>《押沙龙！押沙龙！》<br><a href="https://book.douban.com/subject/4619135/">https://book.douban.com/subject/4619135/</a></p>
 ]]></content>
   </entry>
@@ -2141,7 +2141,7 @@
 <p><code>http://web.archive.org/web/20210505082032/https://twitter.com/mutilated_catal/status/1346877244212469762</code></p>
 <p>今天是生日，应该开心一点</p>
 <p>据说预产期原本是12月19号的，然而因为各种原因推迟了数十天，出生后又遭遇各种问题…大概就是，对除了我以外所有人来讲都不是特别好的回忆？<br>（一般生日会在12月下旬任意一天庆祝，这也是我作此推断的原因之一）</p>
-<p><a href="https://zh.m.wikipedia.org/zh-tw/2013%E5%B9%B4%E5%8E%A6%E9%97%A8%E5%85%AC%E4%BA%A4%E8%BD%A6%E7%BA%B5%E7%81%AB%E6%A1%88">https://zh.m.wikipedia.org/zh-tw/2013%E5%B9%B4%E5%8E%A6%E9%97%A8%E5%85%AC%E4%BA%A4%E8%BD%A6%E7%BA%B5%E7%81%AB%E6%A1%88</a></p>
+<p><code>https://web.archive.org/web/20220316121727/https://zh.m.wikipedia.org/zh-tw/2013%E5%B9%B4%E5%8E%A6%E9%97%A8%E5%85%AC%E4%BA%A4%E8%BD%A6%E7%BA%B5%E7%81%AB%E6%A1%88</code></p>
 <p>然而我真正的生日应该是6月7号</p>
 <p>那天的我正是坐着那趟车，但中途突然有一个奇怪的人硬要把我拉下车，理由是（等下有危险）？<br>（记得当时好像在卧龙晓城还是哪里，总之离事发地还有4-5站的样子）<br>（然后我真的下车了，反正无非等五分钟再搭一趟…对没错我是真的很佛）</p>
 <p>下车之后，我又鬼使神差地跑到楼下买了两个冰淇淋吃，随后我妈妈的电话打来说她要加班，不能一起吃饭所以让我直接就近吃了<br>这也很正常，但我那天感觉整体状况就诡异到极点，理论上我的钱是够吃一顿麦当劳的，但我突然就想试试饿它一天肚子，看看会发生什么</p>
@@ -2169,16 +2169,16 @@
 <p>我没法知道自己的记忆是怎样组织起来的（不能认识到这里的逻辑结构）也一度觉得可能这对所有人都是不可知的…但今天碰到一个人，似乎是使用（短语组）进行串接，然后将所有的要素、包括它们之间的逻辑结构统统都记下来了</p>
 <p>太恐怖了，不知道是什么奇怪的秘法，只能问他写不写自传…<br>（这么好的条件就别拖拉了呀…）</p>
 <p>对了并且他的情况也偏于（水）这样反正我们都读不了…唉，就算是能当个主编也好啊…</p>
-<p>虽然因为各种原因，早期记忆已经丢失大半了…<br>举个例子，这个是我出生之后记忆的起点，那时我大约3-4岁左右，跟亲戚在街上走，路过小卖部时搂了一眼，就在放这一集<br>【我不是差等生-第4集】<br><a href="https://v.youku.com/v_show/id_XNDAwMDg4OTI5Mg==.html">https://v.youku.com/v_show/id_XNDAwMDg4OTI5Mg==.html</a>?</p>
+<p>虽然因为各种原因，早期记忆已经丢失大半了…<br>举个例子，这个是我出生之后记忆的起点，那时我大约3-4岁左右，跟亲戚在街上走，路过小卖部时搂了一眼，就在放这一集<br>【我不是差等生-第4集】<br><code>https://web.archive.org/web/20220316121842/https://v.youku.com/v_show/id_XNDAwMDg4OTI5Mg==.html</code></p>
 <p>这个我找了快5-6年，因为我不知道片名，也不知道怎么描述剧情，只记得（又又车祸朋友探望），然后怎么搜都搜不到…<br>所以我内心里非常非常感谢这个up，是他让我的这段记忆复活了…</p>
-<p>第二部也就顺带着出现了，是这个<br><a href="https://movie.douban.com/subject/1997685/">https://movie.douban.com/subject/1997685/</a><br>（初中音乐课的期末电影…）</p>
-<p>第三处，也即《当水变成了冰雪》出处<br><a href="https://book.douban.com/subject/3269684/">https://book.douban.com/subject/3269684/</a></p>
+<p>第二部也就顺带着出现了，是这个<br><code>https://web.archive.org/web/20220316121908/https://movie.douban.com/subject/1997685/</code><br>（初中音乐课的期末电影…）</p>
+<p>第三处，也即《当水变成了冰雪》出处<br><code>https://web.archive.org/web/20220316033826/https://book.douban.com/subject/3269684/</code></p>
 <p>还有小时候爸爸给我讲过的自编故事，联机打暴力摩托+帝国…</p>
 <p>而我是怎么回报他们的呢？<br>不及格不及格不及格…<br>生病生病生病…<br>叛逆叛逆叛逆…</p>
 <hr>
 <p>突然想起来我到目前为止似乎就去过一次电影院，还是被小伙伴拉着去的<br>看的似乎是功夫熊猫2？总之此后就再也没去过了…</p>
 <p>不过番剧倒是看过不少，十年前似乎正是日番的井喷期…<br>当时似乎看的是这个，鑢姐姐成功地激发了我潜在的变态属性<br>（解剖视频…）</p>
-<p><a href="https://www.bilibili.com/bangumi/play/ep17642">https://www.bilibili.com/bangumi/play/ep17642</a><br>诚刀防御</p>
+<p><code>https://web.archive.org/web/20220315192922/https://www.bilibili.com/bangumi/play/ep17642</code><br>诚刀防御</p>
 <img src="/Linkeer365TinyMoment/be273238/%E8%87%AA%E8%BA%AB%E7%9A%84%E6%B7%B1%E8%BF%9C.jpg" class="">
 
 <p>要是我真出了问题，负责处决的大约依然是小舟，估计她会很难过吧…<br>封尽妖魔.jpg</p>
@@ -2193,20 +2193,20 @@
     <content><![CDATA[<p>原帖：</p>
 <p><code>http://web.archive.org/web/20210503074325/https://twitter.com/mutilated_catal/status/1357739914016690176</code><br><code>http://web.archive.org/web/20210503022715/https://twitter.com/mutilated_catal/status/1358286927405924352</code><br><code>http://web.archive.org/web/20210504103852/https://twitter.com/mutilated_catal/status/1357782502925074445</code><br><code>http://web.archive.org/web/20210510043055/https://twitter.com/mutilated_catal/status/1358403546299858947</code><br><code>http://web.archive.org/web/20210504102559/https://twitter.com/mutilated_catal/status/1358872875143372801</code><br><code>http://web.archive.org/web/20210503064316/https://twitter.com/mutilated_catal/status/1358497641991077888</code><br><code>http://web.archive.org/web/20210504093839/https://twitter.com/mutilated_catal/status/1359957697571876865</code><br><code>http://web.archive.org/web/20210504094432/https://twitter.com/mutilated_catal/status/1359932937039347713</code></p>
 <p>丧病到libgen都没法上传，这波属实nb…<br>前几天两个人狂吃，现在可真出不起这个，唉…</p>
-<p>其实主要是想传一份《技术与时间》，答应了小群的事一直拖着没有去做…<br><a href="https://book.douban.com/subject/10564099/">https://book.douban.com/subject/10564099/</a></p>
+<p>其实主要是想传一份《技术与时间》，答应了小群的事一直拖着没有去做…<br><code>https://web.archive.org/web/20220315193004/https://book.douban.com/subject/10564099/</code></p>
 <p>（自动化社会那本其实更好，他其实早在自杀前十几年就对共产主义的社会潜力绝望了吧，所以可见绝望也不代表马上要去自杀…）<br>单看这名字就知道，老海德格尔了…</p>
 <hr>
 <p>这个梦就有点刁难人了…<br>在小学的我似乎是一个先锋作家或批评家，观点非常激进（醒来后忘记是什么观点了…），然后大家表面上都非常崇拜我，于是我想要打破这一层面纱，于是我在跟一个同学交流激进想法的时候，口水顺着阁楼的把手漏了下去<br>那个同学于是找了个借口跟我道别，我意在挽留但他快步走远了…走到小学的风雨操场，我远远看见一个上吊的尸体在风中摇晃，但不知是谁<br>走出校门后我看见了一个初中要好的同学，他依旧如此友善令我感到欣喜，我向他打招呼，他的面孔逐渐变成我的，又缓慢变回自己…尽管如此我依旧感到开心，然后梦醒</p>
 <hr>
 <p>羡慕钢笔字写得好的…除了初高中用水笔多一些之外，绝大多数时间我还是用铅笔（并且到现在还经常，嗯，橡皮擦用力过猛把纸擦破…小学生石锤了）<br>当然重要的材料还是要迅速电子化的，这也是小学时候的教训了…还有签字的时候要备一支水性笔这样…</p>
 <hr>
-<p><a href="https://b23.tv/ClWEcG">https://b23.tv/ClWEcG</a></p>
+<p><code>https://web.archive.org/web/20220316122155/https://www.bilibili.com/video/BV1cV411i7Zq?p=1&amp;share_medium=android&amp;share_plat=android&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1612703014&amp;unique_k=ClWEcG</code></p>
 <p>西西里战役设计得非常非常好，推荐试下…<br>从05年算起，我也算打了快15年了…当时的很多战术现在已不流行（织布机农民1远防的版本可以22p叉矛前置，当时的绝活现在也打不出来了）</p>
 <hr>
-<p>时隔一年多再谈癌症筛查的重要性<br><a href="https://lgulife.com/bbs/post/658/">https://lgulife.com/bbs/post/658/</a></p>
+<p>时隔一年多再谈癌症筛查的重要性<br><code>https://web.archive.org/web/20220316122213/https://lgulife.com/p/658/</code></p>
 <p>这一代大约会在34-35岁的时候集体…虽然不太好接受但日子还得照样过…</p>
 <hr>
-<p>好久远啊，人们快把你忘了<br><a href="https://blog.csdn.net/myan/article/details/35500">https://blog.csdn.net/myan/article/details/35500</a></p>
+<p>好久远啊，人们快把你忘了<br><code>https://web.archive.org/web/20220315111413/https://blog.csdn.net/myan/article/details/35500</code></p>
 <hr>
 <p>想到过年的应酬就心累…<br>想窝起来看点东西…或者看看博同学又有什么新想法…<br>太太…虽然感觉挺可爱的…</p>
 <img src="/Linkeer365TinyMoment/f067bb47/%E5%A4%AA%E5%A4%AA%E5%8F%AF%E7%88%B1.jpg" class="">
@@ -2216,7 +2216,7 @@
 
 <p>谢谢你们，我真的希望在网络的另一端你们都能过上自己真心想过的生活，而不是被现世安稳或约定俗成骗取一生…<br>感情是和巧克力廉价的东西，但它却能轻易让人们忘记劳苦与寒冷，真的谢谢你们，我不知道我是否真心认为这份感情是重要的，但至少我在这样的感情里面找到了温暖…</p>
 <hr>
-<p>Retweeted: <a href="https://twitter.com/notreal_catalan/status/1343261185550905344">https://twitter.com/notreal_catalan/status/1343261185550905344</a></p>
+<p>Retweeted: <code>https://web.archive.org/web/20220316122252/https://twitter.com/notreal_catalan/status/1343261185550905344</code></p>
 <p>后面有人补充了一些，但不知道是谁…<br>（不作为火而燃烧的元素）<br>（音障）<br>（丛生的头，下肢神经疾病）<br>（序幕，又见序幕）</p>
 <p>就算是小打小闹级别的战争，也总要以人的生命为代价进行展开…<br>无根水是没法生木的，在动力上肯定更愿意跟妈妈呆一起…这么弱的兑金应该构不成泽水困，甚至会被狂风直接吹走…<br>但我并不觉得用巽就能概括，如果真这样不就直接抄十几年前的答案啦，比如禽流感猪流感什么的…问题还是在人，每类人每个人的生命都无比珍贵</p>
 ]]></content>
@@ -2226,7 +2226,7 @@
     <url>/Linkeer365TinyMoment/65a702b4/</url>
     <content><![CDATA[<img src="/Linkeer365TinyMoment/65a702b4/Screenshot_20200815_090437.jpg" class="">
 
-<p>想法链接：<a href="https://www.zhihu.com/pin/1277771131903479808">https://www.zhihu.com/pin/1277771131903479808</a></p>
+<p>想法链接：<code>https://web.archive.org/web/20220316121756/https://www.zhihu.com/pin/1277771131903479808</code></p>
 <p>等下，看起来我也要做一点声明，尽管他之前好像已经做过类似的了</p>
 <p>知识场域很容易存在各种微观权力的泛滥，并且我自己对芳名也不能说完全没有希求，这使得人们可能因为我发的这些想法与回答，把我当成一个和蔼可亲抑或冠冕堂皇的figure，对这一点我无法做到内在和外在的客观批判（甚至连客观评价也做不到），这一点是我自己的问题，但它在同时作为一种现象存在的时候，我还是希望如果有关注我的人们，不要太把我的话语当回事，也就是我发的这些东西很可能存在大量的误读，它们绝不源于我的有意为之，但还是那句话既然它作为一种现象存在，你们就一定要有相应的策略，尽可能做到，依智不依识，依法不依人</p>
 <p>像小群他们是能够做到因为日前所言有误而亲自道歉的，而我记忆力没那么好，虚荣心也强，这方面的力量就小得多了，但做到这种程度的诚实还是没什么问题的，也希望大家能够知道这些…</p>
@@ -2237,7 +2237,7 @@
     <url>/Linkeer365TinyMoment/92ff68f4/</url>
     <content><![CDATA[<img src="/Linkeer365TinyMoment/92ff68f4/Screenshot_20200710_080655.jpg" class="">
 
-<p>想法链接：<a href="https://www.zhihu.com/pin/1264714268034838528">https://www.zhihu.com/pin/1264714268034838528</a></p>
+<p>想法链接：<code>https://web.archive.org/web/20220316122300/https://www.zhihu.com/pin/1264714268034838528</code></p>
 <p>社会的极限在哪里？<br>历史的极限在哪里？</p>
 <p>人与人的心灵应该如何接驳呢？不一定需要精准的复刻，粗糙的就可以了<br>比如说，（能帮我想出做这件事的一些点子吗？）（能帮我找到可以想出这些好点子的人吗？）诸如此类的问题<br>（这真是好久之前的事了，你能帮我想起它来吗？）这样的也可以，虽然还不知道怎么描述这到底属于哪种学问</p>
 <p>梦里的世界虽然足够危险，但要是有更多的可能性，我相信还是有很多人同样地不愿意醒来<br>梦醒了无路可走是可悲的，然则总好过于在梦与梦之间寻找千万条路，兜兜转转从一个梦到另一个梦<br>这大抵也就是为什么晓美焰最终选择了对抗既定的玫瑰色神明</p>
@@ -2271,11 +2271,11 @@
   <entry>
     <title>秋天不回来</title>
     <url>/Linkeer365TinyMoment/11391180/</url>
-    <content><![CDATA[<p><a href="https://b23.tv/Cir5Bp">https://b23.tv/Cir5Bp</a><br><a href="https://b23.tv/VYSScl">https://b23.tv/VYSScl</a><br><a href="https://b23.tv/DWEWag">https://b23.tv/DWEWag</a><br><a href="https://b23.tv/KeitTA">https://b23.tv/KeitTA</a></p>
+    <content><![CDATA[<p><code>https://web.archive.org/web/20220316122327/https://www.bilibili.com/video/BV1v7411G7si?p=1&amp;share_medium=android&amp;share_plat=android&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1623435351&amp;unique_k=Cir5Bp</code><br><code>https://web.archive.org/web/20220316122341/https://www.bilibili.com/video/BV1FK4y1L7sv?p=1&amp;share_medium=android&amp;share_plat=android&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1623436177&amp;unique_k=VYSScl</code><br><code>https://web.archive.org/web/20220316122349/https://www.bilibili.com/video/BV1ax411E7Lw?p=1&amp;share_medium=android&amp;share_plat=android&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1623436308&amp;unique_k=DWEWag</code><br><code>https://web.archive.org/web/20220316122404/https://www.bilibili.com/video/BV1Hp4y1e7Yt?p=1&amp;share_medium=android&amp;share_plat=android&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1623436762&amp;unique_k=KeitTA</code></p>
 <p>（你所说的（现在）对我来说都是遥不可及的，我只能活在过去，活在那个每个服装店都不约而同地放着夜曲或者秋天不回来的时代…）<br>（但在那个时代的我估计也会怀念过去吧，坐大巴车跑到几十公里外的城里的旧货市场收集各种七七八八的影碟，那里有一种沁入丹田的水烟气息，总是我想起虐待与凌辱）<br>（音乐从来不能代表时代，就像香水不能用来鉴别女人…我只是怀疑这些外部于曾经的生活的介质， accompany ，到底带走了我们的，来自我们内部的什么）</p>
 <p>hyohyo姐平时都喜欢听什么音乐呀~~<br>很杂，没有特别具体的类型</p>
 <p>（中国人生来具有法古的本能，对我们来说，旧日时光就像乡愁一样挥之不去…是这样，的确要建立在过的不算太坏的基础上，但如果那样一般就不会去回忆了，所以但凡回忆里的一般都还不错）<br>（我不恨网络，我只恨上网的人，或者说借着法不责众的便利在网上大肆煽风点火的人，但说到底也是我的错，之前没想到有这样一群人，更谈不上把他们变成但凡有些不那么低级的趣味的人了…我想回到那个上网的人没那么多，网络的界面没那么繁复的年代，那时候人们会用网瘾来指代上网的人）<br>（但你能说那个时代不好吗，涌现着各种入流的不入流的小花样，人们在龟爬一般的网速里探索世界，虚拟世界的边界尚且清晰，所有的玩物都基于挑选搜索而非推送…）</p>
-<p><a href="https://b23.tv/78rL9z">https://b23.tv/78rL9z</a></p>
+<p><code>https://web.archive.org/web/20220316122417/https://www.bilibili.com/video/BV1Ms41147Nc?p=1&amp;share_medium=android&amp;share_plat=android&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1623440366&amp;unique_k=78rL9z</code></p>
 <p>（与其说我活在了过去，不如说过去夺走了我，让我在当下时代的骄阳里颓圮下去，而后支离破碎）<br>（日出一到，彼此瓦解）</p>
 ]]></content>
   </entry>
@@ -2295,7 +2295,7 @@
     <url>/Linkeer365TinyMoment/df594386/</url>
     <content><![CDATA[<img src="/Linkeer365TinyMoment/df594386/Screenshot_20200705_225126.jpg" class="">
 
-<p>想法链接：<a href="https://www.zhihu.com/pin/1262910698990551040">https://www.zhihu.com/pin/1262910698990551040</a></p>
+<p>想法链接：<code>https://web.archive.org/web/20220316122431/https://www.zhihu.com/pin/1262910698990551040</code></p>
 <p>Body:<br>不敢相信…<br>Comment:<br>脑海里冒出各种各样的比方，他们是杂陈而像蜂群一般盘旋飞出的，真是诡异的奇妙啊<br>《镜花缘》没错，只能用这个词来形容<br>也许历史在另一种观察视角下是万花筒与奇遇记，而我们之所以无法观察是因为视角受限，</p>
 <p>可数与不可数，连续与离散，仅仅是因为没有解读连续的能力而已，只是因为所谓的（流）没有办法得到超过线性时间的探测而已</p>
 <p>摘出一点进行展开的东西，足以惊艳世界长达千年之久的定则公理，不过是神圣存在的一次偶然的浇灌…<br>解耦与断裂，或者在同样频率与能级之间的近义词，孳息与拓展，</p>
@@ -2388,7 +2388,7 @@
 <ul>
 <li><input disabled="" type="checkbox"> (2019年10月22日19:52:44) 去医务室看一下皮肤的问题, 最近感觉这个荨麻疹挺久的了, 拖着也不是好办法…</li>
 <li>(2019年10月22日19:53:39) 我想要的是那种一点刻奇也不包含的爱, 但是这样的东西估计不太多</li>
-<li>(2019年10月22日19:54:15) 回收羽箭的意识, 就像一些大佬特别喜欢嘲讽别人, 但是我们就是要从中找出创新的奇迹, 例如这个<a href="https://www.zhihu.com/question/24867368/answer/29256310">陈硕</a>, 其实我觉得他不算嘲讽了…, 但是如果把这句话当成嘲讽看的话, 我们就要明白, 其实我们可以使用md文档把每一页的书籍内容做一个小概括, 然后把笔记上传到github上面, 这样子查找起来就非常方便了…(一定要电子化, 否则一旦丢失就很麻烦, 更何况时间太长了连同墨水也一并会褪色殆尽的)</li>
+<li>(2019年10月22日19:54:15) 回收羽箭的意识, 就像一些大佬特别喜欢嘲讽别人, 但是我们就是要从中找出创新的奇迹, 例如这个<a href="%60https://web.archive.org/web/20220315193440/https://www.zhihu.com/question/24867368/answer/29256310%60">陈硕</a>, 其实我觉得他不算嘲讽了…, 但是如果把这句话当成嘲讽看的话, 我们就要明白, 其实我们可以使用md文档把每一页的书籍内容做一个小概括, 然后把笔记上传到github上面, 这样子查找起来就非常方便了…(一定要电子化, 否则一旦丢失就很麻烦, 更何况时间太长了连同墨水也一并会褪色殆尽的)</li>
 </ul>
 <ol>
 <li>1个我, 我有三种幸福：诗歌，王位，太阳(海子《夜色》)</li>
@@ -2441,15 +2441,15 @@
 <li>(2019年11月2日11:07:51) 玩《上古神器2》还有《上古神器3》, 感觉当时的剧情真的是nice啊~</li>
 <li><img src="/Linkeer365TinyMoment/217ed618/%E4%B8%8A%E5%8F%A4%E7%A5%9E%E5%99%A8%E5%87%BA%E5%93%81%E4%BA%BA-%E7%B2%BE%E7%81%B5-%E6%9C%89%E8%B6%A3.jpg" class="" title="嘿嘿"></li>
 <li><img src="/Linkeer365TinyMoment/217ed618/%E5%AF%B9%E5%BE%80%E4%BA%8B%E7%9A%84%E7%95%99%E6%81%8B.jpg" class="" title="生动的岁月">
-<a href="https://www.zhihu.com/question/279255504/answer/678127725">民国时期-变态</a></li>
-<li>(2019年11月2日16:05:39) 推荐书籍, 年轻时:<a href="https://www.zhihu.com/question/29554817/answer/62116667">这里</a><h3 id="2019年11月8日"><a href="#2019年11月8日" class="headerlink" title="2019年11月8日"></a>2019年11月8日</h3></li>
+<a href="%60https://web.archive.org/web/20220316122602/https://www.zhihu.com/question/279255504/answer/678127725%60">民国时期-变态</a></li>
+<li>(2019年11月2日16:05:39) 推荐书籍, 年轻时:<a href="%60https://web.archive.org/web/20220316122635/https://www.zhihu.com/question/29554817/answer/62116667%60">这里</a><h3 id="2019年11月8日"><a href="#2019年11月8日" class="headerlink" title="2019年11月8日"></a>2019年11月8日</h3></li>
 <li>(2019年11月8日21:11:06) 观察到下载clang pre-built包的秒速不到100kb,果断setupVpn插件翻墙,瞬间加速至200kb,节约了3/4时间…</li>
 <li>(2019年11月8日21:12:17) 以后一定记住, 什么时候要果断翻墙下载, 什么时候要在本土下载,什么时候要换源,都是一些意识而已…</li>
 </ul>
 <ol>
 <li>解决clang不能识别<code>vector</code>等c++11设施的问题,觉得不是clion的问题, 应该是mysy2本身包就是旧的,所以不支持c++11也比较好理解,但是各种操作的确整的人相当的心烦意乱, 很多无谓的光阴就是在这种情况下白白浪费的!烦!</li>
 <li>我现在的办法有两个,一个是直接干死clang,但是clang的报错信息太香了我自己舍不得…另一个是给msys2配一个clang的新包…</li>
-<li>参考<a href="https://www.zhihu.com/question/22923569/answer/23172337">这里</a></li>
+<li>参考<a href="%60https://web.archive.org/web/20220316122656/https://www.zhihu.com/question/22923569/answer/23172337%60">这里</a></li>
 <li>尚未完成!待补充!</li>
 <li>(2019年11月8日21:50:46) 妈的, native llvm不支持, fxxk!</li>
 <li>目前还是没有支持的办法,只能用msys2内自带的千年老包clang,唉clion就是个dd<a href="https://intellij-support.jetbrains.com/hc/en-us/community/posts/360000051520-Add-native-support-for-llvm-clang-in-win10-with-clion-and-make-the-compiler-change-easy-">这里</a></li>
@@ -2470,9 +2470,9 @@
 <li>(2019年11月9日10:17:58) 又癫痫了, 浑身难受!</li>
 </ul>
 <h3 id="2019年11月15日"><a href="#2019年11月15日" class="headerlink" title="2019年11月15日"></a>2019年11月15日</h3><ul>
-<li>(2019年11月15日12:44:25) <a href="https://www.zhihu.com/question/24257406/answer/27221203">刘丁宁</a></li>
+<li>(2019年11月15日12:44:25) <a href="%60https://web.archive.org/web/20220316122723/https://www.zhihu.com/question/24257406/answer/27221203%60">刘丁宁</a></li>
 <li>(2019年11月15日12:44:41) <img src="/Linkeer365TinyMoment/217ed618/%E5%88%98%E4%B8%81%E5%AE%81%E6%88%AA%E5%9B%BE.jpg" class="" title="刘丁宁"></li>
-<li>(2019年11月15日12:55:12) <a href="https://www.zhihu.com/question/24257406/answer/27221203">真实的世界</a></li>
+<li>(2019年11月15日12:55:12) <a href="%60https://web.archive.org/web/20220316122723/https://www.zhihu.com/question/24257406/answer/27221203%60">真实的世界</a></li>
 <li>(2019年11月15日20:53:50) 刷新所有dns内容:<br><code>cmd -&gt; ipconfig /flushdns </code></li>
 </ul>
 ]]></content>
@@ -2504,7 +2504,7 @@
     <url>/Linkeer365TinyMoment/34f491ce/</url>
     <content><![CDATA[<img src="/Linkeer365TinyMoment/34f491ce/Screenshot_20200827_235807.jpg" class="">
 
-<p>想法链接：<a href="https://www.zhihu.com/pin/1280621542477168640">https://www.zhihu.com/pin/1280621542477168640</a></p>
+<p>想法链接：<code>https://web.archive.org/web/20220316122757/https://www.zhihu.com/pin/1280621542477168640</code></p>
 <p>话说我们近30年来有什么比较著名的，就是那种由群众自下而上发起的social movements，然后最后不是以群众的惨败而告终的吗？</p>
 <p>我不知道这么说合不合适，我只是觉得社会主体始终应当存在一些相似的诉求，而政府往往不可能全部满足，那么就需要各自让步或妥协</p>
 <p>但我的疑问是，作为群众的我们有赢过吗，<br>或者这么说，有获得想要的原来没有的东西吗？</p>
@@ -2518,8 +2518,8 @@
     <content><![CDATA[<p>原帖：</p>
 <p><code>http://web.archive.org/web/20210503044955/https://twitter.com/mutilated_catal/status/1373337232845721607</code><br><code>http://web.archive.org/web/20210510084541/https://twitter.com/mutilated_catal/status/1373357452851306500</code><br><code>http://web.archive.org/web/20210504011054/https://twitter.com/mutilated_catal/status/1373353888250740737</code></p>
 <p>好想把现有的一切都记录下来，就像现在回头看十年前剩了一半还没写完的几何题的感觉一样…</p>
-<p>当然更重要的大概是断罪吧<br><a href="https://zh.m.wikipedia.org/wiki/Neuuuuu">https://zh.m.wikipedia.org/wiki/Neuuuuu</a><br><a href="https://m.thepaper.cn/newsDetail_forward_1907239">https://m.thepaper.cn/newsDetail_forward_1907239</a></p>
-<p>人真可怜<br><a href="https://www.youtube.com/watch?app=desktop&amp;v=eP1dm93C22c">https://www.youtube.com/watch?app=desktop&amp;v=eP1dm93C22c</a></p>
+<p>当然更重要的大概是断罪吧<br><code>https://web.archive.org/web/20220316122810/https://zh.m.wikipedia.org/wiki/Neuuuuu</code><br><code>https://web.archive.org/web/20220316090329/https://m.thepaper.cn/newsDetail_forward_1907239</code></p>
+<p>人真可怜<br><code>https://web.archive.org/web/20220316122829/https://www.youtube.com/watch?app=desktop&amp;v=eP1dm93C22c</code></p>
 <hr>
 <p>跌宕自喜，迷人之食</p>
 <p>等下，有什么奇怪的东西显露出来了</p>
@@ -2528,9 +2528,9 @@
 <p>（笑话的取材尽管是源于困惑的，但可笑程度不减，然而我已经死了，被洗过一遍的我与此刻写下这些鞭毛般文字的我，自然没有什么共鸣可言；但这中间间隔着的东西，需要耗费不知多少代价才能重新整理回来的东西，像亚历山大图书馆一样，将化作从笑话走向其悲剧本质的介质）</p>
 <p>（是的，要让匿名的时间变得具体可感，就只能让人们从所谓「存在之痛」里找出路，时间绝不是目的也绝不是手段，把时间还原为目的与手段的那个东西，就是痛的表象…内时间，对的应该这么讲比较合适，前面的词汇你全局地改改，别让人们有误解）</p>
 <p>（对了，小博最近身体好吗，我担心他又和a闹别扭…他是个好孩子，不会无缘无故害人的…）</p>
-<p>最后的最后，我想说的是，「一切你所感受到的悲伤，那都是真实的」<a href="https://b23.tv/F7Cfus">https://b23.tv/F7Cfus</a></p>
+<p>最后的最后，我想说的是，「一切你所感受到的悲伤，那都是真实的」<code>https://web.archive.org/web/20220316044320/https://www.bilibili.com/video/BV1yW411L72D?p=1&amp;share_medium=android&amp;share_plat=android&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1613924530&amp;unique_k=F7Cfus</code></p>
 <p>那个涂着橙色指甲油的女孩子，她的灵魂再也回不来了，时代就是时代，人在时代里像笑话和蝼蚁…请帮忙记住她和他们，如果有一天我们都被忘干净了，就算我们有一天都被忘干净了</p>
-<p>谢谢你谢谢你，你能来这一趟，这真是太好了…<br><a href="https://limelight.moe/t/topic/5716">https://limelight.moe/t/topic/5716</a></p>
+<p>谢谢你谢谢你，你能来这一趟，这真是太好了…<br><code>https://web.archive.org/web/20220316063514/https://limelight.moe/t/topic/5716</code></p>
 ]]></content>
   </entry>
   <entry>
@@ -2538,7 +2538,7 @@
     <url>/Linkeer365TinyMoment/416aee8e/</url>
     <content><![CDATA[<img src="/Linkeer365TinyMoment/416aee8e/Screenshot_20200722_233116.jpg" class="">
 
-<p>想法链接：<a href="https://www.zhihu.com/pin/1268711129196134400">https://www.zhihu.com/pin/1268711129196134400</a></p>
+<p>想法链接：<code>https://web.archive.org/web/20220316122923/https://www.zhihu.com/pin/1268711129196134400</code></p>
 <p>（我觉得，有一些实在，处在高于我们的维度观察着我们的举动，不知道他们会怎样看待我们…）<br>（不，不对，人眼的视觉残留大约是0.1s，那么就算处在同一维度，只要用时短到足够定时躲避观测就可以）<br>（但是如果这样，那么是躲不过高频快照的，人们可以把图片一张张洗出来，就像慢镜头观察某种蝴蝶一下下翕动鞘翅）【纠正为鳞翅，估计是笔误】<br>（这样就宣判死刑了，这个同维的想法是走不通的，除非再不断加快到直到出现一个频率f0，使得观察发生质变，否则就是走不通）【他估计是想着如果这个存在使用的躲避速度高于全球全部的现有设备，那么探探上界的想法还是很自然的】<br>（你说公理与准则会不会是懒加载的啊，高层统治性的存在写好了一堆又一堆的基础实现并高度解耦，然后随机丢下几个factor和基础环境，然后静静看着世界在千年的维度下会整出什么花样、弄出什么洋相来，就跟我们做的鱼缸生物圈是一样的，只是他们观察的尺度更大更广，我们就跟植物一样跟沙漠一样，因为很多人看鱼缸也是把鱼默认为和旁边的假山鹅卵石一并看待的，都当作景物…）</p>
 <p>我再次低估了这个家伙的脑洞，我不知道应不应该这么说，如果每个人的wildest dream是有一个区间的话，那么他绝对能大幅度拉高人类整体的一个上界，或者至少为最大值的范围提供了足够高的下界…</p>
 <p>我一开始觉得他属于中二一类，但现在我觉得他不算，他并不特别在意自己在各类事件中的位置与作用，他只是内设了一套解释世界的私人逻辑体系，在他的世界里大规模的危难与机遇、崩裂与弥合估计占不到半页的篇幅</p>
@@ -2551,7 +2551,7 @@
     <url>/Linkeer365TinyMoment/bfa62422/</url>
     <content><![CDATA[<p>原帖：</p>
 <p><code>http://web.archive.org/web/20210429112322/https://twitter.com/mutilated_catal/status/1340354463832281090</code></p>
-<p><a href="https://twitter.com/notreal_catalan/status/1340354463832281090">原贴</a></p>
+<p><a href="%60https://web.archive.org/web/20220316134720/https://twitter.com/notreal_catalan/status/1340354463832281090%60">原贴</a></p>
 <p>推特有字数限制，所以就只适合发在这里啦</p>
 <p>(1)<br>读到了一些神奇的内容，大概是说既然绝大多数都是线上的活动，那么所有浏览过的网页即可以被流量诊断所监视<br>这个家伙竟然把这个原理拿来监视自己了，每星期打出一张分析表，再把它们逐个看过一遍…绵密地活在三四个设备之间，游刃有余的存在，竟然发生在一个还没上高中的小孩子身上</p>
 <p>(2)<br>（你以后是想学计算机的吗）<br>（不是，我以后唯独不可能学计算机）</p>
@@ -2620,7 +2620,7 @@
     <content><![CDATA[<p><a href="https://linkeer365.github.io/Linkeer365ColorfulLife3/617158613">https://linkeer365.github.io/Linkeer365ColorfulLife3/617158613</a></p>
 <p>所以当你预想完这一切之后回到当下，你就会恍然大悟，原来不是因为网络、虚拟世界有毒，是只有在玩网的时候，才能完全不被期待地活成自己心目中的样子，才能像吟游诗人、江洋大盗、绿林好汉一样无拘无束，才能躲开那些不想见到的人和事，不想面对的过去与承担不起的未来…<br><a href="https://web.archive.org/web/20210309190654/https://www.lgulife.com/bbs/post/1269/">https://web.archive.org/web/20210309190654/https://www.lgulife.com/bbs/post/1269/</a></p>
 <hr>
-<p><a href="https://b23.tv/MrX8In">https://b23.tv/MrX8In</a><br>这边就有现成例子了…</p>
+<p><code>https://web.archive.org/web/20220316123407/https://www.bilibili.com/video/BV1cf4y1W771?p=2&amp;share_medium=android&amp;share_plat=android&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1620154080&amp;unique_k=MrX8In</code><br>这边就有现成例子了…</p>
 <p>虚拟世界不现实，但它对你不见得不真实，虽然我一直批判的就是这种广义的真实，但不妨碍通过它们来感受自然，感受生命的况味<br>停留于现实人际与景点是远远不足取的，人最终还是要孤身地以单人名义踏入新世界，所以大家选择玩（或者不玩）一款游戏真的不必太过内疚，虚拟世界为何就不能是你的人生呢…</p>
 <p>《死亡圣器》最后的对话…</p>
 <img src="/Linkeer365TinyMoment/a64c9471/%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A.jpg" class="">]]></content>
@@ -2638,7 +2638,7 @@
     <content><![CDATA[<img src="/Linkeer365TinyMoment/f35970fc/Screenshot_20200814_175703.jpg" class="">
 
 <p>想法链接：</p>
-<p><a href="https://www.zhihu.com/pin/1277649060175286272">https://www.zhihu.com/pin/1277649060175286272</a><br><a href="https://www.zhihu.com/question/412021541/answer/1396811872">https://www.zhihu.com/question/412021541/answer/1396811872</a></p>
+<p><code>https://web.archive.org/web/20220316123419/https://www.zhihu.com/pin/1277649060175286272</code><br><code>https://web.archive.org/web/20220316070651/https://www.zhihu.com/question/412021541/answer/1396811872</code></p>
 <p>这篇是我在【禁言7天乐】期间写的，部分地代表了我一般的观点<br>（主要是那几天和表妹四处吃喝整得我是头昏脑胀，我本来都不怎么吃正规晚饭的结果那几天，唉…）<br>（人就不能吃撑，吃撑的时候普遍生发不出什么思想…）</p>
 <p>现在就当时观点进行一些批判</p>
 <ol>
@@ -2650,11 +2650,11 @@
 <p>但我们知道，媒体掌握的声音强度是个人的百倍乃至千倍，面临问题他向来只需要构造自己的一个场域，就能如同一支军队一般高效地鼓噪。一支鼓噪的军队所过之处，人们的清净瞬间化为乌有，就算他不进行鼓噪抑或蛊惑，被褫夺了的清净也算得上不小的损失</p>
 <p>也就是说，如果媒体只是一味地饲喂无关信息，不管这些信息是好是坏，是否别有用心，也足够造成严重的不良影响<br>这并非危言耸听，有些人一辈子无病无灾，但他的即时性的思想却被各式各样的声音揉来扭去，这就跟吃太撑一样，过几天来看害处并不大，但是因为头昏脑胀而未能生发的思想却也将永远沉寂了</p>
 <p>但其实我这里并不想就媒体往下深谈，大众文化与传媒这一方面前人之述备矣，我主要还是在反思信号，尤其是有政治推手的信号对学术的影响<br>我不曾怀疑过义务教育的发心，我也丝毫不怀疑中国年轻一代的平均文化素质将高到空前绝后，但我对年轻一代是否能很好地摆脱信号的影响没有足够的信心<br>（当然那些基本的信号我相信是大多能做到的，我相信他们都能很好地关怀、至少是尊重残疾人，也相信他们在不同民族的同胞们的对话中能够具备足够平等的眼光，这些属于基本素质的范畴）<br>我所说的信号是全新的，它涵盖了大量的范畴，我们必须要有一种在思潮到来之际迅速辨别出它与历史中哪一些现象类似的能力，如果能够用某些模型解释就更好，但最基本的还是识别与对照<br>现代性并不意味着一切全新，历史上完全没有经验对照的时刻并不多，所以还是要多多地了解与揣测，这样或许就会相对不那么迷惑与绝望（当然迷惑与绝望是不能免除的，清醒的人往往要死被杀在黎明之前）</p>
-<p>那这里就衍生出一个问题，所有的知识都可以被当做某个范畴下的历史，那么这么多的历史，我们到底应当如何去掌握呢？<br>这里就给大家推荐一本书《十九札》<br><a href="https://book.douban.com/subject/25722219/">https://book.douban.com/subject/25722219/</a><br>这本书有一个好处，就是他通俗地讲了很多文献学目录学的东西，并且治学的办法也非常朴素<br>再给大家推荐一个回答<br><a href="https://www.zhihu.com/question/43663694/answer/103097192">https://www.zhihu.com/question/43663694/answer/103097192</a><br>虽然我个人是很反对万物结构化的，但是在研究问题上改用就要拿起来用…</p>
-<p>Libgen上竟然连这都有，神了…<br><a href="http://libgen.is/book/index.php?md5=7A04B224E92DDC5613C6001A230C552E">http://libgen.is/book/index.php?md5=7A04B224E92DDC5613C6001A230C552E</a></p>
+<p>那这里就衍生出一个问题，所有的知识都可以被当做某个范畴下的历史，那么这么多的历史，我们到底应当如何去掌握呢？<br>这里就给大家推荐一本书《十九札》<br><code>https://web.archive.org/web/20220316123455/https://book.douban.com/subject/25722219/</code><br>这本书有一个好处，就是他通俗地讲了很多文献学目录学的东西，并且治学的办法也非常朴素<br>再给大家推荐一个回答<br><code>https://web.archive.org/web/20220316123545/https://www.zhihu.com/question/43663694/answer/103097192</code><br>虽然我个人是很反对万物结构化的，但是在研究问题上改用就要拿起来用…</p>
+<p>Libgen上竟然连这都有，神了…<br><code>https://web.archive.org/web/20220315194434/http://libgen.is/book/index.php?md5=7A04B224E92DDC5613C6001A230C552E</code></p>
 <hr>
 <p>【匿名用户也是我…】</p>
-<p>作者：匿名用户<br>链接：<a href="https://www.zhihu.com/question/412021541/answer/1396811872">https://www.zhihu.com/question/412021541/answer/1396811872</a><br>来源：知乎<br>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p>
+<p>作者：匿名用户<br>链接：<code>https://web.archive.org/web/20220316070651/https://www.zhihu.com/question/412021541/answer/1396811872</code><br>来源：知乎<br>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p>
 <p>（草我还以为新增功能是每个回答的编辑记录都可以访问，空欢喜…）</p>
 <p>再次强调一下，问题不在于吹、不吹、黑、不黑这几种选择，问题在于这个question的【meta的东西】不会随着时间的推移或者普通的批判而磨灭，这种意识、或者思维的惯性路径一样的东西，只会定期地在不同的人群中、在不同的时空下、在另一款不叫知乎的app里生成新的类似的问题，跟触手怪一样的，不是说你今天明天砍了它几只手就能消弭的在某些情况下，这种问题在给某些人们带来极大快感的同时，给更多的人带来焦虑感、自卑感与无助感，这种情况下说得严重点，你甚至可以认为这是一种针对智力、针对成就荣誉的微型PUA（虽然目前还不知道gaslight是哪种象征性意指）</p>
 <p>综合看本题的一些回答，可以发现一个明显的矛盾，就是：个体具备察觉潜在规训的感知力，获得感知力之后反抗意识逐步产生，但反抗意识又会在“点赞答题都是自愿自主行为”的属性影响下变得模糊进而萎靡也就是说，当我们隐隐约约觉得这样的一个问题是某类peer-pressure booster，进而渴望对它进行批判的时候，我们往往会产生一种观念，觉得：1. 当出现了批判“厉害的00后”的声音时，我们会意识到，这种批判很可能会被很多人潜在地认为是“酸了酸了”，也很可能被认为是针对某个“厉害的00后”（或者某些“厉害的00后”）（或者所有“厉害的00后”）的；</p>
@@ -2668,14 +2668,14 @@
     <url>/Linkeer365TinyMoment/14c5c3ab/</url>
     <content><![CDATA[<p>原帖：</p>
 <p><code>http://web.archive.org/web/20210503035411/https://twitter.com/mutilated_catal/status/1343986803645116417</code><br><code>http://web.archive.org/web/20210503061856/https://twitter.com/mutilated_catal/status/1343993441198305280</code><br><code>http://web.archive.org/web/20210503063734/https://twitter.com/mutilated_catal/status/1343994519994306560</code></p>
-<p>(1)<br><a href="https://douyu.com/753676">https://douyu.com/753676</a></p>
+<p>(1)<br><code>https://web.archive.org/web/20220316123649/https://www.douyu.com/topic/2022SpringST_ZJZF?rid=753676</code></p>
 <p>被那个烦人的家伙影响了下，我tm发现帝国2真的贼好玩…<br>（小舟:你终究变成了我.jpg）</p>
 <p>(2)<br>尽管如此，我发现女人们的思维总归还是难以切入的，凡是自发的不需要依赖理性的思维碎片都非常模糊以至于不可读…</p>
 <p>(3)<br>预防地讲，这句话至少明面上并不体现对女性思维的歧视或侧目（我知道潜意识里肯定有，不用提醒）</p>
 <p>之所以提到这个是为了引出一个前几年的例子，即林奕含</p>
-<p>(4)<br><a href="https://b23.tv/tNYSB5">https://b23.tv/tNYSB5</a></p>
+<p>(4)<br><code>https://web.archive.org/web/20220316123704/https://www.bilibili.com/video/BV1yW411L72D?p=1&amp;share_medium=android&amp;share_plat=android&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1609265714&amp;unique_k=tNYSB5</code></p>
 <p>是我从小舟那里得知的人，也让我终于得知了专属小舟的语句映射到底从何而来（说白了就是简单的挪用而已，没有任何创新）</p>
-<p>(5)<br><a href="https://m.douban.com/note/671559278/">https://m.douban.com/note/671559278/</a></p>
+<p>(5)<br><code>https://web.archive.org/web/20220316123737/https://www.douban.com/</code></p>
 <p>举例<br>（苹果 = 路上有美女快看）</p>
 <p>tmd这不就是个人肉text expander而已，但凡懂一丁点映射的人都能猜出来…</p>
 <p>(6)<br>我非但不会因此悲伤，我还会去猜想，到底为什么会把苹果和美女联系起来，估计就是取材于基督教作品对（禁果）的现实取样都是苹果，所以苹果泛指尘俗的性欲，于是指向美女</p>
@@ -2690,7 +2690,7 @@
 <p>(8)<br>罗唣太常见了，然后尔维显然源于采薇<br>但其实我对后半句更在意…</p>
 <p>因为维常之华的常指的是（棠），（常樱之花）也有常<br>，然后不知道玩只狼的时候大家有没有打到（常樱之花）的结局，所以这里的（常）有没有通假呢？</p>
 <p>（棠樱）没查到，我不会日语的</p>
-<p>(9)<br><a href="https://sekiroshadowsdietwice.wiki.fextralife.com/Aromatic+Flower">https://sekiroshadowsdietwice.wiki.fextralife.com/Aromatic+Flower</a></p>
+<p>(9)<br><code>https://web.archive.org/web/20220316123800/https://sekiroshadowsdietwice.wiki.fextralife.com/Aromatic+Flower</code></p>
 <p>(case) closed.<br>常这里就是指ever，（天行有常）</p>
 ]]></content>
   </entry>
@@ -2728,7 +2728,7 @@
     <url>/Linkeer365TinyMoment/f44bd64b/</url>
     <content><![CDATA[<img src="/Linkeer365TinyMoment/f44bd64b/Screenshot_20200715_192819.jpg" class="">
 
-<p>想法链接：<a href="https://www.zhihu.com/pin/1266801701056790528">https://www.zhihu.com/pin/1266801701056790528</a></p>
+<p>想法链接：<code>https://web.archive.org/web/20220316123903/https://www.zhihu.com/pin/1266801701056790528</code></p>
 <p>昨晚有点失灵，现在基本上没什么问题了（应该</p>
 <p>谈一下（对和赢）以及（啃书）</p>
 <p>对和赢的分野一直很清晰，而（对）的判定本身有时是众说纷纭的，这也是（对）能给我带来足额吸引力的原因，相信对许多人也是这样</p>
@@ -2740,7 +2740,7 @@
 <p>这不是取巧，因为我跟很多哲学系的学生发邮件问了，我发现他们（那些比较好说话的，不喷阴气的部分）都苦于难以读完各类大部头，并且据说（考完试后一两周就忘的差不多了，就是看看导论还能过活这样子），这与我的预期基本相符</p>
 <p>人的精力有限，最好是直接跳到问题上去，比如数学你就尽快开始学习各种证明，社会学就尽快摘要出基本的意见然后查资料写札记…</p>
 <p>这里不是说看大部头不好，如果你很有兴趣能把大部头看成消遣（确实有一个特别喜欢康德的，每天就是看原著，据说有时连觉也睡不着，脑子里就想着各类理论），那这就没关系，爱看就看，但这个显然不是大部分人的爱好，也更不是一个哲学研究者的研究模式（并且那兄弟是学气象学的，他也不是正经搞哲学这行的家伙）</p>
-<p>顺便推一下<br><a href="https://plato.stanford.edu/">https://plato.stanford.edu/</a><br>还有<br><a href="http://www.askphilosophers.org/">http://www.askphilosophers.org/</a><br>这两个（不过似乎翻墙才能上？）<br>不知道谁来提供一个镜像…</p>
+<p>顺便推一下<br><code>https://web.archive.org/web/20220315174010/https://plato.stanford.edu/</code><br>还有<br><code>https://web.archive.org/web/20220316123917/https://www.askphilosophers.org/</code><br>这两个（不过似乎翻墙才能上？）<br>不知道谁来提供一个镜像…</p>
 ]]></content>
   </entry>
   <entry>
@@ -2769,7 +2769,7 @@
     <url>/Linkeer365TinyMoment/68184b68/</url>
     <content><![CDATA[<img src="/Linkeer365TinyMoment/68184b68/Screenshot_20200814_155129.jpg" class="">
 
-<p>想法链接：<a href="https://www.zhihu.com/pin/1277621065234149376">https://www.zhihu.com/pin/1277621065234149376</a></p>
+<p>想法链接：<code>https://web.archive.org/web/20220316124005/https://www.zhihu.com/pin/1277621065234149376</code></p>
 <p>人们对事物发展的曲折性是有充分认识的，这种曲折性似乎自然引出阶段意识，也即凡是事物的进展总存在一条或几条路线，而后我们采用拾级而上的思路（指导方针），这被认为是符合客观规律的</p>
 <p>然而，这种思想隐藏了一个前提，即我们是知道（上）这个方向和维度的，也即存在一个（海拔）的参考系数供我们去比照；如果成功的目标不是向上走，而是到了一定高度后向山的内部探入，那么任务改变目标改变的同时，面临的挑战也可能从（危乎高哉）变成（幽暗昏惑而无物以相）</p>
 <p>并且注意，我这里并不是指人们没有事先考虑到新挑战需要的条件，这里我们讲的是方向和战略目标，换句话说，</p>
@@ -2790,12 +2790,12 @@
     <content><![CDATA[<img src="/Linkeer365TinyMoment/a0272ed0/Screenshot_20200727_215215.jpg" class="">
 <img src="/Linkeer365TinyMoment/a0272ed0/Screenshot_20200727_215459.jpg" class="">
 
-<p>想法链接：<a href="https://www.zhihu.com/pin/1270863515453112320">https://www.zhihu.com/pin/1270863515453112320</a></p>
+<p>想法链接：<code>https://web.archive.org/web/20220316124148/https://www.zhihu.com/pin/1270863515453112320</code></p>
 <p>相同药厂不同时间生产的同种药片会有区别吗，最近店内的药不知道为什么突然卖完了（连这种药都有淡季旺季之分的吗），然后吃的是储备的药，结果今天一起来就口腔溃疡了，虽然可能没有直接关系，但还是感到好奇…</p>
 <p>想谈点文化工业批判的东西，但我对那段历史了解的程度还远远不够，万花筒般的亚文化浪潮只能作为参考，就像我前面说的，文化本身是概括过的表相，它确实能对社会现象进行充分的解释，但是本质的揭示还是力有不逮的</p>
 <p>但我们现在因为什么都没有，所以就干脆先随便讲点文化的东西，有点像那个交枪的港片是不是（因为我们本来就没有几条枪嘛！）<br>但因为没有明确的主题，所以这里只能遗憾地作为杂谈的现场了，高档的接风酒会变成了在路边的野餐毯上的杂陈，这个问题出在我身上</p>
 <p>阿道尔诺首先充当一个音乐界的文艺复兴家，而古典音乐被以美国为代表的粗暴的、麦当劳化的工业制作流程强奸，他认为这是文化也在逐步被（大众文化）入侵的一个缩影，并且因为产生出（大众文化）的背后这套逻辑体系已经根深蒂固难以清楚了，因此他一来是对以大众文化为代表的文化工业本身进行批判，二来则是要清算这产生出文化工业的内在逻辑进行批判<br>简而言之就是标本共治</p>
-<p>因为大家接触到的应该都是启蒙辩证法这本，（其实这本书几乎囊括了所有，你不看其他的那些独立成篇的音乐批判根本不碍事，书不能看太多；也有说阿道尔诺在批判中走入虚无主义的，我其实没看出来）<br>对了，你们可以先看这一篇，我就觉得今天怎么会想起讲这个，<br><a href="https://zhuanlan.zhihu.com/p/52742194">https://zhuanlan.zhihu.com/p/52742194</a><br>这篇讲得比我要清楚，你们可以先看这篇</p>
+<p>因为大家接触到的应该都是启蒙辩证法这本，（其实这本书几乎囊括了所有，你不看其他的那些独立成篇的音乐批判根本不碍事，书不能看太多；也有说阿道尔诺在批判中走入虚无主义的，我其实没看出来）<br>对了，你们可以先看这一篇，我就觉得今天怎么会想起讲这个，<br><code>https://web.archive.org/web/20220316124233/https://zhuanlan.zhihu.com/p/52742194</code><br>这篇讲得比我要清楚，你们可以先看这篇</p>
 <p>这篇简直完美，我还不知道怎么一步步讲讲理性是怎么变成了统治的高效工具、为什么私人文化垄断是某种mere的霸权<br>（以及为什么康德被托克维尔看作统治者的鹰犬hhhh）<br>（康德：我不是，我没有，都是马克斯韦伯提的我什么都没说～）</p>
 <p>唉，为什么想起什么就发现老是被别人提前做了提前说了呢，不想当复读机又不得不当…<br>以后复读机改为（歌颂者）怎么样？</p>
 <p>mild，笔误</p>
@@ -2826,7 +2826,7 @@
     <content><![CDATA[<img src="/Linkeer365TinyMoment/42092c9b/Screenshot_20200727_215058.jpg" class="">
 <img src="/Linkeer365TinyMoment/42092c9b/Screenshot_20200727_215134.jpg" class="">
 
-<p>想法链接：<a href="https://www.zhihu.com/pin/1270793725787475968">https://www.zhihu.com/pin/1270793725787475968</a></p>
+<p>想法链接：<code>https://web.archive.org/web/20220316124251/https://www.zhihu.com/pin/1270793725787475968</code></p>
 <p>中国为什么在这个问题上老是有争论，原因就是传统认知与世俗成见在刻板印象上的固化上产生了协同作用（但这个其实问题不大，因为风气性质的东西属于趋势，人是不可抵挡的，但是否会一如我们所愿这个也难说）</p>
 <p>对类似这种现象，我觉得就应该采取绝对的自由态度，这不是什么矫枉必先过正的问题，而是本来就应该是这样的态度，</p>
 <p>人们愿意变成什么样完全就应该是出于自己的心意来的，唯一要注意的一点应该是操作是否可逆的问题，其他的任何对私人领域的规劝都应该视为压迫，这就有点像裹小脚或者留辫子，大家还记得以前（留发不留头）的案例吧，现在看来是不是可笑至极？不留发的就能忠了吗？</p>
@@ -2850,7 +2850,7 @@
 <p>这不是（既来之则安之）能了结的啊，咱也要吃饭睡觉的啊，陪聊不是这么陪的啊…  </p>
 <p>（河流山川）（大地母亲）我知道这个，以后我带一班的小孩过来这边一起合唱，音质有保障的好吧大哥…<br>（不过，这个家伙的思路有明显的铆接痕迹是显而易见的了，不过共性是都发生在90-09这20年，也挺好的其实）<br>等着吧  </p>
 <p>补充说明一下，（河流山川大地母亲），在如此接近的连续的上下文中出现，我倾向于这一种解释</p>
-<p><a href="https://b23.tv/PpyEpf">https://b23.tv/PpyEpf</a></p>
+<p><code>https://web.archive.org/web/20220316124314/https://www.bilibili.com/video/BV19b411y7Pn?p=1&amp;share_medium=android&amp;share_plat=android&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1608669781&amp;unique_k=PpyEpf</code></p>
 <p>有点辣耳朵，但应该就是指（哺育了我，紧紧拥抱）这两句</p>
 <p>我不知道为什么他一直以为这是时下流行的青年音乐，因为90年代也不是没有主打专属青年的主题的音乐的…</p>
 ]]></content>
@@ -2866,14 +2866,14 @@
 <p>有点恐怖…</p>
 <img src="/Linkeer365TinyMoment/a5717642/%E8%A1%80%E4%B9%8Bbug.jpg" class="">
 
-<p>这种溯回的感觉好像呛水啊…<br>《王巨成-颜妍生命中的一场地震》<br><a href="https://wk.baidu.com/view/a3d4152458fb770bf78a559f?pcf=2&amp;bfetype=new">https://wk.baidu.com/view/a3d4152458fb770bf78a559f?pcf=2&amp;bfetype=new</a><br>疯了，简直了…</p>
+<p>这种溯回的感觉好像呛水啊…<br>《王巨成-颜妍生命中的一场地震》<br><code>https://web.archive.org/web/20220316124616/https://wenku.baidu.com/view/a3d4152458fb770bf78a559f?pcf=2&amp;bfetype=new&amp;bfetype=new</code><br>疯了，简直了…</p>
 <p>wlac.<br>(work like a charm)<br>不知道说什么好了…完全就是我小学初中那时的样子…<br>这些书当时似乎都是一些文艺的小女生比较喜欢看…搞得我都要单独定杂志，从而不能享受75折…</p>
 <p>那时的我似乎已经在想，文学与诗歌似乎是俄罗斯年轻女人的天生所钟，这也是为什么红河谷和bellaciao会那么感人…但是结完婚之后的她们体型变化的迅速，也同样是不容小觑的…<br>落入厨房的女人，她的青春与美能折旧成多少份额，又因为容颜不再悲剧又会多快找上门来？那时候她还能如此钟爱文学吗？</p>
 <p>于是我放眼望去，男生们几乎没有相关的订阅（当然也可能像我一样自己偷偷订来看的），他们固然不很懂得文字之美；但是这又何尝不是一种（对享乐的俭省）呢？钟情于文学的女生，终有一天世界会把她所有的热爱弃掷于地，毕竟（暮去朝来颜色故）了，这种共识指向了唯一的结局…</p>
 <p>那时我的年纪，似乎还要过几年才开始遭受性欲的困扰，但我不知道为什么我当时就是这样想，跟个油腻恶心的老男人一样…</p>
 <p>这样的思维总在发书的时候出现，久而久之对班里的女生就不能很好地交谈了，原本老想着攒钱偷偷买一双的水晶粉色拖鞋，也瞬间在大脑里暗淡下去<br>恋爱结婚？（请选择一个异性，让她在你手中变成一个悲剧，经你之手这个悲剧一定有独特的时代含义，亚伯拉罕在上帝开口以前就馋得把早已孩子做成barbecue）</p>
 <hr>
-<p><a href="https://book.douban.com/subject/1041057/">https://book.douban.com/subject/1041057/</a><br>之前之所以查不到是因为把（张之路）错记成（张之翼）了…</p>
+<p><code>https://web.archive.org/web/20220316124716/https://book.douban.com/subject/1041057/</code><br>之前之所以查不到是因为把（张之路）错记成（张之翼）了…</p>
 ]]></content>
   </entry>
   <entry>
@@ -2893,7 +2893,7 @@
     <url>/Linkeer365TinyMoment/f94246c5/</url>
     <content><![CDATA[<p>原帖：</p>
 <p><code>http://web.archive.org/web/20210510044418/https://twitter.com/mutilated_catal/status/1345084267903139840</code></p>
-<p>(1)<br><a href="https://zhihu.com/question/437236368">https://zhihu.com/question/437236368</a></p>
+<p>(1)<br><code>https://web.archive.org/web/20220315194753/https://www.zhihu.com/question/437236368</code></p>
 <p>不要去想一件事描述了什么，而要去看它自己是基于什么的，以及体现了什么、象征了什么，这才是重要的…</p>
 <p>输赢永远只是一时之计，你有本事拿下一城，但千千万万没有这样的口才，没有这样的临场反应的人们，他们又将如何破局呢？</p>
 <p>(2)<br>全世界凡是在社会化中的人，从生到死无非几件大事，医疗诉讼教育养老…</p>
@@ -3003,23 +3003,23 @@
 <p>我个人说起来倒是没感到气馁，但我不由自主地怀疑这些所谓的（放弃了高薪谷歌工作、意在回归初心的人），是不是还缺少了一点耐心？这样随意拉黑来客的行为，到底是他所认为的高效社交、还是生活已经把他变成了一个缺少耐性、动辄怀疑他人的人？</p>
 <p>如果我是一名老师，我一定不会这么做的，至少会把朋友的信息保留住，因为我实在不清楚对面的人此时会不会很着急，说到底我希望成为这样的人，也希望出任教师一职的人们都能有同我一样的习惯…</p>
 <p>2.搜索到午时葵的另一些内容</p>
-<p><a href="https://zhuanlan.zhihu.com/p/271834131">silentl…</a><br><a href="https://zhuanlan.zhihu.com/p/271959078">不堪回首的年代</a><br><a href="https://zhuanlan.zhihu.com/p/272064839">插议：尼克吊打徐英瑾</a></p>
+<p><a href="%60https://web.archive.org/web/20220315194847/https://zhuanlan.zhihu.com/p/271834131%60">silentl…</a><br><a href="%60https://web.archive.org/web/20220316124940/https://zhuanlan.zhihu.com/p/271959078%60">不堪回首的年代</a><br><a href="%60https://web.archive.org/web/20220316125000/https://zhuanlan.zhihu.com/p/272064839%60">插议：尼克吊打徐英瑾</a></p>
 <p>午时葵是我所认为的非常非常有潜力的科研苗子，他能够直言吐露各类大学的各种形形色色的人的表现，我认为这种精神是科研从业者的首要品质</p>
-<p><a href="https://www.zhihu.com/question/365008335/answer/994956171">寻找治愈的魔法</a><br><a href="https://zhuanlan.zhihu.com/p/102428274">Δ12，百利甜酒与寻找治愈的猫</a></p>
+<p><a href="%60https://web.archive.org/web/20220316125018/https://www.zhihu.com/question/365008335/answer/994956171%60">寻找治愈的魔法</a><br><a href="%60https://web.archive.org/web/20220316060201/https://zhuanlan.zhihu.com/p/102428274%60">Δ12，百利甜酒与寻找治愈的猫</a></p>
 <p>小葵也同时是非常非常可爱的孩子，《百利甜酒》一文是我认识他的最初起点，像雪花与甜酒一般美好的（女？）孩子</p>
-<p><a href="https://www.zhihu.com/question/384970183/answer/1129342192">我的匿名回答</a><br><a href="https://twitter.com/InanimateDream_/status/1344097729874546688">小葵的反馈</a></p>
+<p><a href="%60https://web.archive.org/web/20220316065254/https://www.zhihu.com/question/384970183/answer/1129342192%60">我的匿名回答</a><br><a href="%60https://web.archive.org/web/20220316125100/https://twitter.com/InanimateDream_/status/1344097729874546688%60">小葵的反馈</a></p>
 <p>什么叫“念念不忘必有回响”啊，好好看好好学（我的文字竟然让别人有了这么深切的感触，诶那是真的纯属意外啊…）</p>
 <h1 id="2021年1月2日00-10-43"><a href="#2021年1月2日00-10-43" class="headerlink" title="2021年1月2日00:10:43"></a>2021年1月2日00:10:43</h1><p>应该测一下心率，不知道华为mate9有没有原生的心率app…<br>忘记小米手环放哪儿了，还是我爸在这个学期出发之前特定帮我买的，唉…<br>其实爸爸妈妈对我的关心是体现得明明白白的，我到现在却几乎无法报答他们…</p>
 <h1 id="2021年1月2日13-43-55"><a href="#2021年1月2日13-43-55" class="headerlink" title="2021年1月2日13:43:55"></a>2021年1月2日13:43:55</h1><p>感觉象棋水平有所提升，能较轻松地击败象棋巫师的低级难度了…</p>
 <h1 id="2021年1月2日14-02-09（昨晚手机记录）"><a href="#2021年1月2日14-02-09（昨晚手机记录）" class="headerlink" title="2021年1月2日14:02:09（昨晚手机记录）"></a>2021年1月2日14:02:09（昨晚手机记录）</h1><ol>
 <li>买筒纸</li>
-<li><a href="https://www.agefans.net/detail/20170045">重启咲良田</a></li>
+<li><a href="%60https://web.archive.org/web/20220316125120/https://www.agemys.com/detail/20170045%60">重启咲良田</a></li>
 <li>早起时回头看一下B站收藏夹以及历史记录</li>
 <li>有点好奇，感冒的时候只有刚起床会感到喉咙非常痛非常干涩，此后这种感觉会慢慢消退，而转为仅仅是咳嗽或流鼻涕（嗓子就不疼了），不知道是为什么</li>
 </ol>
 <h1 id="2021年1月2日20-14-19"><a href="#2021年1月2日20-14-19" class="headerlink" title="2021年1月2日20:14:19"></a>2021年1月2日20:14:19</h1><p>打帝国，高丽马车真是厉害啊，攒好一堆半打什么都是平推，投矛手上去就是送…</p>
 <h1 id="2021年1月4日01-54-22"><a href="#2021年1月4日01-54-22" class="headerlink" title="2021年1月4日01:54:22"></a>2021年1月4日01:54:22</h1><p>zhihu.com/question/437389885</p>
-<p><a href="https://zh.m.wikipedia.org/zh-hans/2003%E5%B9%B4%E5%90%88%E8%82%A5%E5%AD%B8%E7%94%9F%E9%81%8A%E8%A1%8C%E4%BA%8B%E4%BB%B6">https://zh.m.wikipedia.org/zh-hans/2003%E5%B9%B4%E5%90%88%E8%82%A5%E5%AD%B8%E7%94%9F%E9%81%8A%E8%A1%8C%E4%BA%8B%E4%BB%B6</a></p>
+<p><code>https://web.archive.org/web/20220316125137/https://zh.m.wikipedia.org/zh-hans/2003%E5%B9%B4%E5%90%88%E8%82%A5%E5%AD%B8%E7%94%9F%E9%81%8A%E8%A1%8C%E4%BA%8B%E4%BB%B6</code></p>
 <p>很多事情我不想讲，也不想去评判时下众人的行为或决断，但作为后人的我们，确实是得到了一些意见可供参考的</p>
 <h1 id="2021年2月24日18-54-28"><a href="#2021年2月24日18-54-28" class="headerlink" title="2021年2月24日18:54:28"></a>2021年2月24日18:54:28</h1><p>powershell输入man命令的中文乱码解决：</p>
 <p>在<code>C:\Users\linsi\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1</code>里面写入<code>chcp 65001</code>即可</p>
@@ -3042,7 +3042,7 @@
 <img src="/Linkeer365TinyMoment/45777c9f/Screenshot_20200707_085629.jpg" class="">
 
 <p>想法链接：</p>
-<p><a href="https://www.zhihu.com/pin/1263566825415663616">https://www.zhihu.com/pin/1263566825415663616</a><br><a href="https://www.zhihu.com/pin/1263628231473106944">https://www.zhihu.com/pin/1263628231473106944</a></p>
+<p><code>https://web.archive.org/web/20220316125146/https://www.zhihu.com/pin/1263566825415663616</code><br><code>https://web.archive.org/web/20220316125226/https://www.zhihu.com/pin/1263628231473106944</code></p>
 <p>Comment:</p>
 <p>Body:<br>三年前的高考已经记得不是很清楚了，这边就随便说一些</p>
 <p>我在高考前大约2-3个月便无法安下心去仔细复习，而高考那一周更是紧张到一个星期都没有合眼，这很明显地就使得我高考只能发挥非常有限的水平；至于个人努力方面，我自认为我属于低水平层次的努力，就是做题对我的提升空间并不大，还有就是考试中的计算出错从小到大一直无法避免</p>
@@ -3799,7 +3799,7 @@
     <title>背地里听陈绮贞的男孩子</title>
     <url>/Linkeer365TinyMoment/efaf430c/</url>
     <content><![CDATA[<p>（台湾女文青患上失心疯的概率向来很高，所以不可能像小女孩一样听陈绮贞，甚至她的得意之作《鱼》我都觉得并不深刻…当然《鱼》的英文版是 the edge，让我在用微软浏览器的时候总有些违和感…这种字句之间的纤巧，只能反映出内部的中空）</p>
-<p>（没有，我只是在听五月天…）<br><a href="https://b23.tv/Oy0Gge">https://b23.tv/Oy0Gge</a></p>
+<p>（没有，我只是在听五月天…）<br><code>https://web.archive.org/web/20220316122851/https://www.bilibili.com/video/BV1ri4y1j7gL?p=1&amp;share_medium=android&amp;share_plat=android&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1626987139&amp;unique_k=Oy0Gge</code></p>
 <p>这种场景总是在双方的尴尬中蔓延开去，且总能让我感受到趣味</p>
 <p>（嗯…你等我两天，我试试看能不能复刻他们的音色，毕竟单一的声线没办法胜任长期的伪装…）<br>（大众审美也需要多加认识才能更好把握，我想把它介绍给开明的学校领导，让他把大课间跑操音乐设置成点歌台…）</p>
 <p>（对这个时候就需要好好考虑大家喜欢听什么，并且要符合当下的气氛，比如这种音乐肯定是首先就得排除的，像你喜欢的月半小夜曲也不行…我推荐帝皇侠的角色曲，或者飞帽杀的那段，这样大家自然会有共鸣…）</p>
@@ -3852,7 +3852,7 @@
 <hr>
 <p>【见面后】</p>
 <p>好在并没有呆多久，据说是几个广州的朋友要带他看鳄鱼<br>鳄鱼大概跟玉玦有点联系，毕竟都是（猪龙）</p>
-<p>想了想逛动物园也不是没有危险的<br><a href="https://zhihu.com/question/55209434">https://zhihu.com/question/55209434</a></p>
+<p>想了想逛动物园也不是没有危险的<br><code>https://web.archive.org/web/20220316123149/https://www.zhihu.com/question/55209434</code></p>
 <p>不过最危险的应该是人</p>
 <img src="/Linkeer365TinyMoment/206d9558/%E8%80%81%E8%99%8E%E5%90%83%E4%BA%BA.jpg" class="">
 
@@ -3878,7 +3878,7 @@
   <entry>
     <title>物是人非</title>
     <url>/Linkeer365TinyMoment/ca95b44f/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1479051262796517379">https://twitter.com/ultramarine471/status/1479051262796517379</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220315020330/https://twitter.com/ultramarine471/status/1479051262796517379</code></p>
 <p>回老家了，依旧是逼仄的不到25平方米的昏暗的小屋子，据说几个月后会有人来翻修。</p>
 <p>我的书几乎尽数分给一种堂表亲戚了，所以只剩一些零零散散的幼儿画报，记得很久以前我妈妈会挑一些故事讲给我听。楼下姐姐送我的书也不知道被收到了哪里，当时不该答应她好好保管的。</p>
 <p>隔间似乎有一种催人遗忘的力量，我已经完全忘了是怎么在这里成长起来的了，同样也不知道之后将怎样度过我的余生。</p>
@@ -3887,7 +3887,7 @@
   <entry>
     <title>梦中审判</title>
     <url>/Linkeer365TinyMoment/641e047c/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1474894320989786112">https://twitter.com/ultramarine471/status/1474894320989786112</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316120326/https://twitter.com/ultramarine471/status/1474894320989786112</code></p>
 <p>梦中的我因为某些原因杀害了无数的人，审判我先枪毙两次，再用烧红的铁钉刺入喉咙。</p>
 <p>我平时也一直没有喉结，他们可能以前没有处理过这种情况，所以钉得歪了一点。<br>喉结有所谓adam’s apple的说法，高中老师有提到是残存的智慧果。</p>
 <p>令我比较在意的是，前两枪打在心脏和肺部的时候应该就死了，但感知显然是维持到了把钉子钉好的全过程，行刑者希望我能宽恕他，其实这只是一份工作而已，或者干脆连这句话也只是客套，但总归也没什么。</p>
@@ -3897,8 +3897,8 @@
   <entry>
     <title>figgy-pudding</title>
     <url>/Linkeer365TinyMoment/60e134de/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1471889389471031300">https://twitter.com/ultramarine471/status/1471889389471031300</a></p>
-<p>【TV动漫『龙与虎MAD』角色歌 《Holy Night 〖圣夜〗》-哔哩哔哩】 <a href="https://b23.tv/YakZaFB">https://b23.tv/YakZaFB</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316111739/https://twitter.com/ultramarine471/status/1471889389471031300</code></p>
+<p>【TV动漫『龙与虎MAD』角色歌 《Holy Night 〖圣夜〗》-哔哩哔哩】 <code>https://web.archive.org/web/20220316111816/https://www.bilibili.com/video/BV1bs411a7iz?p=1&amp;share_medium=android&amp;share_plat=android&amp;share_session_id=e4f46c83-5e2c-4a37-93b2-13240f101fca&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1639760744&amp;unique_k=YakZaFB</code></p>
 <p>最早的关于圣诞节的印象是初中的英语老师，会在圣诞节专门请同学们到她家里做客，然后放一些流行的歌曲，间奏曲大概就是像“we wish you a merry chrismas”这种儿歌。<br>她应该是家庭很富裕的，并且一直也没有结婚，年级里也不乏关于这个的风言风语，但真相终究也不得而知。</p>
 <p>想起她之前提到过figgy pudding，当时我没往深处去想，不过如果那时候就去想估计会理解为暗指她自己没有人喜欢，“摽有梅，其实七兮”这样的意思。<br>现在想起来应该是关于基督教的一点东西，如同欢宴里不动声色飘落的一点烟灰或羽毛。</p>
 <p>我自己也变了好多，现在的我几乎很难回忆起那个身为初中男生的自己的想法了。应该来说那个时候还是具有一些朴素的认识和诚恳的态度的，随后一路走来把诚实和质朴通通丢光了。</p>
@@ -3907,7 +3907,7 @@
   <entry>
     <title>云堇</title>
     <url>/Linkeer365TinyMoment/116ed662/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1462762862376538124">https://twitter.com/ultramarine471/status/1462762862376538124</a><br><a href="https://twitter.com/ultramarine471/status/1462764994421043206">https://twitter.com/ultramarine471/status/1462764994421043206</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316112616/https://twitter.com/ultramarine471/status/1462762862376538124</code><br><code>https://web.archive.org/web/20220316112643/https://twitter.com/ultramarine471/status/1462764994421043206</code></p>
 <p>云堇小姐太可爱了，把我这种缝合怪吃得死死的。</p>
 <img src="/Linkeer365TinyMoment/116ed662/%E4%BA%91%E5%A0%87.jpg" class="">
 
@@ -3920,7 +3920,7 @@
   <entry>
     <title>虚伪是法抗</title>
     <url>/Linkeer365TinyMoment/ca18488d/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1459127962104520705">https://twitter.com/ultramarine471/status/1459127962104520705</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316123015/https://twitter.com/ultramarine471/status/1459127962104520705</code></p>
 <p>我从小的性格就是贪婪、懦弱、虚伪的，好在程度并没有随着成长加深多少。究其原因大概是因为我情绪的代谢效率足够快，不会因为情绪的久驻而影响性格。</p>
 <p>然而我说这话的底气，是建立在自己的生活和身边在意的亲友基本没有出现重大变故之上的。我的小学初中高中基本都是同一批人（有一个甚至从幼儿园跟着我到了大学，然而我们现在依旧一点也不熟），朋友也基本保持着联系，一问就能知道他们考到了或申请到了名牌或野鸡的院校。</p>
 <p>周围人们的境遇会潜在地影响到你的情绪，要是随着我的成长周围的小伙伴死的死残的残，堕落的堕落站街的站街，我的心态肯定做不到现在这样。</p>
@@ -3931,7 +3931,7 @@
   <entry>
     <title>被迫锁推</title>
     <url>/Linkeer365TinyMoment/963b0973/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1465732218647572483">https://twitter.com/ultramarine471/status/1465732218647572483</a><br><a href="https://twitter.com/ultramarine471/status/1465734874392760324">https://twitter.com/ultramarine471/status/1465734874392760324</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316123107/https://twitter.com/ultramarine471/status/1465732218647572483</code><br><code>https://web.archive.org/web/20220316123134/https://twitter.com/ultramarine471/status/1465734874392760324</code></p>
 <p>没料到随便发的推一下子热门了，大失策。<br>不应该谈论太日常的话题的，谁知道一个不小心就搞得到处都是。<br>锁推一段时间好了，至少把风头绕过去。</p>
 <hr>
 <p>我是真不想锁推，主要我觉得很有可能有人暗恋我但又怕我发现，所以故意不关注不点赞不转发，把满怀的柔情搁在心底慢慢地变成落花。<br>但是现在情况棘手，我别无选择。<br>所以潜在的那个偷偷喜欢我的人，真是抱歉，要怪就怪twitter没有局部保护的功能，一锁全锁了。也希望你能在喜欢我之余，别错过生活中真正爱你的、把温暖带给你的人。</p>
@@ -3946,8 +3946,8 @@
   <entry>
     <title>观原神深渊竞速选手sana融号</title>
     <url>/Linkeer365TinyMoment/33993d20/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1463901445443489795">https://twitter.com/ultramarine471/status/1463901445443489795</a><br><a href="https://twitter.com/ultramarine471/status/1463916930532839432">https://twitter.com/ultramarine471/status/1463916930532839432</a></p>
-<p><a href="https://zhihu.com/question/501360404">https://zhihu.com/question/501360404</a><br>这件事都上热搜了，就离谱。</p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316123221/https://twitter.com/ultramarine471/status/1463901445443489795</code><br><code>https://web.archive.org/web/20220316123248/https://twitter.com/ultramarine471/status/1463916930532839432</code></p>
+<p><code>https://web.archive.org/web/20220316123302/https://www.zhihu.com/question/501360404</code><br>这件事都上热搜了，就离谱。</p>
 <p>我跟sana是没有一点现实交集的，别人偶尔提及的他的一些思路我也大部分不认同。理由很简单，曲高和寡，融化甘雨的乐团四就不是一般人能轻易凑齐的，普通玩家也很难在没有盾辅的环境下贴脸蓄力。<br>相比于他，我不是竞速党，圣遗物词条也各种摆烂，也不一定每次都能满星，毕竟我每次上场的人都不一样，每星期也只打两三次，看看思路对不对就过去了。</p>
 <p>所以他的出圈，其实反倒让我感到迷惑了，深渊竞速算是极其小众的玩法，其本意也不在于pvp，而在于不同的配队、不同的技能轴以及相应的各种细节，比如：在第几秒要走到差不多哪个点，由谁按出e或q，一波大致能打掉多少的血；班尼特开大会回血，胡桃如何既加攻（六命火伤）又不解除背水状态。</p>
 <p>这种东西自然是没什么价值的，毕竟价值都在该回答下的高贵的理中客们找到了合适的定位，<br>“都竞速了还不是pvp”<br>“氪佬终于也破防了哈哈哈哈”<br>“sana谁啊，没听过这名字”</p>
@@ -3965,7 +3965,7 @@
   <entry>
     <title>原神深渊碎碎念</title>
     <url>/Linkeer365TinyMoment/c80f5011/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1457549937554694148">https://twitter.com/ultramarine471/status/1457549937554694148</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316113313/https://twitter.com/ultramarine471/status/1457549937554694148</code></p>
 <p>闲来无事再摸两把深渊，最近都不怎么思考打法了，操作也有点生疏。</p>
 <p>有时我真的觉得大家不是不会玩，是总有“练度超高的大佬”和“暴击爆伤稽查小队成员”来逼你往他们的面板上靠，不刷圣遗物和经验书就是懒。打出一个并不起眼的伤害数字，在他们眼中算是天大的失败。</p>
 <p>很多东西真没必要那么讲究的，没有行秋又怎么样呢，你带点增伤辅助一样可以打，打纯火也不是不行。少了蒸发伤害低个10%，最多低个15%，这点伤害有什么可执着的。<br>况且就算有了行秋钟离，也不见得比你厉害多少；就算比你厉害很多，绝大部分也是氪金的所得，用人民币换取的战力而已。</p>
@@ -3984,7 +3984,7 @@
   <entry>
     <title>口腔溃疡</title>
     <url>/Linkeer365TinyMoment/c3c6b146/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1456308380159590405">https://twitter.com/ultramarine471/status/1456308380159590405</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316113531/https://twitter.com/ultramarine471/status/1456308380159590405</code></p>
 <p>口腔溃疡肿了半边嘴唇，还好平时也不怎么说话。</p>
 <p>口腔癌，乃至消化道某一组分发生癌变的人，他们是怎么吃饭的呢，只能吃流食的生活我也经历过，那几个月的经历为什么如此模糊呢。<br>所以正常的健康的状态反而是最模糊的、不加区分与感知的状态，依稀记得一句“富翁胖的要发哮喘病了，才想起打高尔夫球”。<br>但凡有任何一个地方的感知被放大了，对人类都只有痛苦，我们正是因为无视了胃肠的活动，才可以边消化边思考。</p>
 <p>病死大概就是人从模糊走向精确的过程，死亡降临之际一切都应该无比清晰才对，知晓一切却无从驱使咽喉发出声音。那么一个人最终会到达哪个精确度呢。</p>
@@ -3993,7 +3993,7 @@
   <entry>
     <title>谈归档的重要性</title>
     <url>/Linkeer365TinyMoment/2548d230/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1455058705431465989">https://twitter.com/ultramarine471/status/1455058705431465989</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316124103/https://twitter.com/ultramarine471/status/1455058705431465989</code></p>
 <p>略微明白“书读百遍，其义自见”的道理了，以前读得好多东西要么没进脑子，要么被理解成错误的意思。<br>这也是我数学等理科一直非常差劲的原因，我缺乏跟正常人同步的逻辑思维。</p>
 <p>估计也有不少人跟我一样，在思考上的debuff拉得太满导致一次次地跟不上进度，因此信心和动力很容易日渐消沉。<br>我比较幸运的一点在于平时没什么情绪，并且随年岁增长乱吃东西的情况也逐渐好转，吃太多过一会儿就昏昏欲睡，学习也就无从谈起。</p>
 <p>其实想要书读百遍并不难，最难的一点在于你不知道小时候读的东西都收在哪里了，因此我建议把所有看过的东西都电子化归档起来，放在github或者随便一个可以存储的地方，然后每星期固定看一遍。</p>
@@ -4004,35 +4004,35 @@
     <title>2021-07-ultramarine471出生</title>
     <url>/Linkeer365TinyMoment/ee1e3be4/</url>
     <content><![CDATA[<p>（用sqlite管理推文，第一次感受到能filter是多么的畅快）<br>（直接复制最后的推文时间）</p>
-<p>甘美的死亡<br>2021-07-27 06:28<br><a href="https://twitter.com/ultramarine471/status/1419786789191966721">https://twitter.com/ultramarine471/status/1419786789191966721</a></p>
-<p>个人与科学是暧昧联系<br>2021-07-27 06:29<br><a href="https://twitter.com/ultramarine471/status/1419787093241327617">https://twitter.com/ultramarine471/status/1419787093241327617</a></p>
-<p>人类必须灭绝<br>2021-07-27 07:19<br><a href="https://twitter.com/ultramarine471/status/1419799563032956932">https://twitter.com/ultramarine471/status/1419799563032956932</a></p>
-<p>@<strong>usamoi</strong> <a href="https://twitter.com/ultramarine471/status/1421188626629730309">https://twitter.com/ultramarine471/status/1421188626629730309</a><br>2021-07-31 03:19<br><a href="https://twitter.com/ultramarine471/status/1421188626629730309">https://twitter.com/ultramarine471/status/1421188626629730309</a></p>
-<p>学习就是色情行为<br>2021-07-31 03:55<br><a href="https://twitter.com/ultramarine471/status/1421197764029988865">https://twitter.com/ultramarine471/status/1421197764029988865</a></p>
-<p>我就是精神分析上的性倒错者<br>2021-07-31 03:58<br><a href="https://twitter.com/ultramarine471/status/1421198419025137665">https://twitter.com/ultramarine471/status/1421198419025137665</a></p>
-<p>无法搞清楚自己在主体上的定位了属于是<br>2021-07-31 03:59<br><a href="https://twitter.com/ultramarine471/status/1421198795619065859">https://twitter.com/ultramarine471/status/1421198795619065859</a></p>
-<p>谁读精神现象学谁傻逼，真的<br>2021-07-31 04:33<br><a href="https://twitter.com/ultramarine471/status/1421207443514793999">https://twitter.com/ultramarine471/status/1421207443514793999</a></p>
-<p>造词大会、话术游戏 建议退回康德重造<br>2021-07-31 04:39<br><a href="https://twitter.com/ultramarine471/status/1421208903161892871">https://twitter.com/ultramarine471/status/1421208903161892871</a></p>
-<p>看一个人懂不懂认识论，直接看他怎么驳贝克莱，康德对他们而言已经太难了<br>2021-07-31 04:54<br><a href="https://twitter.com/ultramarine471/status/1421212672406827014">https://twitter.com/ultramarine471/status/1421212672406827014</a></p>
-<p>资本主义必须在发现自己的神经症之后才能彻底爆炸，不向下看就不会触发坠落。Diotima的意味<br>2021-07-31 05:06<br><a href="https://twitter.com/ultramarine471/status/1421215719191101449">https://twitter.com/ultramarine471/status/1421215719191101449</a></p>
-<p>拜托，做动画的Gainax都知道俄狄浦斯，除了复读别人的性化你还知道什么<br>2021-07-31 05:09<br><a href="https://twitter.com/ultramarine471/status/1421216487243669505">https://twitter.com/ultramarine471/status/1421216487243669505</a></p>
-<p>只要你看过之后没有马上在脑海里生成一个问题域，并提出一两个精选的问题，并找到材料推进自己的看法，我觉得就不像是在学哲学。跟“秩秩斯干，幽幽南山”没有本质上的区别。<br>2021-07-31 05:29<br><a href="https://twitter.com/ultramarine471/status/1421221451793842182">https://twitter.com/ultramarine471/status/1421221451793842182</a></p>
-<p>没有大量的问题捕捉训练、审视并对审视本身进行审视，轻一点就一辈子勤勤恳恳地研究简单问题，重一点就是自以为博学多闻，自以为洞见深刻。 你没有时间研究那么多问题的。挑选适合自己的好问题是一门艺术<br>2021-07-31 05:31<br><a href="https://twitter.com/ultramarine471/status/1421221893777076225">https://twitter.com/ultramarine471/status/1421221893777076225</a></p>
-<p>例子，纵欲乃至犯罪是符合“理性”的吗，如何在伦理学立场上为“纵欲者”的“理性”与否进行定位。 这是一个垃圾问题，我正好就是一个垃圾，所以匹配上了<br>2021-07-31 05:41<br><a href="https://twitter.com/ultramarine471/status/1421224425660239888">https://twitter.com/ultramarine471/status/1421224425660239888</a></p>
-<p>不论你怎么否认，为善比为恶的优先权总是低上一些，贪污不受罚，你贪不贪？不贪你就客观上吃亏，如果说是因为别人会对你有意见，那要是别人都没意见，也即不会有额外的亏损，这时你贪不贪；如果说就算没人知道，是良心过不去所以不贪，那么良心使你客观上吃亏了<br>2021-07-31 05:48<br><a href="https://twitter.com/ultramarine471/status/1421226315550760966">https://twitter.com/ultramarine471/status/1421226315550760966</a></p>
-<p>所以不难看出，纵欲、为恶才是理性的最优解。体制化地、知性化地接纳为恶的行动，才是理性赋予我们的礼物。<br>2021-07-31 05:52<br><a href="https://twitter.com/ultramarine471/status/1421227260007395329">https://twitter.com/ultramarine471/status/1421227260007395329</a></p>
-<p>我渴望自由，我要谈恋爱。 我追逐理性，我是性变态。<br>2021-07-31 05:53<br><a href="https://twitter.com/ultramarine471/status/1421227505759948801">https://twitter.com/ultramarine471/status/1421227505759948801</a></p>
-<p>美国的哲学界在讨论的这些个问题，真是格外“切中肯綮”。 #论美中两国人民的思维相似度<br>2021-07-31 06:17<br><a href="https://twitter.com/ultramarine471/status/1421233639019454471">https://twitter.com/ultramarine471/status/1421233639019454471</a></p>
+<p>甘美的死亡<br>2021-07-27 06:28<br><code>https://web.archive.org/web/20220316110708/https://twitter.com/ultramarine471/status/1419786789191966721</code></p>
+<p>个人与科学是暧昧联系<br>2021-07-27 06:29<br><code>https://web.archive.org/web/20220316110729/https://twitter.com/ultramarine471/status/1419787093241327617</code></p>
+<p>人类必须灭绝<br>2021-07-27 07:19<br><code>https://web.archive.org/web/20220316110757/https://twitter.com/ultramarine471/status/1419799563032956932</code></p>
+<p>@<strong>usamoi</strong> <code>https://web.archive.org/web/20220316110818/https://twitter.com/ultramarine471/status/1421188626629730309</code><br>2021-07-31 03:19<br><code>https://web.archive.org/web/20220316110818/https://twitter.com/ultramarine471/status/1421188626629730309</code></p>
+<p>学习就是色情行为<br>2021-07-31 03:55<br><code>https://web.archive.org/web/20220316110857/https://twitter.com/ultramarine471/status/1421197764029988865</code></p>
+<p>我就是精神分析上的性倒错者<br>2021-07-31 03:58<br><code>https://web.archive.org/web/20220316110948/https://twitter.com/ultramarine471/status/1421198419025137665</code></p>
+<p>无法搞清楚自己在主体上的定位了属于是<br>2021-07-31 03:59<br><code>https://web.archive.org/web/20220316111031/https://twitter.com/ultramarine471/status/1421198795619065859</code></p>
+<p>谁读精神现象学谁傻逼，真的<br>2021-07-31 04:33<br><code>https://web.archive.org/web/20220316111132/https://twitter.com/ultramarine471/status/1421207443514793999</code></p>
+<p>造词大会、话术游戏 建议退回康德重造<br>2021-07-31 04:39<br><code>https://web.archive.org/web/20220316111152/https://twitter.com/ultramarine471/status/1421208903161892871</code></p>
+<p>看一个人懂不懂认识论，直接看他怎么驳贝克莱，康德对他们而言已经太难了<br>2021-07-31 04:54<br><code>https://web.archive.org/web/20220316111236/https://twitter.com/ultramarine471/status/1421212672406827014</code></p>
+<p>资本主义必须在发现自己的神经症之后才能彻底爆炸，不向下看就不会触发坠落。Diotima的意味<br>2021-07-31 05:06<br><code>https://web.archive.org/web/20220316111316/https://twitter.com/ultramarine471/status/1421215719191101449</code></p>
+<p>拜托，做动画的Gainax都知道俄狄浦斯，除了复读别人的性化你还知道什么<br>2021-07-31 05:09<br><code>https://web.archive.org/web/20220316111340/https://twitter.com/ultramarine471/status/1421216487243669505</code></p>
+<p>只要你看过之后没有马上在脑海里生成一个问题域，并提出一两个精选的问题，并找到材料推进自己的看法，我觉得就不像是在学哲学。跟“秩秩斯干，幽幽南山”没有本质上的区别。<br>2021-07-31 05:29<br><code>https://web.archive.org/web/20220316111401/https://twitter.com/ultramarine471/status/1421221451793842182</code></p>
+<p>没有大量的问题捕捉训练、审视并对审视本身进行审视，轻一点就一辈子勤勤恳恳地研究简单问题，重一点就是自以为博学多闻，自以为洞见深刻。 你没有时间研究那么多问题的。挑选适合自己的好问题是一门艺术<br>2021-07-31 05:31<br><code>https://web.archive.org/web/20220316111427/https://twitter.com/ultramarine471/status/1421221893777076225</code></p>
+<p>例子，纵欲乃至犯罪是符合“理性”的吗，如何在伦理学立场上为“纵欲者”的“理性”与否进行定位。 这是一个垃圾问题，我正好就是一个垃圾，所以匹配上了<br>2021-07-31 05:41<br><code>https://web.archive.org/web/20220316111455/https://twitter.com/ultramarine471/status/1421224425660239888</code></p>
+<p>不论你怎么否认，为善比为恶的优先权总是低上一些，贪污不受罚，你贪不贪？不贪你就客观上吃亏，如果说是因为别人会对你有意见，那要是别人都没意见，也即不会有额外的亏损，这时你贪不贪；如果说就算没人知道，是良心过不去所以不贪，那么良心使你客观上吃亏了<br>2021-07-31 05:48<br><code>https://web.archive.org/web/20220316111524/https://twitter.com/ultramarine471/status/1421226315550760966</code></p>
+<p>所以不难看出，纵欲、为恶才是理性的最优解。体制化地、知性化地接纳为恶的行动，才是理性赋予我们的礼物。<br>2021-07-31 05:52<br><code>https://web.archive.org/web/20220314080800/https://twitter.com/ultramarine471/status/1421227260007395329</code></p>
+<p>我渴望自由，我要谈恋爱。 我追逐理性，我是性变态。<br>2021-07-31 05:53<br><code>https://web.archive.org/web/20220316111636/https://twitter.com/ultramarine471/status/1421227505759948801</code></p>
+<p>美国的哲学界在讨论的这些个问题，真是格外“切中肯綮”。 #论美中两国人民的思维相似度<br>2021-07-31 06:17<br><code>https://web.archive.org/web/20220316111700/https://twitter.com/ultramarine471/status/1421233639019454471</code></p>
 ]]></content>
   </entry>
   <entry>
     <title>坑队友</title>
     <url>/Linkeer365TinyMoment/37d417ac/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1456136420679168004">https://twitter.com/ultramarine471/status/1456136420679168004</a><br><a href="https://twitter.com/ultramarine471/status/1456483839786688516">https://twitter.com/ultramarine471/status/1456483839786688516</a><br><a href="https://twitter.com/ultramarine471/status/1456492222451310598">https://twitter.com/ultramarine471/status/1456492222451310598</a><br><a href="https://twitter.com/ultramarine471/status/1450662359983263749">https://twitter.com/ultramarine471/status/1450662359983263749</a></p>
-<p>Quote: 错过了某次线下小组讨论，以后记得留邮箱以备万一。<br><a href="https://twitter.com/ultramarine471/status/1456136420679168004">https://twitter.com/ultramarine471/status/1456136420679168004</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316113912/https://twitter.com/ultramarine471/status/1456136420679168004</code><br><code>https://web.archive.org/web/20220314230027/https://twitter.com/ultramarine471/status/1456483839786688516</code><br><code>https://web.archive.org/web/20220316114006/https://twitter.com/ultramarine471/status/1456492222451310598</code><br><code>https://web.archive.org/web/20220316114041/https://twitter.com/ultramarine471/status/1450662359983263749</code></p>
+<p>Quote: 错过了某次线下小组讨论，以后记得留邮箱以备万一。<br><code>https://web.archive.org/web/20220316113912/https://twitter.com/ultramarine471/status/1456136420679168004</code></p>
 <p>道歉完之后又能如何，其他同学的分数会不会受到影响呢。</p>
 <p>上上次是写错了函数导致分析结果有问题，上一次倒还好，不过小组任务结束后就有两位合作的同学直接 late drop 了，跟我共事的人似乎都没什么好结果的样子。</p>
-<p>Quote: 他在我心中的级别大概介于工具和真心交付之间，本来可以进一步的，但我在几年前的一次项目中写错了函数，导致最后他交上去的有问题。<br>他应该是不知道的，我跟他说了之后表示也不介意，但真的不介意吗，说不定就是这次作业让他少了几分，蝴蝶效应导致最终gpa低了零点几，与心仪大学失之交臂。<br><a href="https://twitter.com/ultramarine471/status/1450662359983263749">https://twitter.com/ultramarine471/status/1450662359983263749</a></p>
+<p>Quote: 他在我心中的级别大概介于工具和真心交付之间，本来可以进一步的，但我在几年前的一次项目中写错了函数，导致最后他交上去的有问题。<br>他应该是不知道的，我跟他说了之后表示也不介意，但真的不介意吗，说不定就是这次作业让他少了几分，蝴蝶效应导致最终gpa低了零点几，与心仪大学失之交臂。<br><code>https://web.archive.org/web/20220316114041/https://twitter.com/ultramarine471/status/1450662359983263749</code></p>
 <p>我之前好像有提过，说起来最开始是体育考试，我跟他也是一队的，当时是考的排球传球嘛，我们练了一个星期，最后考试我三两下就传飞了，不知道他的得分会不会受影响。</p>
 <hr>
 <p>实际上我一般都会问看看能不能弄成 individual work，可惜老师没有同意。</p>
@@ -4044,10 +4044,10 @@
   <entry>
     <title>樱子小姐就是尸体</title>
     <url>/Linkeer365TinyMoment/6a0bee73/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1461037249362071557">https://twitter.com/ultramarine471/status/1461037249362071557</a><br><a href="https://twitter.com/ultramarine471/status/1461041810881585163">https://twitter.com/ultramarine471/status/1461041810881585163</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316120350/https://twitter.com/ultramarine471/status/1461037249362071557</code><br><code>https://web.archive.org/web/20220316120411/https://twitter.com/ultramarine471/status/1461041810881585163</code></p>
 <p>你们人类就是把这种变种重复了千八百次的烂活当成历史是吧，不过倒也确实符合诸君的品味。</p>
 <p><a href="https://linkeer365.github.io/Linkeer365ColorfulLife/44781/">https://linkeer365.github.io/Linkeer365ColorfulLife/44781/</a></p>
-<p><a href="https://music.163.com/#/song?id=4930076">https://music.163.com/#/song?id=4930076</a><br>这里chocolat应该是某集吊带袜的ed<br>（我倾向于认为stocking妹妹和busaiku是真爱）</p>
+<p><code>https://web.archive.org/web/20220316075524/https://music.163.com/</code>#/song?id=4930076<br>这里chocolat应该是某集吊带袜的ed<br>（我倾向于认为stocking妹妹和busaiku是真爱）</p>
 <hr>
 <p>这就是中国人，在混同了所有的情感表达以后，最后只会剩下死亡与窠臼。虽然这也算误打误撞地发现了本质，爱与温情的背后蔓延着蛛网般的规训。<br>樱子小姐脚下的尸体比她值钱，值钱的樱子小姐就是尸体。</p>
 <p>从这种视角看去，中国人其实不很贪财的，“暮登天子堂”不过是为了能够从底层的泥沼中解脱出来，其实然天子堂也自由不到哪里去，两头堵死了就是要恶心你的。<br>于是人们想象蓬莱，需要禁欲清净的苦修，总之最后一定要远远地脱离人群。</p>
@@ -4059,7 +4059,7 @@
   <entry>
     <title>记梦-8080</title>
     <url>/Linkeer365TinyMoment/4aa9479f/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1458259507621122051">https://twitter.com/ultramarine471/status/1458259507621122051</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316123340/https://twitter.com/ultramarine471/status/1458259507621122051</code></p>
 <p>最近的梦都有一个相似的流程，就是：<br>我去某个地方（特写交通工具、天气）+遇见某个认识但与我毫无交涉的人+走入一场阴谋的戏剧+看着悲剧一幕幕变成真实。</p>
 <p>今天的梦是坐公交车去的海边，离海越近雨势越大，我知道会碰到初中隔壁班胖而严厉的语文老师，我们这次要看的戏是一个流亡的小姑娘被宫廷中8080禁卫军抓住并折磨致死的剧。</p>
 <p>不知道这个8080怎么来的，我能联想到的相似的只有海贼王里磁鼓岛的“医生20”</p>
@@ -4068,7 +4068,7 @@
   <entry>
     <title>课上发言-后续对话</title>
     <url>/Linkeer365TinyMoment/73c0987b/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1458342165118083072">https://twitter.com/ultramarine471/status/1458342165118083072</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316123845/https://twitter.com/ultramarine471/status/1458342165118083072</code></p>
 <blockquote>
 <p>其实我已经忘记了课上到底讲的什么了，好像是讽刺了一波渲染煽情的影片。<br>真要搞慈善就得让他们搬出山去，把城市化当成是革命那样的工作去做，严格执行六稳六保。<br>就算是被剥削也好过一直穷着。</p>
 </blockquote>
@@ -4079,7 +4079,7 @@
 
 <hr>
 <p>【嘲讽一波天真的小姑娘】</p>
-<p>Quote: 经验除了让你变成更加武断之外，又还能有什么呢。人类落后的反馈回路真该死啊。<br><a href="https://twitter.com/ultramarine471/status/1447257167698935816">https://twitter.com/ultramarine471/status/1447257167698935816</a></p>
+<p>Quote: 经验除了让你变成更加武断之外，又还能有什么呢。人类落后的反馈回路真该死啊。<br><code>https://web.archive.org/web/20220316105949/https://twitter.com/ultramarine471/status/1447257167698935816</code></p>
 <p>感动也好，警醒也好，这些看上去“很有意义”、“终身难忘”的体验也只是经验而已，代替不了分析和批判。</p>
 <p>被感动不代表你心软善良，而只是代表你在侥幸地没有碰上苦难的同时，自己对苦难也没有主动的想象。<br>要是什么都必须体会过才能意识到，你自己又不能分身，这辈子怎么够用呢。</p>
 <p>所以一定要主动地察觉，主动地观察，主动地分析批判。只想着依照自己的经历和本领，踏踏实实活好自己的一辈子的人，老了怎么能不走向武断和狭隘呢。</p>
@@ -4113,7 +4113,7 @@
   <entry>
     <title>陈亮也是键政小哥</title>
     <url>/Linkeer365TinyMoment/78f7b071/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1459543652821127171">https://twitter.com/ultramarine471/status/1459543652821127171</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316124843/https://twitter.com/ultramarine471/status/1459543652821127171</code></p>
 <p>跟某人聊了快4个小时的王霸与义利，他读这么多东西又是从哪里抽出的时间呢。</p>
 <p>得出（被科普然后觉得并找不出什么毛病）的是陈同父真有可能是我们这一代人穿越回去的，不论从思想还是用语都格外现代。</p>
 <p>“如果他自己玩过人中之龙，那么自比人中之龙，算不算对身处当代的我们的一点暗示呢。”<br>“我看过他的东西，大概在没穿越前也是个键政小哥。在网上毫无破绽像个战神，实际是没有加之细化和揣摩的。”</p>
@@ -4124,7 +4124,7 @@
   <entry>
     <title>【原神】心海真的不弱</title>
     <url>/Linkeer365TinyMoment/6bb6ace3/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1443907326906355713">https://twitter.com/ultramarine471/status/1443907326906355713</a><br><a href="https://twitter.com/ultramarine471/status/1443999859288256516">https://twitter.com/ultramarine471/status/1443999859288256516</a><br><a href="https://twitter.com/ultramarine471/status/1445053757855780877">https://twitter.com/ultramarine471/status/1445053757855780877</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316112152/https://twitter.com/ultramarine471/status/1443907326906355713</code><br><code>https://web.archive.org/web/20220316112241/https://twitter.com/ultramarine471/status/1443999859288256516</code><br><code>https://web.archive.org/web/20220316112311/https://twitter.com/ultramarine471/status/1445053757855780877</code></p>
 <p>玩了两把感觉心海在强度上没有任何问题……</p>
 <p>只要差不多记一下补水的时间，就相当于全程几乎不间断挂水，由此很多套路都可以实现。</p>
 <p>水是整个原神里最离不开的元素，任何水系辅助都是相当值得练的，心海这种血量60破再拉一套千岩可以用到毕业。</p>
@@ -4153,23 +4153,23 @@
   <entry>
     <title>【原神】女士剧情有问题吧</title>
     <url>/Linkeer365TinyMoment/d41b9911/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1435294149645721602">https://twitter.com/ultramarine471/status/1435294149645721602</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316112023/https://twitter.com/ultramarine471/status/1435294149645721602</code></p>
 <blockquote>
 <p>mhy策划和文案能不能好好地打一架，你看人家二创自己做自己的，都能做到异曲同工。结果到了你们这里，就急急忙忙地让女士领便当。<br>不珍惜剧情线索，没有rr马丁的水平硬要整rr马丁的活，唉。</p>
 </blockquote>
-<p>【「女士」500年前，她曾活过，作为一个少女，在风中为爱慕之人歌唱——【原神人物志·外传】炎之魔女-哔哩哔哩】<a href="https://b23.tv/Sz1PZu">https://b23.tv/Sz1PZu</a></p>
+<p>【「女士」500年前，她曾活过，作为一个少女，在风中为爱慕之人歌唱——【原神人物志·外传】炎之魔女-哔哩哔哩】<code>https://web.archive.org/web/20220316112035/https://www.bilibili.com/video/BV1qv411P7Bq?p=1&amp;share_medium=android&amp;share_plat=android&amp;share_session_id=158caaf0-9c74-4021-8739-e7df37e01f25&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1631035748&amp;unique_k=Sz1PZu</code></p>
 <p>什么叫可笑，这就叫可笑，为了表现出自己对复仇心切的炎之魔女的同情，兼以对作为执行官的“女士”的厌恶，不惜把一个人撕裂成两份立场，小心翼翼地把立场的双腿一边一只摆放好，确认自己并不是“三观不正”的。</p>
 <p>女士的猝死只说明一点，文案和剧情策划的沟通出现了很大问题，最后这个耗费了许多笔墨来刻画的角色也只能被献祭掉。<br>颇有意思的是，米哈游在描写人物的时候总是倾尽全身心的刻板印象，生怕别人看不出一层又一层堆叠起来的流行文化意义的脸谱。</p>
 <p>怎么描写一个人呢，我觉得应该像一次蓄谋已久的激情自杀，枪都是准备好了的，子弹也上了膛，可是自杀的时机应该选在那个时刻呢，应该选在一个大热天轻轻地摸到癞蛤蟆身上的油的时刻，子弹无声地出镗。</p>
 <hr>
-<p>2021-09-27 15:23 from <a href="https://twitter.com/ultramarine471/status/1442389433815224321">https://twitter.com/ultramarine471/status/1442389433815224321</a></p>
+<p>2021-09-27 15:23 from <code>https://web.archive.org/web/20220316112103/https://twitter.com/ultramarine471/status/1442389433815224321</code></p>
 <p>唉这次逐月节的剧情还是一样的问题，我发现原神策划脑子里可能根本没有“冒犯”的意识，表面上是玩梗能力出众，实际上是对人物塑造根本没有底线意识的再次反映。<br>你是要向消费者提供官方内容的，因此在表达上一定要适当地克制，不能毫无底线地消费既有角色和内容，过度的娱乐化带来的必然是角色形象的萎缩甚至矮化。<br>我不否认制作组们的进取心跟技术力，但出现这种问题明显就是过分追求“术”而忽视“道”了。</p>
 ]]></content>
   </entry>
   <entry>
     <title>反奥卡姆</title>
     <url>/Linkeer365TinyMoment/6b02bef8/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1435289674822471681">https://twitter.com/ultramarine471/status/1435289674822471681</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316113338/https://twitter.com/ultramarine471/status/1435289674822471681</code></p>
 <p>人类的无知真令人绝望，我也是第一次知道奥卡姆是中世纪晚期的唯名论者。在我的刻板印象里，这样的人将具备十分接近当下中国年轻一代的思想情感，且跟年轻人一样意识不到自己的新颖地犯着与古人殊无二致的错误。</p>
 <p>如果人们推崇的是奥卡姆剃刀，那可能还停留于无知，然而要是对奥卡姆本人的思想也表示深切认同，然后觉得和当下思想有诸多共鸣，那就基本没救。<br>人在产生解决问题的念头之前，潜意识里至少飘出一百个逃避问题的念头，只不过有许多被过滤了，除了那些带着一些堂皇的理由作为贿金的，奥卡姆就是典例。</p>
 <p>学问上的粗暴比政治上的轻率要严重一万倍。商品经济时代的人们大概率会不屑一顾甚至嗤之以鼻，颇有“不笑不足以为道”的趣味。<br>或许他们也并不总是下士，但勤而修之的到底是不是道，还是某些流行的伦理习俗及其广延，他们大概是不能认定的。</p>
@@ -4178,22 +4178,22 @@
   <entry>
     <title>塔布图腾</title>
     <url>/Linkeer365TinyMoment/4f32d051/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1436236340060852249">https://twitter.com/ultramarine471/status/1436236340060852249</a></p>
-<p>Quote: <a href="https://twitter.com/laojiang2010/status/1435674377098604544">https://twitter.com/laojiang2010/status/1435674377098604544</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316114145/https://twitter.com/ultramarine471/status/1436236340060852249</code></p>
+<p>Quote: <code>https://web.archive.org/web/20220316114224/https://twitter.com/laojiang2010/status/1435674377098604544</code></p>
 <p>“一对耳聋的女同认为耳聋是她们自我身份认同中很重要的一部分，不是什么需要被治愈的疾病。于是在想要小孩的时候，特意找了一个也是耳聋的人的精子，以保证小孩生出来也像她们一样是聋子。她们的事被媒体报道之后，引起了很多人的谴责，但是在听力障碍的人群中却获得了高度认同。”</p>
 <p>非常经典的伦理学问题。</p>
 <p>孩子总是不可避免地沦为家长们的玩物，例如没考上大学的家长希望孩子考上大学，哪怕孩子本身对读书没有一点兴趣；老实巴交被人欺负的家长期待孩子以后做大贪官，贪大钱，泡大洋马……尽管他们对外都会说，我这是望子成龙，希望孩子健康成长。</p>
 <p>实际上我们不该否认这种存在，反倒应该感谢它，在文化意义上家庭总有各种的温情面纱，以此让我们忽视掉它作为语境时的呈现的微观权力。家庭只是一种塔布图腾，这里就不用官能症的分析方法了。</p>
 <p>塔布与图腾来自这里，很浅显的一本书</p>
-<p><a href="https://zhuanlan.zhihu.com/p/138597941">https://zhuanlan.zhihu.com/p/138597941</a></p>
+<p><code>https://web.archive.org/web/20220316114313/https://zhuanlan.zhihu.com/p/138597941</code></p>
 ]]></content>
   </entry>
   <entry>
     <title>奶泡蛋糕-啊请让我永远记住此刻</title>
     <url>/Linkeer365TinyMoment/5ba7897f/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1437739728170741761">https://twitter.com/ultramarine471/status/1437739728170741761</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316114445/https://twitter.com/ultramarine471/status/1437739728170741761</code></p>
 <blockquote>
-<p>其实不是我去吃的，我不会在非正餐上花钱来着，只是看到了小敢的动态: <a href="https://b23.tv/MPJbafa">https://b23.tv/MPJbafa</a><br>我很喜欢白白粉粉的小蛋糕（最好不要太甜，有一点点苦是最好的），但每次想起都会觉得，要是把它吃掉了世界上就没有这么漂亮的蛋糕了。<br>每个蛋糕都是特殊的，我不想把它们当做纯粹的复制品。</p>
+<p>其实不是我去吃的，我不会在非正餐上花钱来着，只是看到了小敢的动态: <code>https://web.archive.org/web/20220316043308/https://t.bilibili.com/568458833097222744?share_medium=android&amp;share_plat=android&amp;share_session_id=a7787f2b-cfb1-4d39-9d8b-abb17145b61c&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1646127825&amp;unique_k=MPJbafa</code><br>我很喜欢白白粉粉的小蛋糕（最好不要太甜，有一点点苦是最好的），但每次想起都会觉得，要是把它吃掉了世界上就没有这么漂亮的蛋糕了。<br>每个蛋糕都是特殊的，我不想把它们当做纯粹的复制品。</p>
 </blockquote>
 <img src="/Linkeer365TinyMoment/5ba7897f/%E5%A5%B6%E6%B3%A1%E8%9B%8B%E7%B3%95.jpg" class="">
 
@@ -4206,7 +4206,7 @@
   <entry>
     <title>射雕</title>
     <url>/Linkeer365TinyMoment/3154dddf/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1439651600662884352">https://twitter.com/ultramarine471/status/1439651600662884352</a><br><a href="https://twitter.com/ultramarine471/status/1439657452010573824">https://twitter.com/ultramarine471/status/1439657452010573824</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316114745/https://twitter.com/ultramarine471/status/1439651600662884352</code><br><code>https://web.archive.org/web/20220316114804/https://twitter.com/ultramarine471/status/1439657452010573824</code></p>
 <p>我一直觉得我爸爸从小跟我讲到大的《射雕英雄传》只是他看完83版之后一厢情愿的分享，回忆起来他除了跟我打游戏，像帝国2和暴力摩托这些，就是跟我讲《射雕英雄传》。</p>
 <p>离谱的是并且貌似是在读幼儿园大班的时候就tm天天打帝国了，那是一台怎么看怎么像翻新机的电脑，我先单机打完然后我爸跟我讲怎么打可以更省事；<br>可惜最后我还是没有成为游戏的奇才，帝国也渐渐不打了。</p>
 <p>他给我讲的《射雕》则更是错漏百出，掺杂了各种误解和主观意见，受他影响，我当时就一直把全真七子跟江南七怪等同起来，这直接导致后续整理记忆的时候产生各种各样的逻辑矛盾。他的重心也放在郭靖的武艺精进之路，跟谁学的武功，哪个人分别会怎样的武功，谁和谁交过手结果怎样。整体看来零散而混乱。</p>
@@ -4222,7 +4222,7 @@
   <entry>
     <title>情感不应成为工具或助力</title>
     <url>/Linkeer365TinyMoment/a979f73d/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1440745200838594565">https://twitter.com/ultramarine471/status/1440745200838594565</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316115428/https://twitter.com/ultramarine471/status/1440745200838594565</code></p>
 <p>被感情挟制的数十个小时从我手边疏忽而过，浮上心头的还是一些无聊的讽刺语句，<br>“请问您一直是以其昏昏使人昭昭的时代先锋吗？”<br>“人们在丝毫不用讲道理的场合，总能爆发出无限的才华，枝江发病小作文就是这样；写出这些文字的才华横溢的他们，有没有真正明白自己想要从神明那里得到什么呢？”</p>
 <p>你们都病了，最大的病就是自发放大自己的情感强度，事实上身处任何一种情感中的思考都会变得有趋向性，你在快乐的一天回忆起的东西，跟你在悲伤的一天回忆起来的东西应该会有所不同。因此思考的时候最好什么情感都没有，这样会更清楚的知道自己的逻辑问题。</p>
 <p>我并没有说要压抑自己的情感，但我也没说要发扬并放大它们，确实有些情感过于强烈会牢牢地控制我们，那在这个时候就不要思考了，等到好一点的时候在看看。</p>
@@ -4231,8 +4231,8 @@
   <entry>
     <title>徐英瑾就是哲棍</title>
     <url>/Linkeer365TinyMoment/4a1f7d1b/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1440749984937222147">https://twitter.com/ultramarine471/status/1440749984937222147</a><br><a href="https://twitter.com/ultramarine471/status/1440754286435057665">https://twitter.com/ultramarine471/status/1440754286435057665</a></p>
-<p>【为什么说欧陆哲学的本质接近文学？分析哲学家咋还能得诺贝尔文学奖？-哔哩哔哩】<a href="https://b23.tv/mnIQrx">https://b23.tv/mnIQrx</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220315190953/https://twitter.com/ultramarine471/status/1440749984937222147</code><br><code>https://web.archive.org/web/20220316115108/https://twitter.com/ultramarine471/status/1440754286435057665</code></p>
+<p>【为什么说欧陆哲学的本质接近文学？分析哲学家咋还能得诺贝尔文学奖？-哔哩哔哩】<code>https://web.archive.org/web/20220316115139/https://www.bilibili.com/video/BV1sh411n7Xk?p=1&amp;share_medium=android&amp;share_plat=android&amp;share_session_id=775cc648-57d4-4f24-a124-72f88f31d2c4&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1632336531&amp;unique_k=mnIQrx</code></p>
 <p>未明子那个家伙的情况已经够可笑的了，徐大人在这方面的幽默感却实则可谓更上一层楼啊！</p>
 <p>有时候我不禁感慨，到底是把哲学当眼罩的人更可笑，还是把哲学当尿布，“以清晰易懂的方式”兜售童子尿的人更恶心呢？</p>
 <p>徐先生在国内还是颇有号召力的，而后世中国从今往后的哲学怕不都是要落入尿布一途，亦可计日而待。<br>你们这辈子不要学哲学了，碰都不要碰，尤其是在这种不是疯就是坏的人当道的时代。下辈子情况好一点了会有更多因缘际会的，不用急。</p>
@@ -4246,7 +4246,7 @@
   <entry>
     <title>水镜，性欲与闪电</title>
     <url>/Linkeer365TinyMoment/11d0e9e6/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1442178496839651331">https://twitter.com/ultramarine471/status/1442178496839651331</a><br><a href="https://twitter.com/ultramarine471/status/1442183580701036548">https://twitter.com/ultramarine471/status/1442183580701036548</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316120444/https://twitter.com/ultramarine471/status/1442178496839651331</code><br><code>https://web.archive.org/web/20220316120548/https://twitter.com/ultramarine471/status/1442183580701036548</code></p>
 <p>可我的心是空的，虚幻之人到来时点起炊烟。</p>
 <p>我曾经无数次构思过一种过渡的情景，水与烟和各式各样的镜子；我总缺少一种介质来从过去沟通到过去，光靠记忆往往会丢失重要的记录。</p>
 <p>前天的大约两小时前我在校内散步，无意间踩死两只蜗牛，虫子的尸体烂泥一般摆在脚边，一瞬间淫欲如同烟花在我全身炸裂开去。<br>我的触发机制是很奇怪的，尤其在虫子和尸体上更是强烈，呕吐的冲动和欲望同步地灌入大脑，我折腾着回到寝室躺下。</p>
@@ -4258,7 +4258,7 @@
   <entry>
     <title>【原神】打局反思</title>
     <url>/Linkeer365TinyMoment/f3a8a7f1/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1431254080958066692">https://twitter.com/ultramarine471/status/1431254080958066692</a><br><a href="https://twitter.com/ultramarine471/status/1431926413729275904">https://twitter.com/ultramarine471/status/1431926413729275904</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316112344/https://twitter.com/ultramarine471/status/1431254080958066692</code><br><code>https://web.archive.org/web/20220316112427/https://twitter.com/ultramarine471/status/1431926413729275904</code></p>
 <p>组队没把人奶起来，班尼特这个内鬼的问题是真的离谱。</p>
 <img src="/Linkeer365TinyMoment/f3a8a7f1/%E5%8F%8D%E6%80%9D-1.jpg" class="">
 
@@ -4272,7 +4272,7 @@
 <p>他认为很厉害而不觉得是我的问题，一种可能是对方的游戏理解不足。但更大的可能则是情商够高，看破不说破，内心里把我当成一个只会修脚刮痧却自鸣得意的憨憨。</p>
 <p>图中“可以了，可以了”的就暗示了这一点，估计人家真心想说”Enough is enough”来着，游戏中都这么照顾别人情绪的，现实生活中应该是一个温暖而世故的人吧。<br>中国人总改不掉温吞的个性，这也是很多问题不能及时得到排查的原因。</p>
 <hr>
-<p>学我者生。尽管原先的那套4如雷班尼特的手法已经被策划改成不能破深渊使徒的盾了，但思路是可以继承的，这就是一个典型的例子。<br><a href="https://b23.tv/m3M4bW">https://b23.tv/m3M4bW</a></p>
+<p>学我者生。尽管原先的那套4如雷班尼特的手法已经被策划改成不能破深渊使徒的盾了，但思路是可以继承的，这就是一个典型的例子。<br><code>https://web.archive.org/web/20220316112437/https://www.bilibili.com/video/BV1JQ4y197vR?p=1&amp;share_medium=android&amp;share_plat=android&amp;share_session_id=1848b888-832a-491a-9888-0ea2aca6501e&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1630232617&amp;unique_k=m3M4bW</code></p>
 <p>大家一定要灵活，要能意识到所有打反应的角色理论上都可以成为一个“法师”，特别是单手剑，某种程度上一定要当做一个法师来看待。</p>
 <p>不管什么武装，落实到伤害上就是触发反应的烈度和频率，触发反应最快的是法师，所以烟绯砂糖都可以武装。这种办法的问题在于法师身板太脆，且频繁打重击会消耗本就不多的用于闪避的体力。<br>于是我当时就想到了用快速的e技能来触发反应，且这个人身板要够硬，然后第一想到班尼特，第二想到芭芭拉。</p>
 <p>理论上任何堆了精通的、能快速触发反应的、有足够硬度（即堆血量或防御力）的角色，都可以胜任驾驶员一职。<br>然后，新的问题出现了，元素的强弱形成的不同消耗比，以及各种反应交汇混杂，导致残留元素抢占反应位置，都使得这种玩法很难得到最优解。</p>
@@ -4286,7 +4286,7 @@
   <entry>
     <title>再谈贫穷陷阱</title>
     <url>/Linkeer365TinyMoment/a3738e70/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1421954021762510850">https://twitter.com/ultramarine471/status/1421954021762510850</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316112938/https://twitter.com/ultramarine471/status/1421954021762510850</code></p>
 <p>贫穷的人一定要有高尚的情操，这里的高尚指的就是去物质化。因为贫穷你就不得不被迫地去物质，这样的性情会让你过得舒服一些。</p>
 <p>富人，乃至但凡有一线希望富起来的人，他们的可悲之处都在于物质上的得失可能，所以他们会把一切的注意力都集中到物质上。强迫症式地向物质与（更加）精致的生活行注目礼。</p>
 <p>穷人最可悲的不是富不起来，而是富起来了思想没跟上去。更可悲的则是思想跟上去了，然后发现一生的劳作都是换回一些无关紧要的物质，而不是生动的活泼的思索。</p>
@@ -4296,7 +4296,7 @@
   <entry>
     <title>猜想xp与智商的correlation</title>
     <url>/Linkeer365TinyMoment/2d2246a2/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1423800242437193732">https://twitter.com/ultramarine471/status/1423800242437193732</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316121419/https://twitter.com/ultramarine471/status/1423800242437193732</code></p>
 <p>盘了一下为什么魔怔人这么喜欢明日方舟，这两者为什么有这么大的correlation，现在想明白了。</p>
 <p>这就跟性快感原理一样，有人喜欢前面，有人喜欢后面，有人摸这个部位比较有效，有人则喜欢被捏捏另一边……这本来是正常现象，可是坏就坏在我们自己不够魔怔，常规的思维模式不适用于他们的场景。</p>
 <p>有没有考虑过，一旦人们的性快感部位，和他的智商有correlation，是不是就能借此推测门萨俱乐部的常规xp，或者是在给不同的各种恋x癖排一个平均智商等级。<br>这件事现在没人做，没人能、也没人敢去做这种优生学类型的事，然而设若这种correlation确实存在，真的就客观存在一个hierarchy那怎么办。</p>
@@ -4306,11 +4306,11 @@
   <entry>
     <title>猪狗</title>
     <url>/Linkeer365TinyMoment/f6f2af29/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1421942876200652817">https://twitter.com/ultramarine471/status/1421942876200652817</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316121449/https://twitter.com/ultramarine471/status/1421942876200652817</code></p>
 <p>好友动态里刷到这样一条，哎</p>
 <img src="/Linkeer365TinyMoment/f6f2af29/%E7%83%AD%E8%AF%84%E6%90%AC%E8%BF%90.jpg" class="">
 
-<p>【北京最早的西餐厅之一，因为觉得牛排不好吃竟然怕影响我心情给我退款？-哔哩哔哩】<a href="https://b23.tv/LolEK0">https://b23.tv/LolEK0</a></p>
+<p>【北京最早的西餐厅之一，因为觉得牛排不好吃竟然怕影响我心情给我退款？-哔哩哔哩】<code>https://web.archive.org/web/20220316121459/https://www.bilibili.com/video/BV1uw411R77Q?p=1&amp;share_medium=android&amp;share_plat=android&amp;share_session_id=81c50a2c-eb3b-4719-bcde-ea179c95a8ce&amp;share_source=COPY&amp;share_tag=s_i&amp;timestamp=1627852604&amp;unique_k=LolEK0</code></p>
 <hr>
 <p>我觉得人类的可悲大概就在这里。一群动物通过观察同种生物的一般个体的某次进食行为，通过这样的仪式来攒够批判的动力。</p>
 
@@ -4328,7 +4328,7 @@
   <entry>
     <title>红线错位</title>
     <url>/Linkeer365TinyMoment/2101fb47/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1428336426505146371">https://twitter.com/ultramarine471/status/1428336426505146371</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316122459/https://twitter.com/ultramarine471/status/1428336426505146371</code></p>
 <p>花了10分钟大概确认了在三年前喜欢的人，目前并没有恋爱的打算，以及确凿地跟我没可能。</p>
 <p>我的红线总是错位，我小学一年级暗恋的人在三年级的时候跟我说喜欢我，而那时我已经对她没感觉了，初一、高一也是同样的戏码，只是高一的那个女生表达得太直白，于是一口回绝后便没有再联系。</p>
 <p>好在类似的闹剧并没有再度上演，除了松一口气以外，我也不禁为自己独特的魅力感到自责，这听起来是很凡尔赛的，但肤浅的女人们确实很容易对一个文笔还可以的人动心，而不去分清他的真实感受、以及正在展开的这份情感的某些质性。世上许多弃妇的悲剧往往从此开始。</p>
@@ -4338,7 +4338,7 @@
   <entry>
     <title>虚假的体悟</title>
     <url>/Linkeer365TinyMoment/8195b64d/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1429453516079255554">https://twitter.com/ultramarine471/status/1429453516079255554</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316123041/https://twitter.com/ultramarine471/status/1429453516079255554</code></p>
 <p>发现了自己的愚不可及。</p>
 <p>我确认在较长的一段时间内都将无法掌握『中介』的能力，仍将被动地接受各种组成式的逻辑，无法分辨对错。</p>
 <p>不过，的确慢慢地越来越能理解为什么网络上的，各种节奏风暴会日复一日频繁发生，准确地来讲他们并不是不思辨，而是怀疑的习惯、取证的动力这方面的不足。</p>
@@ -4348,7 +4348,7 @@
   <entry>
     <title>谈吃人</title>
     <url>/Linkeer365TinyMoment/f9fe9547/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1428353387553181709">https://twitter.com/ultramarine471/status/1428353387553181709</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316124036/https://twitter.com/ultramarine471/status/1428353387553181709</code></p>
 <p>我现在对吃人没有特别的热忱，说明此前的远古人类大约也是不流行吃人的；但是我却对把敌人的口盖骨做成酒器很感兴趣，说明就算是不爱吃人的我们也不讨厌杀人，只是杀人要达成仪式感。</p>
 <p>仪式感就是杀人的准备，这可能是因为活牲的祭祀仪式在野人们中流行了很久，完成仪式后他们就会围着火炉跳舞唱歌交配昏睡，万余年后年轻男女在开着暖气的房子里唱卡拉ok，只可惜少了杀人的前奏，不然处处都是致敬。</p>
 <p>野人在现在的作用，一部分是让人认识到自己是持有智慧灵长类的高贵血统，做人是比做狗要好的，人可以随意地把狗当狗，人把其余的人当狗就需要花些心思，当然这同样也是一种诱惑和挑战，热衷此道的人也不在少数。</p>
@@ -4358,7 +4358,7 @@
   <entry>
     <title>跟cosimo的女权讨论</title>
     <url>/Linkeer365TinyMoment/494073b5/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1422619519478992897">https://twitter.com/ultramarine471/status/1422619519478992897</a><br><a href="https://twitter.com/ultramarine471/status/1422626250418528259">https://twitter.com/ultramarine471/status/1422626250418528259</a><br><a href="https://twitter.com/ultramarine471/status/1422637394822533120">https://twitter.com/ultramarine471/status/1422637394822533120</a><br><a href="https://twitter.com/ultramarine471/status/1422629657245933569">https://twitter.com/ultramarine471/status/1422629657245933569</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316124353/https://twitter.com/ultramarine471/status/1422619519478992897</code><br><code>https://web.archive.org/web/20220316124444/https://twitter.com/ultramarine471/status/1422626250418528259</code><br><code>https://web.archive.org/web/20220316124517/https://twitter.com/ultramarine471/status/1422637394822533120</code><br><code>https://web.archive.org/web/20220316124554/https://twitter.com/ultramarine471/status/1422629657245933569</code></p>
 <p>（cosimo销号了，然后之前的讨论没有及时保存下来，这边就只记录自己的话）</p>
 <p>不会的，讨论才能带来宽容。我个人不喜欢用刻板印象去谈女权，刻板印象的框架太大。<br>我觉得现在的女人已经被刻画为了资本的符号，“漂亮”、“工作轻松不用吃苦”、“找个人嫁了”跟金融资本颇有相似之处。</p>
 <p>弱者向更弱者的抽刃、残害是日常。可是弱者是如何发现与定位更弱者的，弱者是怎么针对性地，通过抽刃来“解气”的，也是很值得深究的。在这点上我宁可相信，是强者对弱者进行了暗示，告诉他们能通过这样的方式进行解气，告诉他们打一百遍墙上的靶子就能成为英雄。</p>
@@ -4376,7 +4376,7 @@
   <entry>
     <title>不依靠逻辑的记忆</title>
     <url>/Linkeer365TinyMoment/723fee1f/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1448709514396459010">https://twitter.com/ultramarine471/status/1448709514396459010</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316112553/https://twitter.com/ultramarine471/status/1448709514396459010</code></p>
 <p>有人问我为什么知道这么多，我想大概是因为巧合吧。不过要是从这些事情自身的毫无意义，到我对这些东西的记忆的毫无意义，从这两个角度讲倒是实至名归。</p>
 <p>我总是记不住重要的东西，因为我的记忆是并不依靠逻辑的。这也许让我在升学过程中吃了一些亏，因为有很多东西是人们觉得理解了就能记住的，而我往往会记不清关键的步骤。<br>举例如，解含参二次方程老是忘记先讨论二次项系数是否为0，为了记住这个我至少花了一整个月。</p>
 <p>有人会以为只是思维发散，因此适合文科。且不说这话是否蕴含一点固有印象成分，其实我的文科也学得一团糟。每次都在及格与不及格之间徘徊，像在舀子之间摇摆的麦芽糖。</p>
@@ -4387,7 +4387,7 @@
   <entry>
     <title>尚未忘记的死者</title>
     <url>/Linkeer365TinyMoment/4b6ad5aa/</url>
-    <content><![CDATA[<p>原帖：<br><a href="https://twitter.com/ultramarine471/status/1448280110918815750">https://twitter.com/ultramarine471/status/1448280110918815750</a><br><a href="https://twitter.com/ultramarine471/status/1448283070776315911">https://twitter.com/ultramarine471/status/1448283070776315911</a></p>
+    <content><![CDATA[<p>原帖：<br><code>https://web.archive.org/web/20220316114828/https://twitter.com/ultramarine471/status/1448280110918815750</code><br><code>https://web.archive.org/web/20220316114850/https://twitter.com/ultramarine471/status/1448283070776315911</code></p>
 <p>又吐血了，不过这样一来大脑应该就会清凉一点。</p>
 <p>那天我又独自坐在屋里，看着窗外的树叶“唰唰啦啦”地飘落。母亲进来了，挡在窗前：“北海的菊花开了，我推着你去看看吧。”她憔悴的脸上现出央求般的神色。“什么时候？”“你要是愿意，就明天?”她说。我的回答已经让她喜出望外了。“好吧，就明天。”我说。她高兴得一会坐下，一会站起，</p>
 <p>“那就赶紧准备准备。”“哎呀，烦不烦？几步路，有什么好准备的！”她也笑了，坐在我身边，絮絮叨叨地说着：“看完菊花，咱们就去‘仿膳’，你小时候最爱吃那儿的豌豆黄儿。还记得那回我带你去北海吗？你偏说那杨树花是毛毛虫，跑着，一脚踩扁一个……”她忽然不说了。</p>
