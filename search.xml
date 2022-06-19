@@ -6,6 +6,9 @@
     <content><![CDATA[<p>原先只是在 _config.yml 里面单开一个 links 字段来写所有链接，但这个字段是属于 blog rolls 的，而 blog rolls 在手机上看不了，必须要在 menu 字段下的才会在手机上显示，现在把它弄成单独的 links 页面并统合到 menu 字段下，这样手机用户就能够查看这些链接了。</p>
 <p>Linkeer365: <a href="https://linkeer365.github.io/">https://linkeer365.github.io/</a><br>Linkeer365ColorfulLife: <a href="http://linkeer365.github.io/Linkeer365ColorfulLife">http://linkeer365.github.io/Linkeer365ColorfulLife</a><br>Linkeer365ColorfulLife2: <a href="http://linkeer365.github.io/Linkeer365ColorfulLife2">http://linkeer365.github.io/Linkeer365ColorfulLife2</a><br>Linkeer365ColorfulLife3: <a href="http://linkeer365.github.io/Linkeer365ColorfulLife3">http://linkeer365.github.io/Linkeer365ColorfulLife3</a><br>Linkeer365TinyMoment: <a href="https://linkeer365.github.io/Linkeer365TinyMoment">https://linkeer365.github.io/Linkeer365TinyMoment</a><br>Linkeer365TinyMoment2: <a href="https://linkeer365.github.io/Linkeer365TinyMoment2">https://linkeer365.github.io/Linkeer365TinyMoment2</a><br>Linkeer365BookReview: <a href="https://linkeer365.github.io/Linkeer365BookReview">https://linkeer365.github.io/Linkeer365BookReview</a></p>
 <p>顺便整理了archive下来的链接，这样只要点进主页就可以查看了：<br>（注意啦，鼠标快速双击+单击就可以快速选中所在的整条链接）</p>
+<p>2022-06-19 13:04:00    《评徒步西藏遇难》<br><code>https://web.archive.org/web/20220619113314/https://linkeer365.github.io/Linkeer365TinyMoment2/67d40b49/</code></p>
+<p>2022-06-19 11:36:00    《纯血的诱惑》<br><code>https://web.archive.org/web/20220619112718/https://linkeer365.github.io/Linkeer365ColorfulLife3/500931781/</code></p>
+<p>2022-06-18 23:16:00    《鬻女》<br><code>https://web.archive.org/web/20220619113158/https://linkeer365.github.io/Linkeer365ColorfulLife3/3508332596/</code></p>
 <p>2022-05-24 09:25:14    《知遇》<br><code>https://web.archive.org/web/20220607145634/https://linkeer365.github.io/Linkeer365ColorfulLife3/1679263689/</code></p>
 <p>2022-05-23 16:53:51    《着床》<br><code>https://web.archive.org/web/20220607145622/https://linkeer365.github.io/Linkeer365ColorfulLife3/3257065796/</code></p>
 <p>2022-05-15 15:44:54    《好好吃饭》<br><code>https://web.archive.org/web/20220523123901/https://linkeer365.github.io/Linkeer365ColorfulLife3/908619546/</code></p>
@@ -2943,20 +2946,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>流景闲草-杂感收集</title>
-    <url>/Linkeer365TinyMoment/792f87e3/</url>
-    <content><![CDATA[<img src="/Linkeer365TinyMoment/792f87e3/Screenshot_20200713_153345.jpg" class="">
-<img src="/Linkeer365TinyMoment/792f87e3/Screenshot_20200713_153400.jpg" class="">
-<img src="/Linkeer365TinyMoment/792f87e3/Screenshot_20200713_153418.jpg" class="">
-<img src="/Linkeer365TinyMoment/792f87e3/Screenshot_20200713_153428.jpg" class="">
-<img src="/Linkeer365TinyMoment/792f87e3/Screenshot_20200713_153501.jpg" class="">
-<img src="/Linkeer365TinyMoment/792f87e3/Screenshot_20200713_153543.jpg" class="">
-<img src="/Linkeer365TinyMoment/792f87e3/Screenshot_20200713_153723.jpg" class="">
-<img src="/Linkeer365TinyMoment/792f87e3/Screenshot_20200713_153825.jpg" class="">
-<img src="/Linkeer365TinyMoment/792f87e3/Screenshot_20200713_153848.jpg" class="">
-]]></content>
-  </entry>
-  <entry>
     <title>我不做科学人啦，JOJO</title>
     <url>/Linkeer365TinyMoment/4c500b8f/</url>
     <content><![CDATA[<img src="/Linkeer365TinyMoment/4c500b8f/Screenshot_20200713_152749.jpg" class="">
@@ -2972,6 +2961,20 @@
 <p>要是他果真有什么改变世界以符合自己意愿的装置，从基础科学开始学起来，之后去研发通用人工智能，意识上传什么的才是正途。<br>是这样的，我打算给他一本《科学究竟是什么》看看（虽然他现在出远门估计没什么空）<br>但这方面主要是我自己的态度要检讨，因为他应该是摒弃了很多的羞耻与胆怯问出这个问题，而我当时却没有把它回答好</p>
 <p>只有我一个人觉得中二其实非常可爱吗？如果定义大二看不懂数据结构与算法是很菜，那研究生毕业还刷不透leetcode岂不是菜到猪都不来拱了。现在高中课本对课程难度的介绍出了大问题。黑格尔和马克思的难度不知道比康德大了几个数量级，辩证法是最难理解的，却要一开始就灌输进去，还以为这多么简单。实际上最简单的认识论就是一个主体（不仅仅是人，也可以是具备先验指令集的cpu之类），一个客体（就是世界，无论是不是能够全部都被访问到）。正因为这样简单的二元结构，所以我们很多人在这艘破船上下不来了。哪有人愿意舍弃简单的解释型语言去用复杂的c++，除非迫不得已。<br>在科学世界观下不去依赖科学力量的人，在幻想的世界里也不会修炼地比别人刻苦，也会在看了几本故事书之后觉得世界还是不合他意。</p>
 <p>科学就是信仰本身<br>菜是相对的概念。像原想法中那样的“觉得世界不合他心意”却又看不起科学的人，菜。如果一个人就是想不经什么思考，跟着社会均值活个70年，那不懂数学物理也不叫菜的。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>流景闲草-杂感收集</title>
+    <url>/Linkeer365TinyMoment/792f87e3/</url>
+    <content><![CDATA[<img src="/Linkeer365TinyMoment/792f87e3/Screenshot_20200713_153345.jpg" class="">
+<img src="/Linkeer365TinyMoment/792f87e3/Screenshot_20200713_153400.jpg" class="">
+<img src="/Linkeer365TinyMoment/792f87e3/Screenshot_20200713_153418.jpg" class="">
+<img src="/Linkeer365TinyMoment/792f87e3/Screenshot_20200713_153428.jpg" class="">
+<img src="/Linkeer365TinyMoment/792f87e3/Screenshot_20200713_153501.jpg" class="">
+<img src="/Linkeer365TinyMoment/792f87e3/Screenshot_20200713_153543.jpg" class="">
+<img src="/Linkeer365TinyMoment/792f87e3/Screenshot_20200713_153723.jpg" class="">
+<img src="/Linkeer365TinyMoment/792f87e3/Screenshot_20200713_153825.jpg" class="">
+<img src="/Linkeer365TinyMoment/792f87e3/Screenshot_20200713_153848.jpg" class="">
 ]]></content>
   </entry>
   <entry>
